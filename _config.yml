@@ -1,0 +1,35 @@
+title: "AI Tech Daily"
+description: "AIが毎日テックニュースを収集・5つの視点で分析するサイト"
+url: "https://yykk1109b-prog.github.io"
+baseurl: "/ai-tech-daily"
+timezone: Asia/Tokyo
+lang: ja
+
+permalink: /:year/:month/:day/:title/
+
+theme: minima
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  posts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - scripts/
+  - Gemfile.lock
+  - README.md
+  - vendor/

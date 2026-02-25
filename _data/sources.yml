@@ -1,0 +1,29 @@
+- name: "Hacker News"
+  url: "https://hnrss.org/newest?points=100"
+  category: "general"
+  language: "en"
+
+- name: "TechCrunch AI"
+  url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+  category: "ai"
+  language: "en"
+
+- name: "The Verge AI"
+  url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  category: "ai"
+  language: "en"
+
+- name: "MIT Technology Review"
+  url: "https://www.technologyreview.com/feed/"
+  category: "research"
+  language: "en"
+
+- name: "GIGAZINE"
+  url: "https://gigazine.net/news/rss_2.0/"
+  category: "general"
+  language: "ja"
+
+- name: "ITmedia AI+"
+  url: "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"
+  category: "ai"
+  language: "ja"

@@ -7,3 +7,5 @@ vendor/
 .bundle/
 .env
 node_modules/
+scripts/venv/
+_data/today_news.json

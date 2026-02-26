@@ -7,7 +7,7 @@ lang: ja
 
 permalink: /:year/:month/:day/:title/
 
-theme: minima
+# theme: minima (replaced with custom theme)
 
 markdown: kramdown
 highlighter: rouge

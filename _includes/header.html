@@ -1,0 +1,18 @@
+<header class="site-header">
+  <div class="header-inner">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="logo-mark">AI</span>
+      {{ site.title | default: "AI Tech Daily" }}
+    </a>
+    <button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="site-nav">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="site-nav" id="site-nav" role="navigation" aria-label="Primary">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/categories' | relative_url }}">Categories</a>
+      <a href="{{ '/about' | relative_url }}">About</a>
+    </nav>
+  </div>
+</header>

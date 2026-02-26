@@ -1,0 +1,16 @@
+{% if site.google_adsense %}
+<!-- Google AdSense -->
+<div class="ad-container">
+  <ins class="adsbygoogle"
+    style="display:block"
+    data-ad-client="{{ site.google_adsense }}"
+    {% if site.google_adsense_slot %}data-ad-slot="{{ site.google_adsense_slot }}"{% endif %}
+    data-ad-format="auto"
+    data-full-width-responsive="true"></ins>
+</div>
+{% else %}
+<!-- AdSense placeholder: set google_adsense and google_adsense_slot in _config.yml -->
+<div class="ad-container">
+  <span>Ad Space</span>
+</div>
+{% endif %}

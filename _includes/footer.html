@@ -1,0 +1,17 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">{{ site.title | default: "AI Tech Daily" }}</div>
+      <p class="footer-desc">{{ site.description | default: "AIが毎日テックニュースを収集・5つの視点で分析するサイト" }}</p>
+    </div>
+    <div class="footer-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about' | relative_url }}">About</a>
+      <a href="{{ '/categories' | relative_url }}">Categories</a>
+      <a href="{{ '/feed.xml' | relative_url }}">RSS Feed</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    &copy; {{ site.time | date: '%Y' }} {{ site.title | default: "AI Tech Daily" }}. AI-powered news analysis.
+  </div>
+</footer>

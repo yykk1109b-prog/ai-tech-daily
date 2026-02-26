@@ -1,12 +1,16 @@
 from __future__ import annotations
 
 import json
+import socket
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
 import yaml
+
+# Set default timeout for all socket operations (including feedparser)
+socket.setdefaulttimeout(10)
 
 
 def main() -> None:
@@ -32,6 +36,7 @@ def main() -> None:
     # Fetch articles
     articles = []
     seen_urls = set()
+    failed_feeds = []
     now = datetime.now(timezone.utc)
     cutoff_time = now - timedelta(hours=24)
 
@@ -99,11 +104,28 @@ def main() -> None:
                     articles.append(article)
 
         except Exception as e:
+            error_msg = str(e)
             print(
-                f"Error fetching feed '{source_name}' from {source_url}: {e}",
+                f"Error fetching feed '{source_name}' from {source_url}: {error_msg}",
                 file=sys.stderr,
             )
+            failed_feeds.append({"name": source_name, "url": source_url, "error": error_msg})
             continue
+
+    # Display summary of failed feeds
+    if failed_feeds:
+        print(f"\n{len(failed_feeds)} feed(s) failed to fetch:", file=sys.stderr)
+        for failed in failed_feeds:
+            print(f"  - {failed['name']}: {failed['error']}", file=sys.stderr)
+
+    # Check if any articles were fetched
+    if len(articles) == 0:
+        print("\nNo articles fetched from any feed.", file=sys.stderr)
+        print("This might indicate:", file=sys.stderr)
+        print("  - All feeds are down or timing out", file=sys.stderr)
+        print("  - No new articles in the last 24 hours", file=sys.stderr)
+        print("  - Network connectivity issues", file=sys.stderr)
+        sys.exit(2)
 
     # Sort by published date (newest first), with None dates at the end
     articles.sort(

@@ -1,6 +1,7 @@
 - id: "breaking"
   name: "速報まとめ"
   icon: "⚡"
+  min_chars: 150
   max_chars: 300
   prompt: |
     以下のニュースを150〜300字で速報形式にまとめてください。
@@ -20,6 +21,7 @@
 - id: "developer"
   name: "開発者視点"
   icon: "💻"
+  min_chars: 250
   max_chars: 500
   prompt: |
     以下のニュースをソフトウェアエンジニアの視点で250〜500字で分析してください。
@@ -41,6 +43,7 @@
 - id: "business"
   name: "ビジネス視点"
   icon: "📊"
+  min_chars: 250
   max_chars: 500
   prompt: |
     以下のニュースをビジネス・経営の視点で250〜500字で分析してください。
@@ -62,6 +65,7 @@
 - id: "beginner"
   name: "初心者向け解説"
   icon: "📖"
+  min_chars: 200
   max_chars: 400
   prompt: |
     以下のニュースを技術初心者にもわかるように200〜400字で解説してください。
@@ -82,6 +86,7 @@
 - id: "ideas"
   name: "活用アイデア"
   icon: "💡"
+  min_chars: 200
   max_chars: 400
   prompt: |
     以下のニュースに関連して、実際に活用できるアイデアを200〜400字で提案してください。

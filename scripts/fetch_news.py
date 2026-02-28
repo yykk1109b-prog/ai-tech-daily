@@ -9,7 +9,9 @@ from pathlib import Path
 import feedparser
 import yaml
 
-# Set default timeout for all socket operations (including feedparser)
+# Set default timeout for all socket operations (including feedparser).
+# This is safe here because fetch_news.py runs as a standalone CLI script,
+# not as part of a long-running service or multi-threaded application.
 socket.setdefaulttimeout(10)
 
 

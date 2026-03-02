@@ -5,6 +5,24 @@ baseurl: "/ai-tech-daily"
 timezone: Asia/Tokyo
 lang: ja
 
+# OGP (Open Graph Protocol) Settings
+twitter:
+  card: summary_large_image
+
+social:
+  name: AI Tech Daily
+  links:
+    - https://github.com/yykk1109b-prog/ai-tech-daily
+
+# SEO & Analytics (Uncomment and configure as needed)
+# google_site_verification: ""
+# google_adsense: ""
+
+# Author Information
+author:
+  name: AI Tech Daily
+  url: https://github.com/yykk1109b-prog
+
 permalink: /:year/:month/:day/:title/
 
 # theme: minima (replaced with custom theme)
@@ -27,6 +45,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      image: assets/images/og-default.svg
 
 exclude:
   - scripts/

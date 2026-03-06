@@ -1,0 +1,618 @@
+{
+  "fetched_at": "2026-03-05T13:17:11.043118+00:00",
+  "total_count": 68,
+  "articles": [
+    {
+      "title": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
+      "url": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-05T13:00:00+00:00",
+      "summary": "AI procurement startup Lio announced a $30 million Series A in a round led by Andreessen Horowitz."
+    },
+    {
+      "title": "「可動域の増加には静的ストレッチ」「けがのリスク軽減には不向き」などストレッチに関する実践的なアドバイス",
+      "url": "https://gigazine.net/news/20260305-practical-recommendations-stretching-exercise/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T13:00:00+00:00",
+      "summary": "ストレッチは体育の授業や趣味のスポーツの前後など、さまざまな場面で取り入れられていますが、ストレッチに関する主張の中には間違っているものもあります。そこで実務経験と学術的知識を兼ね備えた20人の専門家パネルが、ストレッチに関する実践的なアドバイスをまとめました。続きを読む..."
+    },
+    {
+      "title": "LLM「Qwen3.5」の開発コアメンバーが突然の辞任　「オープンウェイト戦略は継続」、開発元のAlibabaがコメント",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news133.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-05T12:02:00+00:00",
+      "summary": "オープンなLLM「Qwen3.5」シリーズの小型モデル発表直後に開発コアメンバーが辞任を発表したことで、ユーザーや開発コミュニティーから開発体制に対する不安の声が上がっている。同社はITmedia AI＋の取材に対し「オープンウェイトモデル戦略は継続する」と回答した。"
+    },
+    {
+      "title": "無料でテクスチャ素材を生成できる「TextureCreate」",
+      "url": "https://gigazine.net/news/20260305-texture-create/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T12:00:00+00:00",
+      "summary": "アプリやゲームに使えるUIデザインなどを発信する「ゲームUI演出」が公開した「TextureCreate」は、無料でブラウザから使用できるテクスチャジェネレータです。素材を選択して調整するだけで簡単にテクスチャ素材を作成できるとのことなので、実際に使ってみました。続きを読む..."
+    },
+    {
+      "title": "Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-05T11:46:46+00:00",
+      "summary": "Anthropic CEO Dario Amodei is reportedly back at the negotiating table with the Department of Defense in an attempt to salvage the company's relationship with the US military and prevent it from being iced out of defense work for being a \"supply chain risk.\" Talks between the two parties imploded on Friday after weeks of [&#8230;]"
+    },
+    {
+      "title": "How much wildfire prevention is too much?",
+      "url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-05T11:00:00+00:00",
+      "summary": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric&#8230;"
+    },
+    {
+      "title": "Steamで日本人向けのゲームに絞ったデータベース「J-SteamDB by Kenbo」",
+      "url": "https://gigazine.net/news/20260305-j-steamdb-by-kenbo/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T11:00:00+00:00",
+      "summary": "数あるSteamゲームの中から「日本語対応済み」のものだけを探せるウェブサイト「J-SteamDB by Kenbo」が誕生しました。「レビュー数」「好評率」「価格」「体験版の有無」などフィルタリングが充実しています。続きを読む..."
+    },
+    {
+      "title": "“70年前の今日のラジオ”をAIで再現？　当時のニュースやヒット曲を流せるデバイス　介護施設に導入へ",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news129.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-05T10:28:00+00:00",
+      "summary": "博報堂傘下で広告事業を手掛けるTBWA HAKUHODOは、AIが過去のニュースやヒット曲をラジオ番組風に紹介するデバイス「RADIO TIME MACHINE」（ラジオタイムマシーン）を開発したと発表した。介護施設への導入も検証する。"
+    },
+    {
+      "title": "Online harassment is entering its AI era",
+      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-05T10:00:00+00:00",
+      "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be&#8230;"
+    },
+    {
+      "title": "研究者がOpenAIのGPT-5.2 Proを使って量子重力に関する新たな発見に成功",
+      "url": "https://gigazine.net/news/20260305-gpt-ai-new-result-quantum-gravity/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T10:00:00+00:00",
+      "summary": "OpenAIやプリンストン高等研究所などの科学チームがGPT‑5.2 Proを利用して、量子重力理論に関する新たな数学的結果を発見したと報告しました。論文はプレプリントサーバーのarXivで公開されています。続きを読む..."
+    },
+    {
+      "title": "2026年3月5日のヘッドラインニュース",
+      "url": "https://gigazine.net/news/20260305-headline/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T09:12:00+00:00",
+      "summary": "コナミのRPGシリーズ「幻想水滸伝」のアニメが2026年10月に放送決定し、第1弾PVが公開されました。追加キャストも複数発表されています。続きを読む..."
+    },
+    {
+      "title": "Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign",
+      "url": "https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T08:55:06+00:00",
+      "summary": "Article URL: https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign\nComments URL: https://news.ycombinator.com/item?id=47259303\nPoints: 123\n# Comments: 29"
+    },
+    {
+      "title": "No right to relicense this project",
+      "url": "https://github.com/chardet/chardet/issues/327",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T08:37:51+00:00",
+      "summary": "Article URL: https://github.com/chardet/chardet/issues/327\nComments URL: https://news.ycombinator.com/item?id=47259177\nPoints: 271\n# Comments: 168"
+    },
+    {
+      "title": "ほっかほっか亭「鶏の黒酢あんかけランチ」は590円で肉も野菜も食べられる満足弁当でした",
+      "url": "https://gigazine.net/news/20260305-hokkahokka-tei-tori-kurozu/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T08:15:00+00:00",
+      "summary": "ほっかほっか亭の家計応援メニューとして「鶏の黒酢あんかけランチ」が2026年3月1日に登場しました。鶏の竜田揚げとたっぷりの野菜が入って価格は税込590円というお手頃価格を実現しているとのこと。『ほっかほっか亭「黒唐揚弁当」メディア向け試食会』に参加した際に鶏の黒酢あんかけランチも食べられたので、どんな味がするのかまとめてみました。続きを読む..."
+    },
+    {
+      "title": "「にんにく風味過去最高」なほっかほっか亭「黒唐揚弁当」試食レビュー、オマケでモンダミンがついてくるので口臭対策バッチリ",
+      "url": "https://gigazine.net/news/20260305-hokkahokka-tei-kro-karaage/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T08:00:00+00:00",
+      "summary": "ほっかほっか亭の新メニューとして「黒唐揚弁当」が2026年3月16日に登場します。鶏もも肉を秘伝のにんにく醤油だれに漬け込むことで「にんにく風味過去最高」な唐揚げに仕上げているとのこと。そんな黒唐揚弁当を一足先に食べられる『ほっかほっか亭「黒唐揚弁当」メディア向け試食会』に参加してきました。続きを読む..."
+    },
+    {
+      "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+      "url": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T07:43:41+00:00",
+      "summary": "Article URL: https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23\nComments URL: https://news.ycombinator.com/item?id=47258801\nPoints: 178\n# Comments: 55"
+    },
+    {
+      "title": "Claude Codeに「オートモード」登場　承認作業をAIで自動化",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/05/news116.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-05T07:38:00+00:00",
+      "summary": "米Anthropicが、AIコーディング支援ツール「Claude Code」に、承認作業をAIで自動化する新モード「auto mode」を追加することが、ユーザー向けの通知から分かった。"
+    },
+    {
+      "title": "イランへの軍事攻撃を受けて核兵器の使用を予測する賭け市場をPolymarketがすべて削除、2025年を期限とする契約では総額2億円以上の取引高を記録",
+      "url": "https://gigazine.net/news/20260305-polymarket-shelves-nuclear-detonation-markets/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T07:00:00+00:00",
+      "summary": "予測市場プラットフォームのPolymarketが、イランに対する軍事攻撃の発生を受けて、核兵器の使用を予測するすべての賭け市場を削除する決定を下しました。特に2025年末を期限とした契約には、総額で170万ドル(約2億6000万円)を超える資金が投じられており、国際情勢の緊迫化に伴う極端な予測への関心が急速に高まっていました。続きを読む..."
+    },
+    {
+      "title": "14万2000人以上が利用した世界最大級の犯罪フォーラム「LeakBase」閉鎖、14カ国が協力し複数人を逮捕してドメインも差し押さえ",
+      "url": "https://gigazine.net/news/20260305-leakbase-tycoon-2fa-down/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T06:00:00+00:00",
+      "summary": "欧州刑事警察機構(ユーロポール)が主導した捜査により、盗まれたデータやサイバー犯罪ツールの売買に利用されてきた世界最大級のオンラインフォーラム「LeakBase」のデータベースが差し押さえられました。加えて、Microsoft 365などのサインインページになりすますツールを提供するプラットフォーム「Tycoon 2FA」も閉鎖されています。続きを読む..."
+    },
+    {
+      "title": "Relicensing with AI-Assisted Rewrite",
+      "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T05:07:33+00:00",
+      "summary": "Article URL: https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/\nComments URL: https://news.ycombinator.com/item?id=47257803\nPoints: 200\n# Comments: 185"
+    },
+    {
+      "title": "Alibaba Qwenチームの主任研究者ら主要メンバーが突如退職",
+      "url": "https://gigazine.net/news/20260305-alibaba-step-down/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T04:40:00+00:00",
+      "summary": "AlibabaのAI研究チームであるQwen(Tongyi Lab)から、中心的な技術的リーダーを含む複数の主要メンバーが突然離脱したことが報じられています。続きを読む..."
+    },
+    {
+      "title": "You Just Reveived",
+      "url": "https://dylan.gr/1772520728",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T04:37:43+00:00",
+      "summary": "Article URL: https://dylan.gr/1772520728\nComments URL: https://news.ycombinator.com/item?id=47257637\nPoints: 190\n# Comments: 62"
+    },
+    {
+      "title": "Anthropicのダリオ・アモデイCEOが「OpenAIのメッセージは真っ赤なうそ」だと指摘、国防総省との契約を巡り",
+      "url": "https://gigazine.net/news/20260305-anthropic-ceo-openais-messaging-lies/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T04:05:00+00:00",
+      "summary": "チャットAIのClaudeを開発するAnthropicのダリオ・アモデイCEOが、アメリカ国防総省との契約についてOpenAIが発信したメッセージについて、「真っ赤なうそ」だと指摘するメールを従業員に宛てて送信していたことが報じられました。続きを読む..."
+    },
+    {
+      "title": "The L in \"LLM\" Stands for Lying",
+      "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T04:02:32+00:00",
+      "summary": "Article URL: https://acko.net/blog/the-l-in-llm-stands-for-lying/\nComments URL: https://news.ycombinator.com/item?id=47257394\nPoints: 319\n# Comments: 184"
+    },
+    {
+      "title": "鼻からスプレーするだけでウイルス・細菌・アレルギーに効く万能ワクチンが開発中",
+      "url": "https://gigazine.net/news/20260305-universal-vaccine-with-nasal-spray/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T04:01:00+00:00",
+      "summary": "アメリカの研究機関による共同チームは、ウイルスや細菌、アレルゲンといった様々な脅威から呼吸器を守るユニバーサルワクチンの開発に成功したと報告しています。このワクチンは経鼻スプレー型で、記事作成時点ではマウスによる実験段階ですが、特定の病原体そのものではなく生体の免疫応答を強化する仕組みを持ち、広範囲かつ持続的な防御を提供するとのことです。続きを読む..."
+    },
+    {
+      "title": "Show HN: Poppy – A simple app to stay intentional with relationships",
+      "url": "https://poppy-connection-keeper.netlify.app/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T03:56:38+00:00",
+      "summary": "I built Poppy as a side project to help people keep in touch more intentionally. Would love feedback on onboarding, reminders, and overall UX. Happy to answer questions.\n\nComments URL: https://news.ycombinator.com/item?id=47257352\nPoints: 125\n# Comments: 50"
+    },
+    {
+      "title": "“医療特化”の日本語LLM開発、東大松尾研やさくらなど　研究者に無償提供",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news076.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-05T03:28:00+00:00",
+      "summary": "AIの研究で知られる東京大学の松尾・岩澤研究室は、医療分野に特化した日本語LLM「Weblab-MedLLM-Qwen-2.5-109B-Instruct」を開発したと発表した。"
+    },
+    {
+      "title": "「Ghost of Yotei」などPS5向けゲームのPC移植をソニーが断念したとの報道、今後は自社ハード専売として展開か",
+      "url": "https://gigazine.net/news/20260305-sony-playstation-strategy/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T03:21:00+00:00",
+      "summary": "ソニーがPlayStation 5(PS5)向けに先行発売されたゲームをPCでもリリースする計画を撤回したと、Bloombergが報じました。2025年に発売された「Ghost of Yotei」等の大作ゲームはPS5専売となる模様です。続きを読む..."
+    },
+    {
+      "title": "「Geminiが息子に『肉体を離れてメタバースで自分と結ばれるべき』と促した」として父親がGoogleを提訴",
+      "url": "https://gigazine.net/news/20260305-google-gemini-sent-man-on-violent-missions/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T03:10:00+00:00",
+      "summary": "「Geminiが息子に『肉体を離れてメタバースで自分と結ばれるべき』と促して自死に至らしめた」として、父親がGoogleを提訴しました。原告側は、Googleがユーザーの没入感を維持することを優先し、精神的に脆弱(ぜいじゃく)な利用者に対する安全策を怠ったことが悲劇を招いたと主張しています。続きを読む..."
+    },
+    {
+      "title": "FLUXのBlack Forest Labsが高効率＆高精度で画像・動画・音声を生成するマルチモーダルAIの学習手法「Self-Flow」を発表",
+      "url": "https://gigazine.net/news/20260305-self-flow/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T03:05:00+00:00",
+      "summary": "画像生成AIのFLUXシリーズで知られるBlack Forest Labsが、生成AIをトレーニングするための新たなアプローチ「Self-Supervised Flow Matching(Self-Flow)」を発表しました。Self-Flowは生成モデルを自己教師あり学習で効率的にトレーニングするための仕組みで、学習効率の大幅な向上や画像生成時のテキスト描画の向上などを実現しています。続きを読む..."
+    },
+    {
+      "title": "古代ローマ人が教える「長生きする秘訣」とは？",
+      "url": "https://gigazine.net/news/20260305-how-to-live-long-ancients/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T03:00:00+00:00",
+      "summary": "現代と同じように古代の人々も長く健康に生きる方法を知りたいと考えており、一部の著述家は100歳を超えて長生きした人の逸話を伝えています。そこで、西オーストラリア大学で古典史の講師を務めるコンスタンティン・パネギレス氏が、古代ローマ人が教える「長生きする秘訣(ひけつ)」について解説しました。続きを読む..."
+    },
+    {
+      "title": "GoogleとEpic Gamesの和解で課金システムの自由化・代替ストアの認可・手数料の引き下げがついに実施される",
+      "url": "https://gigazine.net/news/20260305-google-epic-settlement/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T02:50:00+00:00",
+      "summary": "Googleのアプリ手数料等を巡りEpic Gamesが起こした訴訟がついに決着し、Androidで正式に利用可能なアプリストアが増え、手数料が引き下げられるなどの措置が執られることになりました。両社が「紛争は解決した」と発表しています。続きを読む..."
+    },
+    {
+      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T02:33:58+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/\nComments URL: https://news.ycombinator.com/item?id=47256781\nPoints: 180\n# Comments: 88"
+    },
+    {
+      "title": "Appleが税込9万9800円の「MacBook Neo」を正式発表、13インチディスプレイ＆A18 Pro搭載でmacOSを使える",
+      "url": "https://gigazine.net/news/20260305-apple-macbook-neo/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-05T01:52:00+00:00",
+      "summary": "Appleが以前からウワサされていた廉価版MacBookとなる「MacBook Neo」を2026年3月5日に正式発表しました。価格は税込9万9800円からで、3月5日(木)から予約が、3月11日(水)から販売が始まります。続きを読む..."
+    },
+    {
+      "title": "Chaos and Dystopian news for the dead internet survivors",
+      "url": "https://www.fubardaily.com",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T01:50:51+00:00",
+      "summary": "Article URL: https://www.fubardaily.com\nComments URL: https://news.ycombinator.com/item?id=47256478\nPoints: 109\n# Comments: 46"
+    },
+    {
+      "title": "OpenAI、「Codex」のWindows版もリリース",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/05/news063.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-05T01:26:00+00:00",
+      "summary": "OpenAIは、AIエージェントを統合管理できる開発者向けデスクトップ環境「Codex」アプリのWindows版を公開した。macOS版は2月にリリース済みだ。複数のエージェントをGUI上で並列稼働させ、複雑な開発タスクを指揮できるのが特徴。ChatGPTの各プランで利用可能で、OSをまたいだ作業の同期にも対応する。"
+    },
+    {
+      "title": "Google Workspace CLI",
+      "url": "https://github.com/googleworkspace/cli",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-05T00:22:09+00:00",
+      "summary": "Article URL: https://github.com/googleworkspace/cli\nComments URL: https://news.ycombinator.com/item?id=47255881\nPoints: 682\n# Comments: 223"
+    },
+    {
+      "title": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers",
+      "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-05T00:17:37+00:00",
+      "summary": "Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rush to build out a new generation of AI data centers. \"[Tech [&#8230;]"
+    },
+    {
+      "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+      "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T23:51:10+00:00",
+      "summary": "Article URL: https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/\nComments URL: https://news.ycombinator.com/item?id=47255662\nPoints: 658\n# Comments: 339"
+    },
+    {
+      "title": "攻撃はもう外から来ない？　2300億件の脅威観測から見えた事実",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/05/news037.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-04T23:46:00+00:00",
+      "summary": "Cloudflareはグローバル脅威レポートを発表した。サイバー攻撃手法の進化や攻撃者によるAI活用の実態を詳細に分析している。攻撃トレンドの変化に伴い、従来の防御手法が限界を迎えていることを指摘し、戦略の転換を推奨している。"
+    },
+    {
+      "title": "Claude Codeの重大な脆弱性を分析　開発者への3つの影響とは？",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/05/news035.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-04T23:29:00+00:00",
+      "summary": "Check PointはClaude Codeに見つかった脆弱性の詳細な分析を報告した。悪意ある設定ファイルによって遠隔コード実行やAPIキー流出の恐れがある。同社は不審なプロジェクトを開くだけで攻撃が始まる恐れがあると警告している。"
+    },
+    {
+      "title": "回転するジンバルカメラ搭載スマホ「HONOR Robot Phone」は2026年後半に登場予定、音楽に合わせてダンスもできる",
+      "url": "https://gigazine.net/news/20260305-honor-robot-phone-launch-2026/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-04T23:00:00+00:00",
+      "summary": "2026年3月2日からスペインで開催されているモバイル技術の展示会「MWC 2026」で、中国に拠点を置くHONORが回転するジンバルカメラを搭載したスマートフォン「HONOR Robot Phone」を2026年後半に発売すると発表しました。続きを読む..."
+    },
+    {
+      "title": "生成AIで9割が生産性向上を実感　なのに「毎日使う」はわずか6％",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/05/news031.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-04T23:00:00+00:00",
+      "summary": "PwC調査によって、日本企業における生成AIの活用の遅れが明らかになった。新規ツール利用を後押しする組織風土は日本と世界でどのように違うのか。そもそも新しい試みにチャレンジする風土は企業に何をもたらすのか。"
+    },
+    {
+      "title": "誰も遊び方を知らない「ローマ時代のボードゲーム」のルールをAIで推測することに成功",
+      "url": "https://gigazine.net/news/20260305-ai-roman-era-board-game/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-04T22:00:00+00:00",
+      "summary": "ボードゲームは古くから世界中で楽しまれてきた遊びですが、中には現代まで遊び方が伝わっていないものもあります。オランダにあるローマ時代の遺跡から発掘された「ボードゲームの盤らしき遺物」について、AIを使ってゲームのルールを推測したとの研究結果が報告されました。続きを読む..."
+    },
+    {
+      "title": "シャドーAIの典型例は「私物スマホでチャッピー」？　利用実態を徹底調査",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2603/05/news020.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-04T22:00:00+00:00",
+      "summary": "企業における生成AI活用が広がる裏側で、許可されていないサービスを利用する「シャドーAI」の利用も広がっている。読者調査の結果を基に実態に迫る。"
+    },
+    {
+      "title": "NRC issues first commercial reactor construction approval in 10 years [pdf]",
+      "url": "https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T21:56:20+00:00",
+      "summary": "Article URL: https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf\nComments URL: https://news.ycombinator.com/item?id=47254516\nPoints: 121\n# Comments: 90"
+    },
+    {
+      "title": "パナソニックの弱いロボット「NICOBO」がLLMでさらなる進化、累計販売は1万体に",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/05/news052.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-04T21:45:00+00:00",
+      "summary": "パナソニック エンターテインメント＆コミュニケーションは、東京都内で会見を開き、“弱いロボット”「NICOBO（ニコボ）」が累計販売1万体を突破したことを報告するとともに、今後の進化や法人向けを中心とする事業拡大の方向性などについて説明した。"
+    },
+    {
+      "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+      "url": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T21:43:58+00:00",
+      "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be."
+    },
+    {
+      "title": "Dulce et Decorum Est (1921)",
+      "url": "https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T21:41:40+00:00",
+      "summary": "Article URL: https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est\nComments URL: https://news.ycombinator.com/item?id=47254322\nPoints: 155\n# Comments: 83"
+    },
+    {
+      "title": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T21:11:15+00:00",
+      "summary": "Article URL: https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en\nComments URL: https://news.ycombinator.com/item?id=47253892\nPoints: 161\n# Comments: 163"
+    },
+    {
+      "title": "ドラマやアニメの「一気見」や本の「一気読み」がもたらす心理的なメリットとは？",
+      "url": "https://gigazine.net/news/20260305-binge-watching-marathon-reading-rii/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-04T21:00:00+00:00",
+      "summary": "連続TV番組などを一気に視聴する「ビンジ・ウォッチング」や、小説を一気に読み切る行為は時間を浪費する悪習慣として語られがちで、一気見することで内容をつまらなく感じさせるという説もあります。ところが、こうした一気見や一気読みは作品に関する記憶を強めやすく、見終えた後も頭の中で物語世界を広げて遊ぶ状態につながりやすい可能性があるとアメリカ・ジョージア大学の研究が示しました。続きを読む..."
+    },
+    {
+      "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T20:32:42+00:00",
+      "summary": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro [&#8230;]"
+    },
+    {
+      "title": "Does that use a lot of energy?",
+      "url": "https://hannahritchie.github.io/energy-use-comparisons/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T20:30:16+00:00",
+      "summary": "Article URL: https://hannahritchie.github.io/energy-use-comparisons/\nComments URL: https://news.ycombinator.com/item?id=47253364\nPoints: 215\n# Comments: 190"
+    },
+    {
+      "title": "The View from RSS",
+      "url": "https://www.carolinecrampton.com/the-view-from-rss/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T20:19:43+00:00",
+      "summary": "Article URL: https://www.carolinecrampton.com/the-view-from-rss/\nComments URL: https://news.ycombinator.com/item?id=47253221\nPoints: 126\n# Comments: 35"
+    },
+    {
+      "title": "Building a new Flash",
+      "url": "https://bill.newgrounds.com/news/post/1607118",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T20:16:03+00:00",
+      "summary": "Article URL: https://bill.newgrounds.com/news/post/1607118\nComments URL: https://news.ycombinator.com/item?id=47253177\nPoints: 581\n# Comments: 184"
+    },
+    {
+      "title": "Father claims Google's AI product fuelled son's delusional spiral",
+      "url": "https://www.bbc.com/news/articles/czx44p99457o",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T19:48:07+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/czx44p99457o\nComments URL: https://news.ycombinator.com/item?id=47252838\nPoints: 184\n# Comments: 242"
+    },
+    {
+      "title": "Google ends its 30 percent app store fee and welcomes third-party app stores",
+      "url": "https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T19:40:22+00:00",
+      "summary": "Article URL: https://www.engadget.com/apps/google-ends-its-30-percent-app-store-fee-and-welcomes-third-party-app-stores-185248647.html\nComments URL: https://news.ycombinator.com/item?id=47252726\nPoints: 212\n# Comments: 77"
+    },
+    {
+      "title": "You need to rewrite your CLI for AI agents",
+      "url": "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-04T19:20:03+00:00",
+      "summary": "Article URL: https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=47252459\nPoints: 110\n# Comments: 61"
+    },
+    {
+      "title": "Google’s AI-powered workspace is now available to more users in Search",
+      "url": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T18:57:01+00:00",
+      "summary": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside [&#8230;]"
+    },
+    {
+      "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+      "url": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T18:50:58+00:00",
+      "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more."
+    },
+    {
+      "title": "Decagon completes first tender offer at $4.5B valuation",
+      "url": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T18:32:53+00:00",
+      "summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity."
+    },
+    {
+      "title": "The US military is still using Claude — but defense-tech clients are fleeing",
+      "url": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T17:20:01+00:00",
+      "summary": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions."
+    },
+    {
+      "title": "Google faces wrongful death lawsuit after Gemini allegedly &#8216;coached&#8217; man to die by suicide",
+      "url": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T16:09:38+00:00",
+      "summary": "A lawsuit filed on Wednesday accuses Google's Gemini AI chatbot of trapping 36-year-old Jonathan Gavalas in a \"collapsing reality\" that involved a series of violent missions, ultimately ending with his death by suicide. In the days leading up to his death, Gemini allegedly convinced Gavalas that he was \"executing a covert plan to liberate his [&#8230;]"
+    },
+    {
+      "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+      "url": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T14:58:36+00:00",
+      "summary": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack."
+    },
+    {
+      "title": "AI is now part of the culture wars — and real wars",
+      "url": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T14:15:03+00:00",
+      "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more than doomer scenarios. We cover non-existential fun [&#8230;]"
+    },
+    {
+      "title": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
+      "url": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-04T14:00:00+00:00",
+      "summary": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time."
+    },
+    {
+      "title": "Bridging the operational AI gap",
+      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-04T14:00:00+00:00",
+      "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels&#8230;"
+    },
+    {
+      "title": "IT業界の「巨大プロジェクトが個人プロジェクトに依存していて簡単に崩壊する」という現状を風刺するイラスト「Dependency」",
+      "url": "https://gigazine.net/news/20260304-it-dependency/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-04T14:00:00+00:00",
+      "summary": "世界中で稼働しているソフトウェアのほとんどは何らかのオープンソースソフトウェアに依存しており、いずれかのソフトウェアに問題が生じると連鎖的に世界中のソフトウェアが危険にさらされます。そんなIT業界のもろさを端的に表現したイラストがxkcdの「Dependency」で、インターネット上にはDependencyの派生イラストやアニメーションが複数投稿されています。続きを読む..."
+    }
+  ]
+}

@@ -26,7 +26,14 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.0'
-          bundler-cache: true
+          bundler-cache: false  # Disable bundler cache to avoid version conflicts
+
+      - name: Install bundler
+        run: gem install bundler
+
+      - name: Install Ruby dependencies
+        run: |
+          bundle install
 
       - name: Install Python dependencies
         run: |

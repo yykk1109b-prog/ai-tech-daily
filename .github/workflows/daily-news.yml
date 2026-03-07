@@ -1,0 +1,78 @@
+name: Daily AI News
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 毎日0:00 UTC (9:00 JST) に実行
+
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  fetch-and-generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+
+      - name: Install Python dependencies
+        run: |
+          cd scripts
+          python -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch news from RSS feeds
+        run: |
+          source scripts/venv/bin/activate
+          python scripts/fetch_news.py
+
+      - name: Check if news was fetched
+        run: |
+          if [ ! -f "_data/today_news.json" ]; then
+            echo "Error: today_news.json was not created"
+            exit 1
+          fi
+
+      - name: Generate article using GLM API
+        run: |
+          source scripts/venv/bin/activate
+          python scripts/generate_article.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_BASE_URL: https://api.z.ai/api/anthropic
+          ANTHROPIC_DEFAULT_SONNET_MODEL: glm-4.7
+          ANTHROPIC_DEFAULT_HAIKU_MODEL: glm-4.5-air
+
+      - name: Check if article was generated
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          ARTICLE_FILE="_posts/${DATE}-daily-ai-news.md"
+          if [ ! -f "$ARTICLE_FILE" ]; then
+            echo "Warning: Article was not generated (no news available)"
+          fi
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add _data/today_news.json _posts/
+          git diff --staged --quiet || git commit -m "📰 Update daily AI news [skip ci]"
+          git push

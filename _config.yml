@@ -40,6 +40,12 @@ collections:
     output: true
   beginner:
     output: true
+  guides:
+    output: true
+  examples:
+    output: true
+  glossary:
+    output: true
 
 defaults:
   - scope:

@@ -65,7 +65,7 @@
   });
   // --- AdSense Initialization ---
   var adSlots = document.querySelectorAll('.adsbygoogle');
-  if (adSlots.length > 0 && typeof window.adsbygoogle !== 'undefined') {
+  if (adSlots.length > 0 && typeof window.adsbygoogle === 'string') {
     adSlots.forEach(function() {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
     });

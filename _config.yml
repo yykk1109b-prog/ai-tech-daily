@@ -38,6 +38,8 @@ plugins:
 collections:
   posts:
     output: true
+  beginner:
+    output: true
 
 defaults:
   - scope:

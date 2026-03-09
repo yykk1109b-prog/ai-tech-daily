@@ -727,3 +727,271 @@ h3[data-perspective="ideas"] {
     padding: 0.5rem 0.8rem;
   }
 }
+
+/* ============================================
+   Hero Section - Beginner-Friendly Design
+   ============================================ */
+
+/* ヒーローセクション */
+.hero-section {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, var(--bg) 0%, #f0ede8 100%);
+}
+
+.hero-title {
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
+  margin-bottom: 1rem;
+  color: var(--text);
+  font-family: var(--font-display);
+  font-weight: 700;
+}
+
+.hero-subtitle {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+}
+
+/* CTAボタン */
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  background: var(--accent);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-family: var(--font-body);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(193, 39, 45, 0.3);
+  color: white;
+}
+
+/* ユースケースカード */
+.use-cases {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5rem;
+  max-width: 1000px;
+  margin: 3rem auto;
+}
+
+.use-case-card {
+  padding: 2rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-decoration: none;
+  color: var(--text);
+  animation: fadeInUp 0.5s ease both;
+}
+
+.use-case-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+  color: var(--accent);
+}
+
+.use-case-card:nth-child(1) { animation-delay: 0.1s; }
+.use-case-card:nth-child(2) { animation-delay: 0.2s; }
+.use-case-card:nth-child(3) { animation-delay: 0.3s; }
+
+.use-case-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.use-case-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-display);
+}
+
+.use-case-desc {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+/* モバイル対応 */
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 60px 20px;
+  }
+
+  .use-cases {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+/* ============================================
+   Demo Components (Chat & Article Generation)
+   ============================================ */
+
+/* デモコンテナ */
+.demo-container {
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.demo-container h3 {
+  margin-bottom: 1rem;
+  color: var(--text);
+  font-family: var(--font-display);
+}
+
+/* チャットデモ */
+.chat-demo {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.chat-messages {
+  padding: 1.5rem;
+  min-height: 200px;
+  max-height: 300px;
+  overflow-y: auto;
+  background: var(--bg-alt);
+}
+
+.message {
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: 12px;
+  max-width: 80%;
+}
+
+.message.user {
+  background: var(--accent);
+  color: white;
+  margin-left: auto;
+}
+
+.message.ai,
+.message.system {
+  background: white;
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+.chat-input {
+  display: flex;
+  padding: 1rem;
+  background: var(--bg-card);
+  border-top: 1px solid var(--border);
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-right: 0.5rem;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+}
+
+.chat-input input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.chat-input button {
+  padding: 0.75rem 1.5rem;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-weight: bold;
+  transition: background 0.2s ease;
+}
+
+.chat-input button:hover {
+  filter: brightness(0.9);
+}
+
+/* 文章生成デモ */
+.article-demo {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+}
+
+.article-input {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.article-input label {
+  font-weight: bold;
+  margin-right: 0.5rem;
+  font-family: var(--font-display);
+}
+
+.article-input input {
+  flex: 1;
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  min-width: 200px;
+}
+
+.article-input input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.article-input button {
+  padding: 0.75rem 1.5rem;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-weight: bold;
+  transition: background 0.2s ease;
+}
+
+.article-input button:hover {
+  filter: brightness(0.9);
+}
+
+.article-output {
+  min-height: 150px;
+  padding: 1rem;
+  background: var(--bg-alt);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.article-output h2 {
+  font-size: 1.3rem;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+  font-family: var(--font-display);
+}
+
+.article-output p {
+  color: var(--text);
+  line-height: 1.8;
+}

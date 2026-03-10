@@ -2,10 +2,30 @@
 layout: default
 ---
 
-<!-- ヘッドラインニュースセクション -->
-<div class="news-headline">
-  <h2 class="headline-title">🚀 最新AIニュース</h2>
-  <p class="headline-desc">本日の重要なAI動向をまとめています</p>
+<!-- ヒーローセクション -->
+<div class="hero-section">
+  <h1 class="hero-title">AIでできることを、体験しながら学べるサイト</h1>
+  <p class="hero-subtitle">専門知識ゼロから始めるAI活用ガイド</p>
+  <a href="{{ '/beginner' | relative_url }}" class="cta-button">START HERE - まずはここから</a>
+
+  <!-- ユースケースカード -->
+  <div class="use-cases">
+    <a href="{{ '/guides' | relative_url }}" class="use-case-card">
+      <div class="use-case-icon">📝</div>
+      <div class="use-case-title">文章作成</div>
+      <div class="use-case-desc">作業効率UP</div>
+    </a>
+    <a href="{{ '/guides' | relative_url }}" class="use-case-card">
+      <div class="use-case-icon">🎨</div>
+      <div class="use-case-title">画像生成</div>
+      <div class="use-case-desc">クリエイティブ</div>
+    </a>
+    <a href="{{ '/guides' | relative_url }}" class="use-case-card">
+      <div class="use-case-icon">📊</div>
+      <div class="use-case-title">データ分析</div>
+      <div class="use-case-desc">業務改善</div>
+    </a>
+  </div>
 </div>
 
 <!-- ナビゲーションカード -->

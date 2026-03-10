@@ -19,6 +19,18 @@
   --accent: #C1272D;
   --accent-light: rgba(193, 39, 45, 0.08);
 
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(0,0,0,0.08);
+  --shadow-md: 0 8px 20px rgba(0,0,0,0.12);
+  --shadow-demo: 0 2px 8px rgba(0,0,0,0.1);
+  --shadow-accent: 0 4px 12px rgba(193, 39, 45, 0.3);
+
+  /* Transitions */
+  --transition-hover: transform 0.3s ease, box-shadow 0.3s ease;
+
+  /* Border Radius */
+  --radius-lg: 8px;
+
   /* Perspective Colors */
   --breaking: #C1272D;
   --developer: #0A7E8C;
@@ -769,7 +781,7 @@ h3[data-perspective="ideas"] {
   border-radius: var(--radius);
   padding: 2rem;
   text-align: center;
-  transition: transform 0.3s, box-shadow 0.3s;
+  transition: var(--transition-hover);
   text-decoration: none;
   color: var(--text);
   display: flex;
@@ -781,7 +793,7 @@ h3[data-perspective="ideas"] {
 
 .nav-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+  box-shadow: var(--shadow-md);
   border-color: var(--accent);
 }
 
@@ -805,10 +817,7 @@ h3[data-perspective="ideas"] {
 }
 
 /* 記事アーカイブリンク */
-.archive-link {
-  text-align: center;
-  margin: 3rem 0;
-}
+/* archive-link unified definition below */
 
 .archive-button {
   display: inline-block;
@@ -858,6 +867,8 @@ h3[data-perspective="ideas"] {
 }
 
 .archive-link {
+  text-align: center;
+  margin: 3rem 0;
   font-size: 1.1rem;
   font-weight: 500;
   color: var(--text);
@@ -880,4 +891,250 @@ h3[data-perspective="ideas"] {
   color: var(--text-muted);
   padding: 3rem 0;
   font-size: 0.95rem;
+}
+
+/* ============================================
+   Hero Section & CTA (初心者向け)
+   ============================================ */
+
+.hero-section {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, var(--bg) 0%, #f0ede8 100%);
+}
+
+.hero-title {
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
+  margin-bottom: 1rem;
+  color: var(--text);
+  font-family: var(--font-display);
+  font-weight: 700;
+}
+
+.hero-subtitle {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  background: var(--accent);
+  color: white;
+  text-decoration: none;
+  border-radius: var(--radius-lg);
+  font-weight: bold;
+  transition: var(--transition-hover);
+  font-family: var(--font-body);
+}
+
+.cta-button:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-accent);
+  color: white;
+}
+
+.use-cases {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.5rem;
+  max-width: 1000px;
+  margin: 3rem auto;
+}
+
+.use-case-card {
+  padding: 2rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  transition: var(--transition-hover);
+  text-decoration: none;
+  color: var(--text);
+  animation: fadeInUp 0.5s ease both;
+  text-align: center;
+}
+
+.use-case-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  color: var(--text);
+}
+
+.use-case-card:nth-child(1) { animation-delay: 0.1s; }
+.use-case-card:nth-child(2) { animation-delay: 0.2s; }
+.use-case-card:nth-child(3) { animation-delay: 0.3s; }
+
+.use-case-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.use-case-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  font-family: var(--font-display);
+}
+
+.use-case-desc {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+/* レスポンシブ */
+@media (max-width: 768px) {
+  .use-cases {
+    grid-template-columns: 1fr;
+  }
+  .hero-section {
+    padding: 60px 20px;
+  }
+}
+
+/* ============================================
+   Chat Demo Styles
+   ============================================ */
+
+.chat-demo {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-demo);
+  overflow: hidden;
+}
+
+.chat-messages {
+  padding: 1.5rem;
+  min-height: 200px;
+  max-height: 300px;
+  overflow-y: auto;
+  background: var(--bg-alt);
+}
+
+.message {
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: var(--radius-lg);
+  max-width: 80%;
+}
+
+.message.user {
+  background: var(--accent);
+  color: white;
+  margin-left: auto;
+}
+
+.message.ai, .message.system {
+  background: white;
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+.chat-input {
+  display: flex;
+  padding: 1rem;
+  background: var(--bg-card);
+  border-top: 1px solid var(--border);
+}
+
+.chat-input input {
+  flex: 1;
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-right: 0.5rem;
+  font-family: var(--font-body);
+}
+
+.chat-input input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.chat-input button {
+  padding: 0.75rem 1.5rem;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-family: var(--font-body);
+  transition: var(--transition-hover);
+}
+
+.chat-input button:hover {
+  filter: brightness(0.9);
+}
+
+/* ============================================
+   Article Demo Styles
+   ============================================ */
+
+.article-demo {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+}
+
+.article-input {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.article-input label {
+  font-weight: bold;
+  margin-right: 0.5rem;
+  font-family: var(--font-body);
+}
+
+.article-input input {
+  flex: 1;
+  padding: 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-family: var(--font-body);
+}
+
+.article-input input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.article-input button {
+  padding: 0.75rem 1.5rem;
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-family: var(--font-body);
+  font-weight: bold;
+  transition: var(--transition-hover);
+}
+
+.article-input button:hover {
+  filter: brightness(0.9);
+}
+
+.article-output {
+  min-height: 150px;
+  padding: 1rem;
+  background: var(--bg-alt);
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.article-output h2 {
+  font-size: 1.3rem;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
+
+.article-output p {
+  color: var(--text);
 }

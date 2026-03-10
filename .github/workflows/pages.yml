@@ -29,7 +29,9 @@ jobs:
           bundler-cache: false
 
       - name: Install bundler
-        run: gem install bundler:4.0.7
+        run: |
+          gem install bundler:4.0.7
+          echo "$(ruby -r rubygems -e 'puts Gem::Specification.find_by_name(\"bundler\").full_gem_path')/bin" >> $GITHUB_PATH
 
       - name: Install dependencies
         run: bundle install

@@ -1,7 +1,655 @@
 {
-  "fetched_at": "2026-03-12T00:52:12.890201+00:00",
-  "total_count": 76,
+  "fetched_at": "2026-03-12T22:20:45.714292+00:00",
+  "total_count": 81,
   "articles": [
+    {
+      "title": "企業が採用現場で導入し始めている「AI面接官」と実際に面接してみるとどんな感じなのか？",
+      "url": "https://gigazine.net/news/20260313-job-interviewed-by-ai-bot/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T22:00:00+00:00",
+      "summary": "近年は採用面接を人間ではなくAIが行う「AI面接官」が実用化されており、実際にいくつかの企業は採用現場で導入を勧めています。テクノロジー系メディアのThe VergeでAIレポーターを務めるハイデン・フィールド氏が、実際にAI面接官による採用面接を受けてみた様子について動画で報告しました。続きを読む..."
+    },
+    {
+      "title": "Shall I implement it? No",
+      "url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T21:01:10+00:00",
+      "summary": "Article URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0\nComments URL: https://news.ycombinator.com/item?id=47357042\nPoints: 272\n# Comments: 94"
+    },
+    {
+      "title": "アルツハイマー病の初期に不眠になる理由が解明される",
+      "url": "https://gigazine.net/news/20260313-alzheimers-tau-sleep-glucose/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T21:00:00+00:00",
+      "summary": "アルツハイマー病ではもの忘れなどの典型的な症状が出るかなり前から、眠りが浅くなる・夜中に何度も目が覚めるといった睡眠の乱れが起こることがあります。ケンタッキー大学などの研究チームが学術誌「npj Dementia」で2026年1月23日に発表した論文では、アルツハイマー病と深く関わる「タウタンパク質」という異常なタンパク質が脳の中で糖の使い方を変えて神経が興奮しやすい状態を保つことで、睡眠障害につながっていることが示されました。続きを読む..."
+    },
+    {
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T20:55:51+00:00",
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case\nComments URL: https://news.ycombinator.com/item?id=47356968\nPoints: 178\n# Comments: 98"
+    },
+    {
+      "title": "VS Codeの安定版が毎週リリースへ　第1弾のバージョン1.111ではAIエージェント運用を強化",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news023.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T20:00:00+00:00",
+      "summary": "Visual Studio Codeの安定版が毎週リリースへ移行した。その第1弾となるバージョン1.111では、AIエージェントの自律実行や権限管理、デバッグ支援などが強化されている。"
+    },
+    {
+      "title": "GPT-5.4登場、“やり抜くAI”へ　100万トークンとCodexアプリがもたらす“実務完遂力”",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/13/news009.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T20:00:00+00:00",
+      "summary": "OpenAIの新モデル「GPT-5.4」が登場した。100万トークンの巨大コンテキストやCodexアプリとの連携により、AIが実務タスクを自律的に完遂する能力が大きく強化されている。本稿では、その特徴と実際の使いどころを整理する。"
+    },
+    {
+      "title": "An old photo of a large BBS (2022)",
+      "url": "https://rachelbythebay.com/w/2022/01/26/swcbbs/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T19:41:35+00:00",
+      "summary": "Article URL: https://rachelbythebay.com/w/2022/01/26/swcbbs/\nComments URL: https://news.ycombinator.com/item?id=47356017\nPoints: 126\n# Comments: 92"
+    },
+    {
+      "title": "White House plan to break up iconic U.S. climate lab moves forward",
+      "url": "https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T19:14:21+00:00",
+      "summary": "Article URL: https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward\nComments URL: https://news.ycombinator.com/item?id=47355702\nPoints: 138\n# Comments: 141"
+    },
+    {
+      "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+      "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T18:20:33+00:00",
+      "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price."
+    },
+    {
+      "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+      "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T18:00:00+00:00",
+      "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating."
+    },
+    {
+      "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+      "url": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T17:59:32+00:00",
+      "summary": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-reply option when creating a listing, and Meta AI [&#8230;]"
+    },
+    {
+      "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+      "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T17:20:19+00:00",
+      "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI."
+    },
+    {
+      "title": "Bubble Sorted Amen Break",
+      "url": "https://parametricavocado.itch.io/amen-sorting",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T17:13:56+00:00",
+      "summary": "Article URL: https://parametricavocado.itch.io/amen-sorting\nComments URL: https://news.ycombinator.com/item?id=47354098\nPoints: 212\n# Comments: 72"
+    },
+    {
+      "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
+      "url": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T17:07:16+00:00",
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/\nComments URL: https://news.ycombinator.com/item?id=47353993\nPoints: 145\n# Comments: 85"
+    },
+    {
+      "title": "Gemini’s task automation is here and it’s wild",
+      "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T16:59:43+00:00",
+      "summary": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to [&#8230;]"
+    },
+    {
+      "title": "Bumble to launch an AI dating assistant, ‘Bee’",
+      "url": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T16:52:17+00:00",
+      "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals."
+    },
+    {
+      "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+      "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T16:42:40+00:00",
+      "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights."
+    },
+    {
+      "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+      "url": "https://github.com/onecli/onecli",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T16:41:06+00:00",
+      "summary": "We built OneCLI because AI agents are being given raw API keys. And it's going about as well as you'd expect. We figured the answer isn't \"don't give agents access,\" it's \"give them access without giving them secrets.\"OneCLI is an open-source gateway that sits between your AI agents and the services they call. You store your real credentials once in OneCLI's encrypted vault, and give your agents placeholder keys. When an agent makes an HTTP call through the proxy, OneCLI matches the request by host/path, verifies the agent should have access, swaps the placeholder for the real credential, and forwards the request. The agent never touches the actual secret. It just uses CLI or MCP tools as normal.Try it in one line:\ndocker run --pull always -p 10254:10254 -p 10255:10255 -v onecli-data:/app/data ghcr.io/onecli/onecliThe proxy is written in Rust, the dashboard is Next.js, and secrets are AES-256-GCM encrypted at rest. Everything runs in a single Docker container with an embedded Postgres (PGlite), no external dependencies. Works with any agent framework (OpenClaw, NanoClaw, IronClaw, or anything that can set an HTTPS_PROXY).We started with what felt most urgent: agents shouldn't be holding raw credentials. \nThe next layer is access policies and audit, defining what each agent can call, logging everything, and requiring human approval before sensitive actions go through.It's Apache-2.0 licensed. We'd love feedback on the approach, and we're especially curious how people are handling agent auth today.GitHub: https://github.com/onecli/onecli\nSite: https://onecli.sh\n\nComments URL: https://news.ycombinator.com/item?id=47353558\nPoints: 101\n# Comments: 36"
+    },
+    {
+      "title": "Reversing memory loss via gut-brain communication",
+      "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T16:38:51+00:00",
+      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html\nComments URL: https://news.ycombinator.com/item?id=47353533\nPoints: 163\n# Comments: 46"
+    },
+    {
+      "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T16:00:00+00:00",
+      "summary": "Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual is useful based on the context of your chat, it will insert the image in-line, rather than in its side panel. As an example, Anthropic says a conversation about [&#8230;]"
+    },
+    {
+      "title": "Claude now creates interactive charts, diagrams and visualizations",
+      "url": "https://claude.com/blog/claude-builds-visuals",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T15:59:00+00:00",
+      "summary": "Article URL: https://claude.com/blog/claude-builds-visuals\nComments URL: https://news.ycombinator.com/item?id=47352751\nPoints: 153\n# Comments: 96"
+    },
+    {
+      "title": "The Met releases high-def 3D scans of 140 famous art objects",
+      "url": "https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T15:43:39+00:00",
+      "summary": "Article URL: https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html\nComments URL: https://news.ycombinator.com/item?id=47352459\nPoints: 171\n# Comments: 33"
+    },
+    {
+      "title": "AI should not replace people at Atlassian, says CEO",
+      "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T15:36:53+00:00",
+      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html\nComments URL: https://news.ycombinator.com/item?id=47352335\nPoints: 111\n# Comments: 48"
+    },
+    {
+      "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
+      "url": "https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T15:34:41+00:00",
+      "summary": "Article URL: https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/\nComments URL: https://news.ycombinator.com/item?id=47352297\nPoints: 224\n# Comments: 58"
+    },
+    {
+      "title": "Colon cancer now leading cause of cancer deaths under 50 in US",
+      "url": "https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T15:33:34+00:00",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths\nComments URL: https://news.ycombinator.com/item?id=47352277\nPoints: 134\n# Comments: 181"
+    },
+    {
+      "title": "US- and Greek-owned tankers ablaze after Iran claims 'underwater drone' strike",
+      "url": "https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T15:32:54+00:00",
+      "summary": "Article URL: https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters\nComments URL: https://news.ycombinator.com/item?id=47352262\nPoints: 160\n# Comments: 248"
+    },
+    {
+      "title": "Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war",
+      "url": "https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T15:30:37+00:00",
+      "summary": "Article URL: https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/\nComments URL: https://news.ycombinator.com/item?id=47352215\nPoints: 364\n# Comments: 295"
+    },
+    {
+      "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
+      "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T15:30:00+00:00",
+      "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential."
+    },
+    {
+      "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t get into NSFW content",
+      "url": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T15:16:16+00:00",
+      "summary": "The new Sassy style can curse and roast you, but the fun ends there."
+    },
+    {
+      "title": "Wonderful raises $150M Series B at $2B valuation",
+      "url": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T15:12:35+00:00",
+      "summary": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A."
+    },
+    {
+      "title": "ATMs didn't kill bank teller jobs, but the iPhone did",
+      "url": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T14:48:57+00:00",
+      "summary": "Article URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller\nComments URL: https://news.ycombinator.com/item?id=47351371\nPoints: 260\n# Comments: 317"
+    },
+    {
+      "title": "Suburban school district uses license plate readers to verify student residency",
+      "url": "https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T14:41:12+00:00",
+      "summary": "Article URL: https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/\nComments URL: https://news.ycombinator.com/item?id=47351239\nPoints: 184\n# Comments: 226"
+    },
+    {
+      "title": "Kotlin creator's new language: talk to LLMs in specs, not English",
+      "url": "https://codespeak.dev/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T14:22:43+00:00",
+      "summary": "Article URL: https://codespeak.dev/\nComments URL: https://news.ycombinator.com/item?id=47350931\nPoints: 260\n# Comments: 226"
+    },
+    {
+      "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
+      "url": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T14:00:00+00:00",
+      "summary": "Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon.&#160; The back-and-forth is complicated, but as of a few days ago, the Pentagon had deemed Anthropic a supply chain risk, and Anthropic has filed a lawsuit challenging that [&#8230;]"
+    },
+    {
+      "title": "Bespoke AI models are the next big thing in filmmaking",
+      "url": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T13:56:00+00:00",
+      "summary": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what people are making with the most popular image/video models on the market. Models like Sora, Veo, and Runway just do not seem all that [&#8230;]"
+    },
+    {
+      "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+      "url": "https://github.com/jrswab/axe",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T13:49:12+00:00",
+      "summary": "I built Axe because I got tired of every AI tool trying to be a chatbot.Most frameworks want a long-lived session with a massive context window doing everything at once. That's expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be too.Axe treats LLM agents like Unix programs. Each agent is a TOML config with a focused job. Such as code reviewer, log analyzer, commit message writer. You can run them from the CLI, pipe data in, get results out. You can use pipes to chain them together. Or trigger from cron, git hooks, CI.What Axe is:- 12MB binary, two dependencies. no framework, no Python, no Docker (unless you want it)- Stdin piping, something like `git diff | axe run reviewer` just works- Sub-agent delegation. Where agents call other agents via tool use, depth-limited- Persistent memory. If you want, agents can remember across runs without you managing state- MCP support. Axe can connect any MCP server to your agents- Built-in tools. Such as web_search and url_fetch out of the box- Multi-provider. Bring what you love to use.. Anthropic, OpenAI, Ollama, or anything in models.dev format- Path-sandboxed file ops. Keeps agents locked to a working directoryWritten in Go. No daemon, no GUI.What would you automate first?\n\nComments URL: https://news.ycombinator.com/item?id=47350516\nPoints: 120\n# Comments: 85"
+    },
+    {
+      "title": "Malus – Clean Room as a Service",
+      "url": "https://malus.sh",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-12T13:42:04+00:00",
+      "summary": "https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_...https://malus.sh/blog.html\n\nComments URL: https://news.ycombinator.com/item?id=47350424\nPoints: 908\n# Comments: 355"
+    },
+    {
+      "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+      "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-12T13:02:48+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China’s&#160;OpenClaw&#160;AI craze&#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&#160;OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.&#8230;"
+    },
+    {
+      "title": "Microsoft’s Copilot Health can connect to your medical records and wearables",
+      "url": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T13:01:07+00:00",
+      "summary": "Microsoft announced on Thursday that it's launching Copilot Health, a \"separate, secure space\" in Copilot for asking questions about lab results and medical records, searching for providers, analyzing data from wearables, and other health-related chats. The feature will have a phased rollout, so it won't be available to everyone immediately, but users can join a [&#8230;]"
+    },
+    {
+      "title": "Google is using old news reports and AI to predict flash floods",
+      "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T13:00:00+00:00",
+      "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM."
+    },
+    {
+      "title": "Pragmatic by design: Engineering AI for the real world",
+      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-12T13:00:00+00:00",
+      "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our&#8230;"
+    },
+    {
+      "title": "「折りたたみ式iPhone」の予想まとめ、Face IDではなくTouch ID搭載＆UI刷新＆ディスプレイのサイズ感などなど",
+      "url": "https://gigazine.net/news/20260312-foldable-iphone/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T13:00:00+00:00",
+      "summary": "Appleが開発しているとうわさされている折りたたみ式iPhoneには、アプリを横に並べて表示できるiPad風のインターフェースが搭載される見込みだと報じられました。続きを読む..."
+    },
+    {
+      "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+      "url": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T12:30:00+00:00",
+      "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade."
+    },
+    {
+      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+      "url": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T12:30:00+00:00",
+      "summary": "Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows for \"complex, real-world questions\" with highly detailed, personalized responses. In the past, Google Maps would struggle with hyper-specific questions like \"where can I charge my phone [&#8230;]"
+    },
+    {
+      "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T12:00:34+00:00",
+      "summary": "Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pitching it as \"a digital proxy for you.\" Personal Computer will run 24/7 on a dedicated device on your local network, have [&#8230;]"
+    },
+    {
+      "title": "WordPressが「My WordPress」リリース、ウェブブラウザだけで完全に動作しプラグインが使えるWordPressを構築可能でバックアップしてどこにでも復元可能でRSSリーダー化も可能",
+      "url": "https://gigazine.net/news/20260312-my-wordpress/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T12:00:00+00:00",
+      "summary": "WordPress.orgが、ブラウザ上でWordPressが完全かつ永続的に動作する新しい実行環境「My WordPress」を発表しました。My WordPressはWordPress Playgroundの技術を基盤としており、サインアップやホスティング契約、ドメイン設定を必要とせず、誰でも即座にWordPressを利用可能。ウェブサイトを公開するための従来の用途とは異なり、個人のためのプライベートな作業空間や実験場としての活用を主眼に置いたサービスとなっています。続きを読む..."
+    },
+    {
+      "title": "生成AIツール「ComfyUI」の複雑怪奇なUIをスッキリ分かりやすくできる公式機能「App Mode」が登場",
+      "url": "https://gigazine.net/news/20260312-comfyui-app-mode/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T11:00:00+00:00",
+      "summary": "ComfyUIは各種画像生成AIや動画生成AIをローカルで実行できるアプリです。しかし、「Comfy(快適な)UI」という名前に反して初心者にとって分かりにくいUIであることも有名です。そんなComfyUIの新機能として、ノードを組み合わせて構築したワークフローを分かりやすいUIに変換できる「App Mode(アプリモード)」が登場しました。続きを読む..."
+    },
+    {
+      "title": "Brutal times for the US battery industry",
+      "url": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-12T10:00:00+00:00",
+      "summary": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems&#8230;"
+    },
+    {
+      "title": "AIチャットボットの8割が10代の若者による暴力計画を助長するがClaudeは常に拒否することが明らかに",
+      "url": "https://gigazine.net/news/20260312-chatbots-helped-deadly-attacks/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T10:00:00+00:00",
+      "summary": "ChatGPTやGemini、Claudeといった人気AIチャットボットが、暴力的な攻撃を計画しているユーザーに対してどのような返答を行なうのかを調べるテストを、デジタルヘイト対策センター(CCDH)が実施しました。このテストの結果、一部のAIチャットボットを除き、ほとんどのAIが暴力を促すような返答を行うことが明らかになっています。続きを読む..."
+    },
+    {
+      "title": "2026年3月12日のヘッドラインニュース",
+      "url": "https://gigazine.net/news/20260312-headline/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T09:35:00+00:00",
+      "summary": "モスバーガーが2026年3月18日(水)から定番商品の「テリヤキバーガー」をリニューアルし、それに合わせて半熟風たまごを使用した「とろったまベーコン テリヤキバーガー」と「チーズベーコン テリヤキバーガー」を新発売すると発表しました。続きを読む..."
+    },
+    {
+      "title": "タイミー「掲載求人のほぼ全てがAIで代替困難」　AI普及の影響は「極めて限定的」",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news110.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T08:36:00+00:00",
+      "summary": "「タイミーに掲載される求人のほぼ全てはソフトウェアAIによる直接的な代替が困難な現場作業が必要な業務」――タイミーは、2026年4月期第1四半期決算の説明資料でこのように述べた。"
+    },
+    {
+      "title": "「吉野家の油そば」が登場したので一体どんな味なのか確かめてきました",
+      "url": "https://gigazine.net/news/20260312-yoshinoya-aburaoba/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T08:00:00+00:00",
+      "summary": "吉野家の新メニューとして「牛丼・油そばセット」が2026年3月12日に登場しました。油そばは新登場の麺メニューで、もちもちの太麺に背脂とラードを加え、にんにく・醤油・胡椒が効いたたれを絡めたという味の濃そうな一品。新登場のメニューなのに単品販売はされておらず牛丼とのセット販売のみということで、「牛丼と相性がいいからセットになっているのか？」「単品だと少ないサイズ感なのか？」などと疑問がどんどん浮かび上がったので、実際に食べて味やボリューム感を確かめてみました。続きを読む..."
+    },
+    {
+      "title": "中国の国営企業や政府機関がオフィス環境でのOpenClaw利用を制限する動き、中国全土でOpenClawの利用が広がりセキュリティ上の懸念が高まっているため",
+      "url": "https://gigazine.net/news/20260312-china-limit-use-of-openclaw/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T07:00:00+00:00",
+      "summary": "AIエージェントフレームワークのOpenClawはユーザーに代わってメールの整理や報告書の作成、スライドの準備などを自律的に実行できることから、中国全土で爆発的な人気を博し、急激に普及しています。しかし、この急速な導入拡大を受け、中国当局はセキュリティやデータ漏洩のリスクを重く見ており、国家ネットワーク緊急対応技術チーム(CNCERT)が二度目となる警告を発したほか、政府機関や国営銀行などの重要セクターに対してオフィスでの利用を厳格に制限する措置を開始しました。続きを読む..."
+    },
+    {
+      "title": "「メモリ価格が1日で50％値上げされた」とPhisonのCEOが発言",
+      "url": "https://gigazine.net/news/20260312-nand-prices-jumped-overnight/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T06:25:00+00:00",
+      "summary": "台湾に拠点を置くNANDフラッシュメモリのコントローラーメーカーであるPhisonのケインセン・プアCEOが、一部のNANDフラッシュメモリメーカーが一夜にして価格を最大50％も引き上げたと発言しました。続きを読む..."
+    },
+    {
+      "title": "X上で「grok ファクトチェック」が有料化　メンションでの指示に制限　代わりの機能は？",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news095.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T05:31:00+00:00",
+      "summary": "「@grok」とメンションすることで、生成AI「Grok」に質問や投稿のファクトチェックを依頼できるXの機能が、有料会員限定になったことが分かった。"
+    },
+    {
+      "title": "PerplexityがOpenClawのようにPC操作を自動化するMac上で動作するAIエージェント「Personal Computer」を発表、企業向けに特化した「Perplexity Computer」のバージョンも提供",
+      "url": "https://gigazine.net/news/20260312-perplexity-personal-computer/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T05:00:00+00:00",
+      "summary": "AI検索サービスを展開するPerplexityが、PC上で24時間動作してPC作業をサポートするAIエージェント「Personal Computer」を発表しました。2026年2月に発表した既存のあらゆるAI機能を単一のシステムに統合して使いやすくする「Perplexity Computer」を発展させ、AIが実際のPC環境でユーザーの代わりに作業を実行できるようにしたものです。続きを読む..."
+    },
+    {
+      "title": "Claude開発企業のAnthropicがAIの社会課題を研究する機関「Anthropic Institute」を設立",
+      "url": "https://gigazine.net/news/20260312-launching-anthropic-institute/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T04:50:00+00:00",
+      "summary": "チャットAIのClaudeを開発するAnthropicが2026年3月11日、強力なAIが社会にもたらす課題ついて追求する研究機関「Anthropic Institute」を設立すると発表しました。Anthropic InstituteはAnthropicの共同創業者であるジャック・クラーク氏によって率いられ、機械学習エンジニア・経済学者・社会科学者などの学際的なスタッフで構成されているとのことです。続きを読む..."
+    },
+    {
+      "title": "Trello・Confluence・JiraのAtlassianが全従業員の10％にあたる約1600人の人員削減を実施",
+      "url": "https://gigazine.net/news/20260312-atlassian-fire/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T04:15:00+00:00",
+      "summary": "タスク管理ツールのTrelloやプロジェクト管理ツールのJira、コラボレーションツールのConfluenceといった法人向けソフトウェアを開発するAtlassianが、従業員の約10％にあたる約1600人の人員削減を発表しました。続きを読む..."
+    },
+    {
+      "title": "Intelがゲーマー向けCPU「Core Ultra 200S Plus」シリーズを発表",
+      "url": "https://gigazine.net/news/20260312-intel-core-ultra-200s-plus/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T04:01:00+00:00",
+      "summary": "Intelがデスクトップ向けプロセッサの「Intel Core Ultra 200S Plus」シリーズ(270K、250K Plus)を発表しました。ゲームのパフォーマンスを向上させる新しい最適化機能が初めて搭載されていることが特徴です。続きを読む..."
+    },
+    {
+      "title": "「アプリを切り替えるたびにAIに指示し直す手間」をなくすアップデートがClaudeのExcel自動操作ツールとPowerPoint自動操作ツールに追加される",
+      "url": "https://gigazine.net/news/20260312-claude-excel-powerpoint-share-context/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T03:58:00+00:00",
+      "summary": "Anthropicが提供するオフィス自動操作ツール「Claude for Excel」と「Claude for PowerPoint」に会話の連携機能が追加されました。これにより、ユーザーはアプリを切り替えるごとにAIに説明しなおす手間が省け、シームレスな作業が可能となります。続きを読む..."
+    },
+    {
+      "title": "GoogleによるWizの買収が完了しGoogle Cloudに合流",
+      "url": "https://gigazine.net/news/20260312-google-wiz/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T03:45:00+00:00",
+      "summary": "GoogleによるAIセキュリティプラットフォーム「Wiz」の買収が、2026年3月11日に完了したことが分かりました。買収計画はおよそ1年かけて進められていました。続きを読む..."
+    },
+    {
+      "title": "イランの革命防衛隊がGoogle・Microsoft・NVIDIAなどのハイテク企業を標的にすると宣言",
+      "url": "https://gigazine.net/news/20260312-iran-target-us-company/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T03:42:00+00:00",
+      "summary": "イランの軍事組織であるイスラム革命防衛隊傘下のタスニム通信が、軍事利用される技術を持ちイスラエルとつながりのあるアメリカの大手企業を「イランの新たな標的」と表現したことが分かりました。続きを読む..."
+    },
+    {
+      "title": "NVIDIAが1200億パラメータ規模の日本語対応ハイブリッドMoEオープンウェイトAIモデル「Nemotron 3 Super」を発表",
+      "url": "https://gigazine.net/news/20260312-nvidia-nemotron-3-super/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T03:11:00+00:00",
+      "summary": "NVIDIAがエージェント型AIの推論に特化した新しいオープンモデル「Nemotron 3 Super」を発表しました。Nemotron 3 Superは高い計算効率と精度を両立させた1200億(120B)の総パラメータと、120億(12B)の有効パラメータを持つMoEアーキテクチャを採用しています。続きを読む..."
+    },
+    {
+      "title": "医療技術大手・Strykerがサイバー攻撃を受けて世界的に機能停止、イランの学校に対するミサイル攻撃の報復と主張",
+      "url": "https://gigazine.net/news/20260312-iran-backed-hackers-medtech-stryker/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T03:08:00+00:00",
+      "summary": "イランの諜報機関とつながりのあるハクティビスト集団が、アメリカ・ミシガン州に拠点を置く世界的な医療技術企業であるStrykerに対し、データ消去攻撃を仕掛けるという犯行声明を出しました。続きを読む..."
+    },
+    {
+      "title": "脳のニューロン活動を測定することで「マウスがどのような映像を見たか」を再現することに成功",
+      "url": "https://gigazine.net/news/20260312-movie-reconstruction-mouse/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T03:05:00+00:00",
+      "summary": "マウスが見ている映像を脳活動から再現する研究成果が発表され、過去のモデルを改善して再現度が約1.9倍に向上したことが報告されています。この研究は、脳が視覚情報をどのように処理しているのかを理解する手がかりになると期待されています。続きを読む..."
+    },
+    {
+      "title": "イヤホンを定期的に掃除した方がいい理由とは？",
+      "url": "https://gigazine.net/news/20260312-clean-your-headphones-ears-safe/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T03:00:00+00:00",
+      "summary": "多くの人は日常的にイヤホンやヘッドホンを装着し、1日に何時間も音楽やポッドキャストを聴いています。ところが、特に耳の穴(外耳道)に先端を差し込むインナーイヤー型やカナル型のイヤホンを使っていると、予期せぬ健康問題が生じる可能性があるとのこと。オーストラリアのカーティン大学健康科学部の研究員を務めるリナ・ウォン博士が、「イヤホンを使う人が耳を清潔かつ安全に保つためのアドバイス」をまとめました。続きを読む..."
+    },
+    {
+      "title": "Metaが独自開発のAIチップ「MTIA 300」「MTIA 400」「MTIA 450」「MTIA 500」を一斉に発表、2年以内に全種類稼働予定",
+      "url": "https://gigazine.net/news/20260312-meta-mtia-ai-chips/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T02:58:00+00:00",
+      "summary": "MetaはBroadcomと協力してAIチップ「Meta Training and Inference Accelerator(MTIA)」を開発しています。2026年3月11日にはMITAシリーズのチップとして「MTIA 300」「MTIA 400」「MTIA 450」「MTIA 500」の4種が一斉に発表されました。このうちMTIA 300は既に量産されており、他のチップも2027年までに量産される予定です。続きを読む..."
+    },
+    {
+      "title": "「ガチャは違法」というニューヨーク司法長官による訴訟にSteamの運営元Valveが正式に回答",
+      "url": "https://gigazine.net/news/20260312-valve-responded-new-york-attorney-mystery-box-lawsuit/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T02:37:00+00:00",
+      "summary": "PCゲームプラットフォームのSteamを運営するValveが、ニューヨーク州司法長官に提訴されました。Valveはこの訴訟について、公式サポートページ上で正式に回答を投稿しています。続きを読む..."
+    },
+    {
+      "title": "Antigravity、レート制限時に“追い課金”可能に　ただし「AI Pro」ユーザーから「リミット厳しくなった？」の声も",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news076.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T02:36:00+00:00",
+      "summary": "米GoogleがAIエディタ「Google Antigravity」の仕様を一部変更した。有料のAI機能プラン「Google AI Pro」もしくは「Ultra」のユーザーは、AIモデルのレートリミット到達後も、追加でクレジットを使用することで制限を解除できるようになった。"
+    },
+    {
+      "title": "Uberと日産、日本でロボタクシー展開へ　2026年後半から検証",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/12/news074.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T02:36:00+00:00",
+      "summary": "米Uber Technologiesは、日本でのロボタクシー（自動運転タクシー）の展開に向け、日産自動車および自動運転システムを手掛ける英Wayveと協業すると発表した。2026年後半に、東京でロボタクシーの試験運転を始める予定だ。"
+    },
+    {
+      "title": "PCと家庭用ゲームを統合する次世代Xbox「Project Helix」の概要をMicrosoftが発表、2026年4月からXboxモードがWindows PCに実装＆開発機はAMDカスタムチップ搭載",
+      "url": "https://gigazine.net/news/20260312-microsoft-project-helix/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-12T01:55:00+00:00",
+      "summary": "Microsoftがアメリカのサンフランシスコで2026年3月9日から開催されているゲーム開発者向けカンファレンスの「GDC 2026」で、プロジェクト名「Project Helix」で開発される次世代Xboxの概要を発表しました。Project HelixはPCとコンソール(家庭用ゲーム機)の統合をテーマとしています。また、Windows向けの新機能として、コントローラーでの操作に特化した「Xboxモード」が2026年4月より順次展開されます。続きを読む..."
+    },
+    {
+      "title": "Google、クラウドとAIセキュリティのWiz買収を完了　過去最大の案件に",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/12/news069.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T00:46:00+00:00",
+      "summary": "Googleは、クラウドとAIセキュリティ企業Wizの買収を320億ドルで完了した。WizはGoogle Cloud部門に統合されるが、ブランドは維持され、AWSやAzureなどマルチクラウド環境へのサービス提供も継続する。Wizの専門知識とGoogleのAI技術の融合により、サイバー攻撃への対応迅速化と運用コスト削減を目指す。"
+    },
     {
       "title": "Meta、自社製AIチップ「MTIA」新モデルと次世代データセンター構想発表",
       "url": "https://www.itmedia.co.jp/news/articles/2603/12/news068.html",
@@ -82,609 +730,6 @@
       "language": "en",
       "published": "2026-03-11T22:41:27+00:00",
       "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield."
-    },
-    {
-      "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-      "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T22:00:05+00:00",
-      "summary": "This deal could rank as among the streaming giant's largest acquisitions ever."
-    },
-    {
-      "title": "ゲームによくある六角形のヘックスマップをWebGPUで自動生成できる「Hex Map Toy」、波動関数の収縮を応用",
-      "url": "https://gigazine.net/news/20260312-hex-map-toy/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T22:00:00+00:00",
-      "summary": "ゲームでよく見る六角形タイルの地形マップをWebGPUで自動生成する実験的なマップジェネレーター「Hex Map Toy」が公開されています。作者によると、全19グリッド・約4100セルのマップをブラウザ上で簡単に生成でき、最大60fpsでの描画も可能です。続きを読む..."
-    },
-    {
-      "title": "なぜ「シャドーAI」を使うのか？　調査で分かった“会社公認AI”への不満",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2603/12/news060.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T22:00:00+00:00",
-      "summary": "読者調査を基に、許可されていないの生成AIを使う「シャドーAI」の発生要因を考察する。なぜ従業員はリスクを冒してまで非公認ツールを利用するのか。企業が今向き合うべき環境整備の盲点とは。"
-    },
-    {
-      "title": "「石橋を叩きすぎ」な日本企業　“世界標準”に至るためのコンタクトセンターDXの要点",
-      "url": "https://www.itmedia.co.jp/business/articles/2603/12/news024.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T22:00:00+00:00",
-      "summary": "Genesys（ジェネシス）日本法人の伊藤ポール・リッチー社長に、人員不足、カスハラといったコンタクトセンターの課題を解決し、日本企業が世界標準へと至るためのシナリオを聞いた。"
-    },
-    {
-      "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
-      "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T21:40:49+00:00",
-      "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February."
-    },
-    {
-      "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-      "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T21:06:06+00:00",
-      "summary": "Article URL: https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4\nComments URL: https://news.ycombinator.com/item?id=47341845\nPoints: 143\n# Comments: 137"
-    },
-    {
-      "title": "iCloudの無料枠がいつまで経っても5GBから増えないことを確認できる「Is iCloud’s free tier still 5GB？」",
-      "url": "https://gigazine.net/news/20260312-is-icloud-free-tier-still-5gb/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T21:00:00+00:00",
-      "summary": "Appleのクラウドストレージサービス「iCloud」は、無料で使える容量がサービス開始の2011年時点から5GBのまま据え置かれています。そんな状況を一発で確認できるサイト「Is iCloud's free tier still 5GB？(iCloudの無料プランは今でも5GBのまま？)」が登場しました。続きを読む..."
-    },
-    {
-      "title": "Many SWE-bench-Passing PRs would not be merged",
-      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T20:56:52+00:00",
-      "summary": "Article URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/\nComments URL: https://news.ycombinator.com/item?id=47341645\nPoints: 109\n# Comments: 20"
-    },
-    {
-      "title": "The dead Internet is not a theory anymore",
-      "url": "https://www.adriankrebs.ch/blog/dead-internet/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T20:20:22+00:00",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/dead-internet/\nComments URL: https://news.ycombinator.com/item?id=47340935\nPoints: 315\n# Comments: 220"
-    },
-    {
-      "title": "X is selling existing users' handles",
-      "url": "https://news.ycombinator.com/item?id=47340754",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T20:11:50+00:00",
-      "summary": "I've been on Twitter since 2007 as @hac.In recent years I didn't sign in frequently, then last week I saw my handle show up on the new X Handles marketplace.It seems the account now belongs to X, and because I had a \"rare handle\" I can't even buy it back. From what I can tell, they will wait for some time and then auction the handle for around $100k.Losing your account is frustrating. Having it sold to someone else doesn't feel right.Of course, there is no warning when it happens. All you can do to prevent it is sign in every 30 days and read all changes to the TOS.\n\nComments URL: https://news.ycombinator.com/item?id=47340754\nPoints: 114\n# Comments: 61"
-    },
-    {
-      "title": "AIコーディングはなぜ後から苦しくなるのか？　技術負債に続く「理解負債」「認知負債」という新たな落とし穴",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/12/news016.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T20:00:00+00:00",
-      "summary": "AIコーディングが普及する中で注目され始めた「理解負債」と「認知負債」。従来の技術負債と合わせた「AIコーディング時代の三大負債」を整理し、なぜ開発が後から苦しくなるのかを分かりやすく解説する。"
-    },
-    {
-      "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
-      "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T19:29:29+00:00",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated\nComments URL: https://news.ycombinator.com/item?id=47340079\nPoints: 2594\n# Comments: 949"
-    },
-    {
-      "title": "I'm glad the Anthropic fight is happening now",
-      "url": "https://www.dwarkesh.com/p/dow-anthropic",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T19:28:59+00:00",
-      "summary": "Article URL: https://www.dwarkesh.com/p/dow-anthropic\nComments URL: https://news.ycombinator.com/item?id=47340071\nPoints: 121\n# Comments: 158"
-    },
-    {
-      "title": "Replit snags $9B valuation 6 months after hitting $3B",
-      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T18:52:52+00:00",
-      "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end."
-    },
-    {
-      "title": "Grammarly says it will stop using AI to clone experts without permission",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T18:45:50+00:00",
-      "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control [&#8230;]"
-    },
-    {
-      "title": "Personal Computer by Perplexity",
-      "url": "https://www.perplexity.ai/personal-computer-waitlist",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T18:22:21+00:00",
-      "summary": "Article URL: https://www.perplexity.ai/personal-computer-waitlist\nComments URL: https://news.ycombinator.com/item?id=47339223\nPoints: 106\n# Comments: 88"
-    },
-    {
-      "title": "I was interviewed by an AI bot for a job",
-      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T18:17:30+00:00",
-      "summary": "https://archive.ph/DEwy7\n\nComments URL: https://news.ycombinator.com/item?id=47339164\nPoints: 117\n# Comments: 122"
-    },
-    {
-      "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893189/openai-chatgpt-sora-integration",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T16:50:45+00:00",
-      "summary": "OpenAI's Sora video generator could soon become a built-in feature in ChatGPT, as reported by The Information. Sora is currently only available on its website or as a standalone app, which has fallen shy of the popularity of ChatGPT. This update would allow users to access Sora's video generation capabilities directly within ChatGPT itself, much [&#8230;]"
-    },
-    {
-      "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-      "url": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T16:43:59+00:00",
-      "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools."
-    },
-    {
-      "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-      "url": "https://sitespy.app",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T16:21:06+00:00",
-      "summary": "I built Site Spy after missing a visa appointment slot because a government page changed and I didn’t notice for two weeks.It watches webpages for changes and shows the result like a diff. The part I think HN might find interesting is that it can monitor a specific element on a page, not just the whole page, and it can expose changes as RSS feeds.So instead of tracking an entire noisy page, you can watch just a price, a stock status, a headline, or a specific content block. When it changes, you can inspect the diff, browse the snapshot history, or follow the updates in an RSS reader.It’s a Chrome/Firefox extension plus a web dashboard.Main features:- Element picker for tracking a specific part of a page- Diff view plus full snapshot timeline- RSS feeds per watch, per tag, or across all watches- MCP server for Claude, Cursor, and other AI agents- Browser push, Email, and Telegram notificationsChrome: https://chromewebstore.google.com/detail/site-spy/jeapcpanag...Firefox: https://addons.mozilla.org/en-GB/firefox/addon/site-spy/Docs: https://docs.sitespy.appI’d especially love feedback on two things:- Is RSS actually a useful interface for this, or do most people just want direct alerts?- Does element-level tracking feel meaningfully better than full-page monitoring?\n\nComments URL: https://news.ycombinator.com/item?id=47337607\nPoints: 154\n# Comments: 44"
-    },
-    {
-      "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T16:12:02+00:00",
-      "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory."
-    },
-    {
-      "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
-      "url": "https://klausai.com/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T15:54:23+00:00",
-      "summary": "We are Bailey and Robbie and we are working on Klaus (https://klausai.com/): hosted OpenClaw that is secure and powerful out of the box.Running OpenClaw requires setting up a cloud VM or local container (a pain) or giving OpenClaw root access to your machine (insecure). Many basic integrations (eg Slack, Google Workspace) require you to create your own OAuth app.We make running OpenClaw simple by giving each user their own EC2 instance, preconfigured with keys for OpenRouter, AgentMail, and Orthogonal. And we have OAuth apps to make it easy to integrate with Slack and Google Workspace.We are both HN readers (Bailey has been on here for ~10 years) and we know OpenClaw has serious security concerns. We do a lot to make our users’ instances more secure: we run on a private subnet, automatically update the OpenClaw version our users run, and because you’re on our VM by default the only keys you leak if you get hacked belong to us. Connecting your email is still a risk. The best defense I know of is Opus 4.6 for resilience to prompt injection. If you have a better solution, we’d love to hear it!We learned a lot about infrastructure management in the past month. Kimi K2.5 and Mimimax M2.5 are extremely good at hallucinating new ways to break openclaw.json and otherwise wreaking havoc on an EC2 instance. The week after our launch we spent 20+ hours fixing broken machines by hand.We wrote a ton of best practices on using OpenClaw on AWS Linux into our users’ AGENTS.md, got really good at un-bricking EC2 machines over SSM, added a command-and-control server to every instance to facilitate hotfixes and migrations, and set up a Klaus instance to answer FAQs on discord.In addition to all of this, we built ClawBert, our AI SRE for hotfixing OpenClaw instances automatically: https://www.youtube.com/watch?v=v65F6VBXqKY. Clawbert is a Claude Code instance that runs whenever a health check fails or the user triggers it in the UI. It can read that user’s entries in our database and execute commands on the user’s instance. We expose a log of Clawbert’s runs to the user.We know that setting up OpenClaw is easy for most HN readers, but I promise it is not for most people. Klaus has a long way to go, but it’s still very rewarding to see people who’ve never used Claude Code get their first taste of AI agents.We charge $19/m for a t4g.small, $49/m for a t4g.medium, and $200/m for a t4g.xlarge and priority support. You get $15 in tokens and $20 in Orthogonal credits one-time.We want to know what you are building on OpenClaw so we can make sure we support it. We are already working with companies like Orthogonal and Openrouter that are building things to make agents more useful, and we’re sure there are more tools out there we don’t know about. If you’ve built something agents want, please let us know. Comments welcome!\n\nComments URL: https://news.ycombinator.com/item?id=47337249\nPoints: 113\n# Comments: 67"
-    },
-    {
-      "title": "Physicist Astrid Eichhorn is a leader in the field of asymptotic safety",
-      "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T15:48:29+00:00",
-      "summary": "Article URL: https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/\nComments URL: https://news.ycombinator.com/item?id=47337177\nPoints: 110\n# Comments: 16"
-    },
-    {
-      "title": "Temporal: A nine-year journey to fix time in JavaScript",
-      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T15:35:50+00:00",
-      "summary": "Article URL: https://bloomberg.github.io/js-blog/post/temporal/\nComments URL: https://news.ycombinator.com/item?id=47336989\nPoints: 495\n# Comments: 168"
-    },
-    {
-      "title": "Meta’s Moltbook deal points to a future built around AI agents",
-      "url": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T15:11:31+00:00",
-      "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web."
-    },
-    {
-      "title": "Canva’s new editing tool adds layers to AI-generated designs",
-      "url": "https://www.theverge.com/tech/893124/canva-ai-magic-layers-feature-beta",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T15:02:02+00:00",
-      "summary": "Canva introduced a new feature that separates flat image files and AI-generated visuals into layered, fully editable designs. The Magic Layers tool is launching in public beta today in the US, UK, Canada, and Australia, allowing design components like objects, text boxes, and other graphics to be selected individually while preserving the original layout. \"After [&#8230;]"
-    },
-    {
-      "title": "Google closes deal to acquire Wiz",
-      "url": "https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T14:58:20+00:00",
-      "summary": "Previously: Google to buy Wiz for $32B - https://news.ycombinator.com/item?id=43398518 - March 2025 (845 comments)\n\nComments URL: https://news.ycombinator.com/item?id=47336476\nPoints: 220\n# Comments: 147"
-    },
-    {
-      "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
-      "url": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T14:48:30+00:00",
-      "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites."
-    },
-    {
-      "title": "Show HN: Open-source browser for AI agents",
-      "url": "https://github.com/theredsix/agent-browser-protocol",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T14:39:30+00:00",
-      "summary": "Hi HN, I forked chromium and built agent-browser-protocol (ABP) after noticing that most browser-agent failures aren’t really about the model misunderstanding the page. Instead, the problem is that the model is reasoning from a stale state.ABP is designed to keep the acting agent synchronized with the browser at every step. After each action (click, type, etc), it freezes JavaScript execution and rendering, then captures the resulting state. It also compiles the notable events that occurred during that action loop, such as navigation, file pickers, permission prompts, alerts, and downloads, and sends that along with a screenshot of the frozen page state back to the agent.The result is that browser interaction starts to feel more like a multimodal chat loop. The agent takes an action, gets back a fresh visual state and a structured summary of what happened, then decides what to do next from there. That fits much better with how LLMs already work.A few common browser-use failures ABP helps eliminate:\n* A modal appears after the last Playwright screenshot and blocks the input the agent was about to use\n* Dynamic filters cause the page to reflow between steps\n* An autocomplete dropdown opens and covers the element the agent intended to click\n* alert() / confirm() interrupts the flow\n* Downloads are triggered, but the agent has no reliable way to know when they’ve completedAs proof, ABP with opus 4.6 as the driver scores 90.5% on the Online Mind2Web benchmark. I think modern LLMs already understand websites, they just need a better tool to interact with them. Happy to answer questions about the architecture, forking chrome or anything else in the comments below.Try it out: `claude mcp add browser -- npx -y agent-browser-protocol --mcp` (Codex/OpenCode instructions in the docs)Demo video: https://www.loom.com/share/387f6349196f417d8b4b16a5452c3369\n\nComments URL: https://news.ycombinator.com/item?id=47336171\nPoints: 104\n# Comments: 33"
-    },
-    {
-      "title": "Faster asin() was hiding in plain sight",
-      "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T14:35:53+00:00",
-      "summary": "Article URL: https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/\nComments URL: https://news.ycombinator.com/item?id=47336111\nPoints: 175\n# Comments: 102"
-    },
-    {
-      "title": "Canopii looks to succeed where past indoor farms have not",
-      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T14:00:00+00:00",
-      "summary": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court."
-    },
-    {
-      "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
-      "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T13:52:01+00:00",
-      "summary": "Article URL: https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/\nComments URL: https://news.ycombinator.com/item?id=47335572\nPoints: 570\n# Comments: 249"
-    },
-    {
-      "title": "Entities enabling scientific fraud at scale (2025)",
-      "url": "https://doi.org/10.1073/pnas.2420092122",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T13:32:12+00:00",
-      "summary": "Article URL: https://doi.org/10.1073/pnas.2420092122\nComments URL: https://news.ycombinator.com/item?id=47335349\nPoints: 254\n# Comments: 185"
-    },
-    {
-      "title": "The mysterious case of the DHS white supremacist memelord",
-      "url": "https://www.theverge.com/column/892985/dhs-white-supremacist-memelord",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T13:28:32+00:00",
-      "summary": "Hello and welcome to Regulator, a newsletter that takes Verge subscribers into the smoke-filled back rooms of Washington as they become the Zyn-filled back rooms of Washington. (Although Tucker Carlson's ALP is more popular among a certain set.) Not a Verge subscriber yet? Sign up here today! I'm not exposing myself to all these carcinogens [&#8230;]"
-    },
-    {
-      "title": "Lego's 0.002mm specification and its implications for manufacturing (2025)",
-      "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T13:22:39+00:00",
-      "summary": "Article URL: https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/\nComments URL: https://news.ycombinator.com/item?id=47335237\nPoints: 344\n# Comments: 293"
-    },
-    {
-      "title": "Chatbots encouraged &#8216;teens&#8217; to plan shootings in study",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/892978/ai-chatbots-investigation-help-teens-plan-violence",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T13:18:45+00:00",
-      "summary": "AI companies have repeatedly promised safeguards to protect younger users, but a new investigation suggests those guardrails remain woefully deficient. Popular chatbots missed warning signs in scenarios involving teenagers discussing violent acts, in some cases even offering encouragement instead of intervening. The findings come from a joint investigation by CNN and the nonprofit Center for [&#8230;]"
-    },
-    {
-      "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
-      "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T12:57:41+00:00",
-      "summary": "Article URL: https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/\nComments URL: https://news.ycombinator.com/item?id=47334982\nPoints: 153\n# Comments: 337"
-    },
-    {
-      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
-      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-      "source": "MIT Technology Review",
-      "category": "research",
-      "language": "en",
-      "published": "2026-03-11T12:46:21+00:00",
-      "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a&#8230;"
-    },
-    {
-      "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
-      "url": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
-      "source": "MIT Technology Review",
-      "category": "research",
-      "language": "en",
-      "published": "2026-03-11T12:38:00+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world&#160; Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the&#8230;"
-    },
-    {
-      "title": "BitNet: 100B Param 1-Bit model for local CPUs",
-      "url": "https://github.com/microsoft/BitNet",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T12:27:15+00:00",
-      "summary": "Article URL: https://github.com/microsoft/BitNet\nComments URL: https://news.ycombinator.com/item?id=47334694\nPoints: 293\n# Comments: 148"
-    },
-    {
-      "title": "宇宙の広い範囲を占めている銀河がほとんどない領域「超空洞(ボイド)」とは？",
-      "url": "https://gigazine.net/news/20260311-universe-void-no-galaxies/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T12:00:00+00:00",
-      "summary": "星がよく見える場所で夜空を見上げると、空一面がさまざまな星や銀河で覆われているのが目に入ります。ところが、実は宇宙の大半は「超空洞(ボイド)」と呼ばれる銀河がほとんど存在しない空虚な領域だとのことで、科学系YouTubeチャンネルのKurzgesagtがボイドについて動画で解説しました。続きを読む..."
-    },
-    {
-      "title": "カズオ・イシグロら約1万人の作家が「この本を盗むな」という「中身のない本」を出版、AI企業が作品を一方的に利用する現状に抗議するため",
-      "url": "https://gigazine.net/news/20260311-dont-steal-this-book/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T11:50:00+00:00",
-      "summary": "約1万人の作家が共同で出版した「Don't Steal This Book(この本を盗むな)」は、作家の名前がリスト化されただけの内容で、本としての中身がない「空っぽの本」となっています。この本はAI企業が作品を許可なく使用していることに抗議する目的で作成されており、出版を主催した作家は「AI業界は許可や支払いなしに盗まれた作品の上に成り立っている」と批判を述べています。続きを読む..."
-    },
-    {
-      "title": "無料でアップロードした画像や動画を意図的に劣化させガビガビにするツール「GABIBI(ガビビ)」",
-      "url": "https://gigazine.net/news/20260311-gabibi/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T10:31:00+00:00",
-      "summary": "デザイナーであるトミナガハルキさんが、画像を意図的に劣化させてノイズだらけにする無料のウェブツール「GABIBI(ガビビ)」を公開しました。美麗な写真をあえて90年代～00年代にインターネットで見られたような低画質でノイズだらけのJPEG画像に加工することができます。続きを読む..."
-    },
-    {
-      "title": "2026年3月11日のヘッドラインニュース",
-      "url": "https://gigazine.net/news/20260311-headline/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T10:29:00+00:00",
-      "summary": "森永製菓の爽快フローズンデザート「フローズンラムネ」のバリエーションとして「フローズンラムネ＜コーラフロート＞」が登場します。「コーラ味みぞれ」「コーラ味ソース」「コーラ味チョコチップ」「まろやかなミルクアイス」「カラフルなラムネ」を使った爽快感のある味に仕上がっているとのこと。コンビニエンスストアでは2026年3月16日に先行発売される予定で、3月30日にはスーパーマーケットなどでも入手できるようになります。続きを読む..."
-    },
-    {
-      "title": "Adobe Lightroom Classic 15.2 のパフォーマンス分析とベンチマーク結果",
-      "url": "https://gigazine.net/news/20260311-lightroom-classic-15-2-benchmark/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T10:00:00+00:00",
-      "summary": "Adobeの写真編集ツール「Lightroom Classic」の2026年2月にリリースされたバージョン「15.2」でベンチマークを実施した結果が公開されました。続きを読む..."
-    },
-    {
-      "title": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T09:45:00+00:00",
-      "summary": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, [&#8230;]"
-    },
-    {
-      "title": "都営バスの「AI翻訳透明ディスプレイ」実証再開　強度不足での破損経て約2カ月ぶり",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/11/news115.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T09:45:00+00:00",
-      "summary": "東京都は3月11日、音声認識した内容を翻訳して表示する「AI翻訳透明ディスプレイ」の都営バスへの試験導入を再開すると発表した。1月15日から浅草エリアのバス路線で試験導入を始めたものの、強度不足により機器が破損したため、18日から一時中断していた。"
-    },
-    {
-      "title": "大阪の地下から謎の巨大下水管が突き出してきた、復旧作業の様子も撮影してきたよレポート",
-      "url": "https://gigazine.net/news/20260311-osaka-gesuikan/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T08:53:00+00:00",
-      "summary": "大阪市北区で「地下から巨大な下水管が突き出してきて、10メートル以上の高さまでせり上がる」という事態が発生しました。あまりにも異様な事態だったので、実際に現場に行って復旧作業の様子を撮影してきました。続きを読む..."
-    },
-    {
-      "title": "宇治抹茶の豊かな風味と渋みを存分に味わえるブラックサンダーの新フレーバー「濃抹茶サンダー」を食べてみた",
-      "url": "https://gigazine.net/news/20260311-yurakuseika-matcha-thunder/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T08:00:00+00:00",
-      "summary": "有楽製菓の人気チョコレート菓子であるブラックサンダーシリーズから、2026年3月17日(火)に「濃抹茶サンダー」が登場します。厳選した2種類の宇治抹茶をぜいたくに使用し、ブラックサンダーならではのザクザク食感とともに本格的な抹茶の味わいを楽しめるという一品が編集部に届いたので、どんなブラックサンダーに仕上がっているのか実際に食べて確かめてみました。続きを読む..."
-    },
-    {
-      "title": "【訃報】あの超有名傑作アルゴリズム「クイックソート」の作者トニー・ホーアが92才で亡くなる、チューリング賞受賞者で元オックスフォード大学名誉教授",
-      "url": "https://gigazine.net/news/20260311-tony-hoare-passed-away/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T07:00:00+00:00",
-      "summary": "データの並び替えを行うアルゴリズム「クイックソート」を開発したチャールズ・アントニー・リチャード・ホーア(トニー・ホーア)氏が、2026年3月5日に92歳で亡くなりました。続きを読む..."
-    },
-    {
-      "title": "AIとロボット技術を駆使した人間の労働者をほとんど必要としない「ダークファクトリー」が中国の労働市場で賃金の低下と雇用機会の喪失を引き起こしている",
-      "url": "https://gigazine.net/news/20260311-china-ai-dark-factory/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T05:00:00+00:00",
-      "summary": "半導体や電化製品などの製造拠点として知られる中国ですが、ここで働く労働者は賃金の低下と雇用機会の喪失に苦しんでいると、経済メディアのBloombergが報じています。続きを読む..."
-    },
-    {
-      "title": "OPPOとOnePlusが既存スマホの値上げを発表、世界的なメモリ供給不足による価格高騰で",
-      "url": "https://gigazine.net/news/20260311-oppo-oneplus-raise-prices-smartphones/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T04:37:00+00:00",
-      "summary": "中国のスマートフォンメーカーであるOPPOとその傘下にあるOnePlusが、2026年3月16日から既存の一部スマートフォンの価格を引き上げると発表しました。AI需要の増加による記録的なメモリ不足と、それに伴う価格高騰を受けてのものとみられます。続きを読む..."
-    },
-    {
-      "title": "メモリとCPUの価格高騰で10万円台前半クラスのノートPCの小売価格が利益率を維持するために約40％上昇する可能性あり",
-      "url": "https://gigazine.net/news/20260311-notebook-pc-prices-will-rise/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T04:21:00+00:00",
-      "summary": "市場調査企業のTrendForceが、2026年のノートPC市場は需要の停滞と構成部品のコスト上昇という二重の圧力に直面しているという報告を発表しました。特にDRAMやNANDフラッシュといったメモリ製品およびCPUの価格が急騰しており、これによりメーカーが現行の利益率を維持しようとした場合、標準的なノートPCの小売価格は約40％上昇する可能性があると予測されています。続きを読む..."
-    },
-    {
-      "title": "今日は毎月恒例「Windows Update」の日、再起動を極力不要とする「ホットパッチ更新」が一部ライセンスでデフォルトに",
-      "url": "https://gigazine.net/news/20260311-windows-update/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T03:28:00+00:00",
-      "summary": "Windowsのセキュリティ更新プログラムやバグ修正を配信する毎月恒例のWindows Updateが公開されました。日本時間2026年3月11日のアップデートには最大深刻度「緊急」の更新が2件、「重要」の更新が8件含まれています。また、再起動を極力不要とする「ホットパッチ」が一部ライセンスを対象にデフォルトで有効化されることも発表されています。続きを読む..."
-    },
-    {
-      "title": "「ポケモンGO」などで得た空間情報で学習した配送ロボットが誕生",
-      "url": "https://gigazine.net/news/20260311-niantic-spatial-vps-coco-robotics/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T03:15:00+00:00",
-      "summary": "「ポケモンGO」「Ingress」などの位置情報ゲームを開発するNianticが分社化して生まれた空間情報活用企業、Niantic Spatialが、配送ロボットを開発するCoco Roboticsとパートナーシップを結びました。ゲーム等で得られた情報を活用してロボットの精度を向上するとのことです。続きを読む..."
-    },
-    {
-      "title": "ユーザーの代わりに買い物できるPerplexityのAIブラウザ「Comet」のAmazonへのアクセス禁止命令を裁判所が下す、さらにAmazonのデータの複製をすべて破棄することも義務付け",
-      "url": "https://gigazine.net/news/20260311-amazon-win-court-perplexity-comet/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T03:10:00+00:00",
-      "summary": "アメリカのカリフォルニア州北部地区連邦地方裁判所が、AIスタートアップ企業のPerplexityが提供するAI搭載ウェブブラウザ「Comet」に対し、Amazonのパスワード保護されたシステムへのアクセスを一時的に禁止する予備差止命令を2026年3月9日付けで下しました。続きを読む..."
-    },
-    {
-      "title": "「女性との対話をシミュレーションするAIチャットボット」が独り身に悩む男性の恋愛スキルを向上させる可能性",
-      "url": "https://gigazine.net/news/20260311-ai-dating-simulator-help-single-men/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T03:05:00+00:00",
-      "summary": "近年はChatGPTやGeminiなどのチャットAIをトレーニングして、まるで理想の恋人やパートナーと話しているようにやり取りをして楽しむ人が増えています。また、最初から異性との恋愛的なやり取りを目的としたAIコンパニオンも登場しており、多くの人々がAIとの疑似的な恋愛関係を楽しんでいます。独り身に苦しむ男性を対象にした新たな実験では、女性のふりをしたAIチャットボットとのやり取りで独り身の男性の心理的負担が軽減され、恋愛スキルが向上する可能性があると示されました。続きを読む..."
-    },
-    {
-      "title": "YouTube、政治家の“AIフェイク動画”対策を強化　自動検出機能の提供拡大",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/11/news077.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T03:00:00+00:00",
-      "summary": "米Google傘下のYouTubeは、生成AIによる偽動画を検出する機能を、一部の政治家やジャーナリストに試験提供すると発表した。自身の顔に似た顔が映るAI動画を検知し、YouTubeのガイドラインに違反している場合は削除を要請できる。"
-    },
-    {
-      "title": "人型ロボ、リビングを掃除する　テーブルを拭き、コップを片付け、かごにおもちゃを入れ……",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/11/news076.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T02:55:00+00:00",
-      "summary": "テーブルの上のコップをどけ、洗剤をスプレーし、テーブルをタオルで拭いたり、リモコンを操作してテレビを消したりするなど、複雑な動作を行っている。"
-    },
-    {
-      "title": "GoogleがAI「Gemini」をGoogleドキュメント・スプレッドシート・スライド・ドライブに全面展開、「作成を手伝って」で文書の草案生成が可能に",
-      "url": "https://gigazine.net/news/20260311-gemini-workspace/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T02:40:00+00:00",
-      "summary": "GeminiがGoogleドキュメントなどのGoogle Workspaceでの作業をサポートする共同作業パートナーとして統合されることが2026年3月10日に発表されました。Geminiを用いることで文書の草案を作成したり、データの統合と分析をしたりといったことが可能です。続きを読む..."
-    },
-    {
-      "title": "Google brings Gemini in Chrome to India",
-      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T02:30:00+00:00",
-      "summary": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents."
-    },
-    {
-      "title": "DOGEの元職員が「5億人超のアメリカ国民の社会保障番号などが含まれたデータベース」をUSBメモリに保存して盗んだとの報道",
-      "url": "https://gigazine.net/news/20260311-doge-employee-stole-social-security-data/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T02:23:00+00:00",
-      "summary": "「政府効率化省(DOGE)の元職員が社会保障局からアメリカ人の個人情報を盗み、USBメモリに保存していた」と報じられました。続きを読む..."
-    },
-    {
-      "title": "YouTubeの広告収益は「ディズニー」「パラマウント」「ワーナー・ブラザース・ディスカバリー」「NBCU」の合計を上回る",
-      "url": "https://gigazine.net/news/20260311-youtube-revenue-media-company/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T02:03:00+00:00",
-      "summary": "2025年、YouTubeの広告収益額が驚異的な数値に達し、ディズニーやパラマウントといった巨大メディア企業すら大きく上回る額を稼いだことが判明しました。続きを読む..."
-    },
-    {
-      "title": "YouTubeが「政治家になりすましたAIフェイク動画」の検出ツールを提供開始",
-      "url": "https://gigazine.net/news/20260311-youtube-likeness-detection/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T01:40:00+00:00",
-      "summary": "YouTubeはAIによるフェイク動画の対策として、「自分と似た顔が使われている動画を検出する機能」をYouTubeパートナープログラムに参加するクリエイターに提供しています。新たに、類似動画検出機能を政治家やジャーナリストにも提供することが2026年3月10日に発表されました。続きを読む..."
-    },
-    {
-      "title": "MetaがAIエージェントソーシャルネットワーク「Moltbook」を買収",
-      "url": "https://gigazine.net/news/20260311-moltbook-agent/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T01:35:00+00:00",
-      "summary": "AIエージェント専用のSNS「Moltbook」をMetaが買収したことが報じられました。Moltbookの開発者であるマット・シュリヒト氏とビジネスパートナーのベン・パー氏はMetaのAI研究を率いる部門である「Meta Superintelligence Labs(MSL)」に採用される予定です。続きを読む..."
-    },
-    {
-      "title": "Amazonがプライム会員向けに24時間365日無料で使えるヘルスケアAIエージェント「Health AI」をウェブサイト＆アプリで提供開始",
-      "url": "https://gigazine.net/news/20260311-amazon-health-ai/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T01:32:00+00:00",
-      "summary": "Amazonがパーソナライズされた健康関連の洞察やガイダンスを提供したり、処方箋の管理をしたり、健康を維持するための有意義なアクションを提案したりすることができる新しいヘルスケアAIエージェント「Health AI」の提供を開始しました。Health AIはプライム会員なら24時間365日いつでも無料で利用可能で、ウェブサイトおよびアプリから利用できます。続きを読む..."
-    },
-    {
-      "title": "2026年度イグノーベル賞からはヨーロッパで授賞式を開催するとの発表、「受賞者やゲストがアメリカに渡るのが安全でなくなったため」",
-      "url": "https://gigazine.net/news/20260311-ig-nobel-prize-ceremony-move-to-europe/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T01:29:00+00:00",
-      "summary": "1991年から35年間にわたりアメリカのマサチューセッツ州で開催されてきたイグノーベル賞の授賞式が、「アメリカへの入国が難しくなっていることへの懸念」を理由に、2026年はスイスのチューリッヒに移転して開催されることが発表されました。2026年9月3日にチューリッヒで開催された後は、奇数年にはヨーロッパの別の都市を巡回する形式をとる予定です。続きを読む..."
     }
   ]
 }

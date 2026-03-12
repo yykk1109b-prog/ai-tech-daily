@@ -1,7 +1,88 @@
 {
-  "fetched_at": "2026-03-11T22:22:47.925383+00:00",
-  "total_count": 77,
+  "fetched_at": "2026-03-12T00:52:12.890201+00:00",
+  "total_count": 76,
   "articles": [
+    {
+      "title": "Meta、自社製AIチップ「MTIA」新モデルと次世代データセンター構想発表",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/12/news068.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-11T23:46:00+00:00",
+      "summary": "Metaは、AI関連タスクに特化した自社製カスタムチップ「MTIA」シリーズの最新4モデルを公開した。推論処理の最適化とコスト削減を狙い、開発サイクルを大幅に短縮。並行して、NVIDIA製GPUを大量投入した巨大クラスタの構築や、将来的な5GW規模の超巨大データセンター「Hyperion」の稼働計画も進めている。"
+    },
+    {
+      "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+      "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-11T23:35:03+00:00",
+      "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this."
+    },
+    {
+      "title": "「子どもの安全を守るため」のオンライン年齢確認ツールが普及しているが実際には「成人」も監視対象となっている",
+      "url": "https://gigazine.net/news/20260312-online-age-verification-tools-surveilling-adults/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-11T23:00:00+00:00",
+      "summary": "アメリカではオンライン上で子どもを保護するために、プラットフォーマーにユーザーの年齢確認を義務付ける法律である「年齢確認法」が検討されており、既にAppleやDiscordは年齢確認法に則った年齢確認ツールの導入を進めています。しかし、子どもの安全を守るための年齢確認ツールが、大人の監視に利用されているとCNBCが報じました。続きを読む..."
+    },
+    {
+      "title": "M365版「Cowork」登場　Anthropicとの連携が生んだ「新しい仕事の進め方」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news045.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-11T23:00:00+00:00",
+      "summary": "「Microsoft 365 Copilot」の新機能「Copilot Cowork」が発表された。AIが各アプリを横断して業務を遂行する。機能の詳細とユースケースについて解説する。"
+    },
+    {
+      "title": "データ激増時代に変化するIT部門の役割　データガバナンス実装の現実解",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news011.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-11T23:00:00+00:00",
+      "summary": "データ活用の拡大によってデータ基盤のサイロ化も進んでいる。複雑なデータ基盤を管理する企業のIT担当者に求められている新たな役割とは何か。そして、事業の信頼を支えるデータガバナンスの実現に必要な思想とは。"
+    },
+    {
+      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-11T22:51:53+00:00",
+      "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the [&#8230;]"
+    },
+    {
+      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+      "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-11T22:51:39+00:00",
+      "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers."
+    },
+    {
+      "title": "Anthropic、AIリスク専門のシンクタンク設立──米政府の規制リスクに直面する中で",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/12/news066.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-11T22:43:00+00:00",
+      "summary": "Anthropicは、AIの社会的影響を研究する新部門「Anthropic Institute」を設立した。高度なAIがもたらす経済や雇用へのリスクを分析し、政府の政策決定を支援するシンクタンクとして機能する。ワシントンD.C.にも拠点を設け、サプライチェーンリスク指定を巡る議論が深まる中、情報の公開と外部連携を強化する。"
+    },
+    {
+      "title": "Zendesk acquires agentic customer service startup Forethought",
+      "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-11T22:41:27+00:00",
+      "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield."
+    },
     {
       "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
       "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
@@ -21,6 +102,24 @@
       "summary": "ゲームでよく見る六角形タイルの地形マップをWebGPUで自動生成する実験的なマップジェネレーター「Hex Map Toy」が公開されています。作者によると、全19グリッド・約4100セルのマップをブラウザ上で簡単に生成でき、最大60fpsでの描画も可能です。続きを読む..."
     },
     {
+      "title": "なぜ「シャドーAI」を使うのか？　調査で分かった“会社公認AI”への不満",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2603/12/news060.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-11T22:00:00+00:00",
+      "summary": "読者調査を基に、許可されていないの生成AIを使う「シャドーAI」の発生要因を考察する。なぜ従業員はリスクを冒してまで非公認ツールを利用するのか。企業が今向き合うべき環境整備の盲点とは。"
+    },
+    {
+      "title": "「石橋を叩きすぎ」な日本企業　“世界標準”に至るためのコンタクトセンターDXの要点",
+      "url": "https://www.itmedia.co.jp/business/articles/2603/12/news024.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-11T22:00:00+00:00",
+      "summary": "Genesys（ジェネシス）日本法人の伊藤ポール・リッチー社長に、人員不足、カスハラといったコンタクトセンターの課題を解決し、日本企業が世界標準へと至るためのシナリオを聞いた。"
+    },
+    {
       "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
       "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
       "source": "TechCrunch AI",
@@ -28,6 +127,15 @@
       "language": "en",
       "published": "2026-03-11T21:40:49+00:00",
       "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February."
+    },
+    {
+      "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
+      "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T21:06:06+00:00",
+      "summary": "Article URL: https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4\nComments URL: https://news.ycombinator.com/item?id=47341845\nPoints: 143\n# Comments: 137"
     },
     {
       "title": "iCloudの無料枠がいつまで経っても5GBから増えないことを確認できる「Is iCloud’s free tier still 5GB？」",
@@ -39,13 +147,31 @@
       "summary": "Appleのクラウドストレージサービス「iCloud」は、無料で使える容量がサービス開始の2011年時点から5GBのまま据え置かれています。そんな状況を一発で確認できるサイト「Is iCloud's free tier still 5GB？(iCloudの無料プランは今でも5GBのまま？)」が登場しました。続きを読む..."
     },
     {
+      "title": "Many SWE-bench-Passing PRs would not be merged",
+      "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T20:56:52+00:00",
+      "summary": "Article URL: https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/\nComments URL: https://news.ycombinator.com/item?id=47341645\nPoints: 109\n# Comments: 20"
+    },
+    {
       "title": "The dead Internet is not a theory anymore",
       "url": "https://www.adriankrebs.ch/blog/dead-internet/",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
       "published": "2026-03-11T20:20:22+00:00",
-      "summary": "Article URL: https://www.adriankrebs.ch/blog/dead-internet/\nComments URL: https://news.ycombinator.com/item?id=47340935\nPoints: 272\n# Comments: 170"
+      "summary": "Article URL: https://www.adriankrebs.ch/blog/dead-internet/\nComments URL: https://news.ycombinator.com/item?id=47340935\nPoints: 315\n# Comments: 220"
+    },
+    {
+      "title": "X is selling existing users' handles",
+      "url": "https://news.ycombinator.com/item?id=47340754",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T20:11:50+00:00",
+      "summary": "I've been on Twitter since 2007 as @hac.In recent years I didn't sign in frequently, then last week I saw my handle show up on the new X Handles marketplace.It seems the account now belongs to X, and because I had a \"rare handle\" I can't even buy it back. From what I can tell, they will wait for some time and then auction the handle for around $100k.Losing your account is frustrating. Having it sold to someone else doesn't feel right.Of course, there is no warning when it happens. All you can do to prevent it is sign in every 30 days and read all changes to the TOS.\n\nComments URL: https://news.ycombinator.com/item?id=47340754\nPoints: 114\n# Comments: 61"
     },
     {
       "title": "AIコーディングはなぜ後から苦しくなるのか？　技術負債に続く「理解負債」「認知負債」という新たな落とし穴",
@@ -63,7 +189,16 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-11T19:29:29+00:00",
-      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated\nComments URL: https://news.ycombinator.com/item?id=47340079\nPoints: 1808\n# Comments: 703"
+      "summary": "Article URL: https://news.ycombinator.com/newsguidelines.html#generated\nComments URL: https://news.ycombinator.com/item?id=47340079\nPoints: 2594\n# Comments: 949"
+    },
+    {
+      "title": "I'm glad the Anthropic fight is happening now",
+      "url": "https://www.dwarkesh.com/p/dow-anthropic",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T19:28:59+00:00",
+      "summary": "Article URL: https://www.dwarkesh.com/p/dow-anthropic\nComments URL: https://news.ycombinator.com/item?id=47340071\nPoints: 121\n# Comments: 158"
     },
     {
       "title": "Replit snags $9B valuation 6 months after hitting $3B",
@@ -82,6 +217,24 @@
       "language": "en",
       "published": "2026-03-11T18:45:50+00:00",
       "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control [&#8230;]"
+    },
+    {
+      "title": "Personal Computer by Perplexity",
+      "url": "https://www.perplexity.ai/personal-computer-waitlist",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T18:22:21+00:00",
+      "summary": "Article URL: https://www.perplexity.ai/personal-computer-waitlist\nComments URL: https://news.ycombinator.com/item?id=47339223\nPoints: 106\n# Comments: 88"
+    },
+    {
+      "title": "I was interviewed by an AI bot for a job",
+      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T18:17:30+00:00",
+      "summary": "https://archive.ph/DEwy7\n\nComments URL: https://news.ycombinator.com/item?id=47339164\nPoints: 117\n# Comments: 122"
     },
     {
       "title": "OpenAI’s Sora video generator is reportedly coming to ChatGPT",
@@ -108,7 +261,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-11T16:21:06+00:00",
-      "summary": "I built Site Spy after missing a visa appointment slot because a government page changed and I didn’t notice for two weeks.It watches webpages for changes and shows the result like a diff. The part I think HN might find interesting is that it can monitor a specific element on a page, not just the whole page, and it can expose changes as RSS feeds.So instead of tracking an entire noisy page, you can watch just a price, a stock status, a headline, or a specific content block. When it changes, you can inspect the diff, browse the snapshot history, or follow the updates in an RSS reader.It’s a Chrome/Firefox extension plus a web dashboard.Main features:- Element picker for tracking a specific part of a page- Diff view plus full snapshot timeline- RSS feeds per watch, per tag, or across all watches- MCP server for Claude, Cursor, and other AI agents- Browser push, Email, and Telegram notificationsChrome: https://chromewebstore.google.com/detail/site-spy/jeapcpanag...Firefox: https://addons.mozilla.org/en-GB/firefox/addon/site-spy/Docs: https://docs.sitespy.appI’d especially love feedback on two things:- Is RSS actually a useful interface for this, or do most people just want direct alerts?- Does element-level tracking feel meaningfully better than full-page monitoring?\n\nComments URL: https://news.ycombinator.com/item?id=47337607\nPoints: 112\n# Comments: 34"
+      "summary": "I built Site Spy after missing a visa appointment slot because a government page changed and I didn’t notice for two weeks.It watches webpages for changes and shows the result like a diff. The part I think HN might find interesting is that it can monitor a specific element on a page, not just the whole page, and it can expose changes as RSS feeds.So instead of tracking an entire noisy page, you can watch just a price, a stock status, a headline, or a specific content block. When it changes, you can inspect the diff, browse the snapshot history, or follow the updates in an RSS reader.It’s a Chrome/Firefox extension plus a web dashboard.Main features:- Element picker for tracking a specific part of a page- Diff view plus full snapshot timeline- RSS feeds per watch, per tag, or across all watches- MCP server for Claude, Cursor, and other AI agents- Browser push, Email, and Telegram notificationsChrome: https://chromewebstore.google.com/detail/site-spy/jeapcpanag...Firefox: https://addons.mozilla.org/en-GB/firefox/addon/site-spy/Docs: https://docs.sitespy.appI’d especially love feedback on two things:- Is RSS actually a useful interface for this, or do most people just want direct alerts?- Does element-level tracking feel meaningfully better than full-page monitoring?\n\nComments URL: https://news.ycombinator.com/item?id=47337607\nPoints: 154\n# Comments: 44"
     },
     {
       "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
@@ -120,13 +273,31 @@
       "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory."
     },
     {
+      "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
+      "url": "https://klausai.com/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T15:54:23+00:00",
+      "summary": "We are Bailey and Robbie and we are working on Klaus (https://klausai.com/): hosted OpenClaw that is secure and powerful out of the box.Running OpenClaw requires setting up a cloud VM or local container (a pain) or giving OpenClaw root access to your machine (insecure). Many basic integrations (eg Slack, Google Workspace) require you to create your own OAuth app.We make running OpenClaw simple by giving each user their own EC2 instance, preconfigured with keys for OpenRouter, AgentMail, and Orthogonal. And we have OAuth apps to make it easy to integrate with Slack and Google Workspace.We are both HN readers (Bailey has been on here for ~10 years) and we know OpenClaw has serious security concerns. We do a lot to make our users’ instances more secure: we run on a private subnet, automatically update the OpenClaw version our users run, and because you’re on our VM by default the only keys you leak if you get hacked belong to us. Connecting your email is still a risk. The best defense I know of is Opus 4.6 for resilience to prompt injection. If you have a better solution, we’d love to hear it!We learned a lot about infrastructure management in the past month. Kimi K2.5 and Mimimax M2.5 are extremely good at hallucinating new ways to break openclaw.json and otherwise wreaking havoc on an EC2 instance. The week after our launch we spent 20+ hours fixing broken machines by hand.We wrote a ton of best practices on using OpenClaw on AWS Linux into our users’ AGENTS.md, got really good at un-bricking EC2 machines over SSM, added a command-and-control server to every instance to facilitate hotfixes and migrations, and set up a Klaus instance to answer FAQs on discord.In addition to all of this, we built ClawBert, our AI SRE for hotfixing OpenClaw instances automatically: https://www.youtube.com/watch?v=v65F6VBXqKY. Clawbert is a Claude Code instance that runs whenever a health check fails or the user triggers it in the UI. It can read that user’s entries in our database and execute commands on the user’s instance. We expose a log of Clawbert’s runs to the user.We know that setting up OpenClaw is easy for most HN readers, but I promise it is not for most people. Klaus has a long way to go, but it’s still very rewarding to see people who’ve never used Claude Code get their first taste of AI agents.We charge $19/m for a t4g.small, $49/m for a t4g.medium, and $200/m for a t4g.xlarge and priority support. You get $15 in tokens and $20 in Orthogonal credits one-time.We want to know what you are building on OpenClaw so we can make sure we support it. We are already working with companies like Orthogonal and Openrouter that are building things to make agents more useful, and we’re sure there are more tools out there we don’t know about. If you’ve built something agents want, please let us know. Comments welcome!\n\nComments URL: https://news.ycombinator.com/item?id=47337249\nPoints: 113\n# Comments: 67"
+    },
+    {
+      "title": "Physicist Astrid Eichhorn is a leader in the field of asymptotic safety",
+      "url": "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T15:48:29+00:00",
+      "summary": "Article URL: https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-time-made-of-fractals-20260311/\nComments URL: https://news.ycombinator.com/item?id=47337177\nPoints: 110\n# Comments: 16"
+    },
+    {
       "title": "Temporal: A nine-year journey to fix time in JavaScript",
       "url": "https://bloomberg.github.io/js-blog/post/temporal/",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
       "published": "2026-03-11T15:35:50+00:00",
-      "summary": "Article URL: https://bloomberg.github.io/js-blog/post/temporal/\nComments URL: https://news.ycombinator.com/item?id=47336989\nPoints: 408\n# Comments: 141"
+      "summary": "Article URL: https://bloomberg.github.io/js-blog/post/temporal/\nComments URL: https://news.ycombinator.com/item?id=47336989\nPoints: 495\n# Comments: 168"
     },
     {
       "title": "Meta’s Moltbook deal points to a future built around AI agents",
@@ -153,7 +324,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-11T14:58:20+00:00",
-      "summary": "Previously: Google to buy Wiz for $32B - https://news.ycombinator.com/item?id=43398518 - March 2025 (845 comments)\n\nComments URL: https://news.ycombinator.com/item?id=47336476\nPoints: 179\n# Comments: 122"
+      "summary": "Previously: Google to buy Wiz for $32B - https://news.ycombinator.com/item?id=43398518 - March 2025 (845 comments)\n\nComments URL: https://news.ycombinator.com/item?id=47336476\nPoints: 220\n# Comments: 147"
     },
     {
       "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
@@ -165,13 +336,22 @@
       "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites."
     },
     {
+      "title": "Show HN: Open-source browser for AI agents",
+      "url": "https://github.com/theredsix/agent-browser-protocol",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-11T14:39:30+00:00",
+      "summary": "Hi HN, I forked chromium and built agent-browser-protocol (ABP) after noticing that most browser-agent failures aren’t really about the model misunderstanding the page. Instead, the problem is that the model is reasoning from a stale state.ABP is designed to keep the acting agent synchronized with the browser at every step. After each action (click, type, etc), it freezes JavaScript execution and rendering, then captures the resulting state. It also compiles the notable events that occurred during that action loop, such as navigation, file pickers, permission prompts, alerts, and downloads, and sends that along with a screenshot of the frozen page state back to the agent.The result is that browser interaction starts to feel more like a multimodal chat loop. The agent takes an action, gets back a fresh visual state and a structured summary of what happened, then decides what to do next from there. That fits much better with how LLMs already work.A few common browser-use failures ABP helps eliminate:\n* A modal appears after the last Playwright screenshot and blocks the input the agent was about to use\n* Dynamic filters cause the page to reflow between steps\n* An autocomplete dropdown opens and covers the element the agent intended to click\n* alert() / confirm() interrupts the flow\n* Downloads are triggered, but the agent has no reliable way to know when they’ve completedAs proof, ABP with opus 4.6 as the driver scores 90.5% on the Online Mind2Web benchmark. I think modern LLMs already understand websites, they just need a better tool to interact with them. Happy to answer questions about the architecture, forking chrome or anything else in the comments below.Try it out: `claude mcp add browser -- npx -y agent-browser-protocol --mcp` (Codex/OpenCode instructions in the docs)Demo video: https://www.loom.com/share/387f6349196f417d8b4b16a5452c3369\n\nComments URL: https://news.ycombinator.com/item?id=47336171\nPoints: 104\n# Comments: 33"
+    },
+    {
       "title": "Faster asin() was hiding in plain sight",
       "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
       "published": "2026-03-11T14:35:53+00:00",
-      "summary": "Article URL: https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/\nComments URL: https://news.ycombinator.com/item?id=47336111\nPoints: 165\n# Comments: 97"
+      "summary": "Article URL: https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/\nComments URL: https://news.ycombinator.com/item?id=47336111\nPoints: 175\n# Comments: 102"
     },
     {
       "title": "Canopii looks to succeed where past indoor farms have not",
@@ -183,22 +363,13 @@
       "summary": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court."
     },
     {
-      "title": "I was interviewed by an AI bot for a job",
-      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T14:00:00+00:00",
-      "summary": "Millions of people are on the job hunt right now - and for many people, landing a job in the AI era feels more intimidating than ever. That's why the onset of AI avatars running your job interview via one-on-one video call, asking you questions, and analyzing how well you respond has generated a lot [&#8230;]"
-    },
-    {
       "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
       "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
       "published": "2026-03-11T13:52:01+00:00",
-      "summary": "Article URL: https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/\nComments URL: https://news.ycombinator.com/item?id=47335572\nPoints: 546\n# Comments: 239"
+      "summary": "Article URL: https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/\nComments URL: https://news.ycombinator.com/item?id=47335572\nPoints: 570\n# Comments: 249"
     },
     {
       "title": "Entities enabling scientific fraud at scale (2025)",
@@ -207,7 +378,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-11T13:32:12+00:00",
-      "summary": "Article URL: https://doi.org/10.1073/pnas.2420092122\nComments URL: https://news.ycombinator.com/item?id=47335349\nPoints: 239\n# Comments: 167"
+      "summary": "Article URL: https://doi.org/10.1073/pnas.2420092122\nComments URL: https://news.ycombinator.com/item?id=47335349\nPoints: 254\n# Comments: 185"
     },
     {
       "title": "The mysterious case of the DHS white supremacist memelord",
@@ -225,7 +396,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-11T13:22:39+00:00",
-      "summary": "Article URL: https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/\nComments URL: https://news.ycombinator.com/item?id=47335237\nPoints: 325\n# Comments: 279"
+      "summary": "Article URL: https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/\nComments URL: https://news.ycombinator.com/item?id=47335237\nPoints: 344\n# Comments: 293"
     },
     {
       "title": "Chatbots encouraged &#8216;teens&#8217; to plan shootings in study",
@@ -243,7 +414,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-11T12:57:41+00:00",
-      "summary": "Article URL: https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/\nComments URL: https://news.ycombinator.com/item?id=47334982\nPoints: 118\n# Comments: 284"
+      "summary": "Article URL: https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/\nComments URL: https://news.ycombinator.com/item?id=47334982\nPoints: 153\n# Comments: 337"
     },
     {
       "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
@@ -270,7 +441,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-11T12:27:15+00:00",
-      "summary": "Article URL: https://github.com/microsoft/BitNet\nComments URL: https://news.ycombinator.com/item?id=47334694\nPoints: 275\n# Comments: 139"
+      "summary": "Article URL: https://github.com/microsoft/BitNet\nComments URL: https://news.ycombinator.com/item?id=47334694\nPoints: 293\n# Comments: 148"
     },
     {
       "title": "宇宙の広い範囲を占めている銀河がほとんどない領域「超空洞(ボイド)」とは？",
@@ -289,15 +460,6 @@
       "language": "ja",
       "published": "2026-03-11T11:50:00+00:00",
       "summary": "約1万人の作家が共同で出版した「Don't Steal This Book(この本を盗むな)」は、作家の名前がリスト化されただけの内容で、本としての中身がない「空っぽの本」となっています。この本はAI企業が作品を許可なく使用していることに抗議する目的で作成されており、出版を主催した作家は「AI業界は許可や支払いなしに盗まれた作品の上に成り立っている」と批判を述べています。続きを読む..."
-    },
-    {
-      "title": "The MacBook Neo",
-      "url": "https://daringfireball.net/2026/03/the_macbook_neo",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T11:37:24+00:00",
-      "summary": "https://www.pcmag.com/news/asus-co-ceo-macbook-neo-is-a-shoc...\n\nComments URL: https://news.ycombinator.com/item?id=47334293\nPoints: 300\n# Comments: 509"
     },
     {
       "title": "無料でアップロードした画像や動画を意図的に劣化させガビガビにするツール「GABIBI(ガビビ)」",
@@ -325,15 +487,6 @@
       "language": "ja",
       "published": "2026-03-11T10:00:00+00:00",
       "summary": "Adobeの写真編集ツール「Lightroom Classic」の2026年2月にリリースされたバージョン「15.2」でベンチマークを実施した結果が公開されました。続きを読む..."
-    },
-    {
-      "title": "How we hacked McKinsey's AI platform",
-      "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T09:59:03+00:00",
-      "summary": "Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform\nComments URL: https://news.ycombinator.com/item?id=47333627\nPoints: 355\n# Comments: 141"
     },
     {
       "title": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
@@ -381,15 +534,6 @@
       "summary": "データの並び替えを行うアルゴリズム「クイックソート」を開発したチャールズ・アントニー・リチャード・ホーア(トニー・ホーア)氏が、2026年3月5日に92歳で亡くなりました。続きを読む..."
     },
     {
-      "title": "Create value for others and don’t worry about the returns",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T05:45:49+00:00",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html\nComments URL: https://news.ycombinator.com/item?id=47332074\nPoints: 633\n# Comments: 429"
-    },
-    {
       "title": "AIとロボット技術を駆使した人間の労働者をほとんど必要としない「ダークファクトリー」が中国の労働市場で賃金の低下と雇用機会の喪失を引き起こしている",
       "url": "https://gigazine.net/news/20260311-china-ai-dark-factory/",
       "source": "GIGAZINE",
@@ -397,15 +541,6 @@
       "language": "ja",
       "published": "2026-03-11T05:00:00+00:00",
       "summary": "半導体や電化製品などの製造拠点として知られる中国ですが、ここで働く労働者は賃金の低下と雇用機会の喪失に苦しんでいると、経済メディアのBloombergが報じています。続きを読む..."
-    },
-    {
-      "title": "Making WebAssembly a first-class language on the Web",
-      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T04:44:46+00:00",
-      "summary": "Article URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=47331811\nPoints: 318\n# Comments: 123"
     },
     {
       "title": "OPPOとOnePlusが既存スマホの値上げを発表、世界的なメモリ供給不足による価格高騰で",
@@ -507,15 +642,6 @@
       "summary": "「政府効率化省(DOGE)の元職員が社会保障局からアメリカ人の個人情報を盗み、USBメモリに保存していた」と報じられました。続きを読む..."
     },
     {
-      "title": "Writing my own text editor, and daily-driving it",
-      "url": "https://blog.jsbarretto.com/post/text-editor",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T02:04:22+00:00",
-      "summary": "Article URL: https://blog.jsbarretto.com/post/text-editor\nComments URL: https://news.ycombinator.com/item?id=47331034\nPoints: 211\n# Comments: 106"
-    },
-    {
       "title": "YouTubeの広告収益は「ディズニー」「パラマウント」「ワーナー・ブラザース・ディスカバリー」「NBCU」の合計を上回る",
       "url": "https://gigazine.net/news/20260311-youtube-revenue-media-company/",
       "source": "GIGAZINE",
@@ -559,141 +685,6 @@
       "language": "ja",
       "published": "2026-03-11T01:29:00+00:00",
       "summary": "1991年から35年間にわたりアメリカのマサチューセッツ州で開催されてきたイグノーベル賞の授賞式が、「アメリカへの入国が難しくなっていることへの懸念」を理由に、2026年はスイスのチューリッヒに移転して開催されることが発表されました。2026年9月3日にチューリッヒで開催された後は、奇数年にはヨーロッパの別の都市を巡回する形式をとる予定です。続きを読む..."
-    },
-    {
-      "title": "Zig – Type Resolution Redesign and Language Changes",
-      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-11T01:24:47+00:00",
-      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-03-10\nComments URL: https://news.ycombinator.com/item?id=47330836\nPoints: 382\n# Comments: 217"
-    },
-    {
-      "title": "「Google Chrome 146」安定版リリース、WebGPUが大幅に機能追加",
-      "url": "https://gigazine.net/news/20260311-google-chrome-146/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T00:50:00+00:00",
-      "summary": "ウェブブラウザ「Google Chrome」の最新安定版であるバージョン146がリリースされました。WebGPUに関連していくつかの新機能が実装されています。続きを読む..."
-    },
-    {
-      "title": "Microsoft、対DoW訴訟でAnthropicを支持するアミカスブリーフを企業として提出",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/11/news062.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T00:34:00+00:00",
-      "summary": "Microsoftは、Anthropicが米国防総省（DoW）を相手取った裁判で、同社を支持するアミカスブリーフ（法廷助言書）を提出した。AnthropicがAIの軍事利用制限を巡り製品利用を禁止されたことに対し、Microsoftは法人の立場で支持を表明。DoWの措置が米軍の活動やIT業界に悪影響を及ぼすと警告し、解決に向けた現状維持を求めている。"
-    },
-    {
-      "title": "GIGAZINE読者5000人以上に「今熱いマンガは？」「Amazonで何をチェックしてる？」など調査してみたアンケート結果を公開中！2026年度2月分のGIGAZINEのアクセス解析結果はこんな感じ",
-      "url": "https://gigazine.net/news/20260311-access/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T00:00:00+00:00",
-      "summary": "お知らせその1。2025年12月に開催されたGIGAZINE冬のプレゼント企画で回答してもらったアンケートの結果を続々と公開しています。回答者総数5000人超という規模から得られた貴重なデータなので、気になる人はぜひチェックしてみてください。続きを読む..."
-    },
-    {
-      "title": "AIに期待することは？　活用に向けた課題は？　設計／解析現場の本音を徹底調査",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/11/news019.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T00:00:00+00:00",
-      "summary": "製造業のちょっと気になる話題をAIプレゼンターが紹介する「MONOistポッドキャスト」。今回は、MONOist編集部が実施した「設計・解析業務におけるAI活用 2025」の結果レポートのダイジェストをお届けします。"
-    },
-    {
-      "title": "NVIDIA、ムラティ氏率いるThinking Machines Labに大規模出資　Vera Rubin導入でAI開発加速",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/11/news060.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-10T23:59:00+00:00",
-      "summary": "ミラ・ムラティ氏率いるThinking Machines Labは、NVIDIAと複数年にわたる戦略的提携を締結した。1GW規模の次世代AIシステム「Vera Rubin」を導入し、最先端モデルの学習とカスタマイズ可能なAIプラットフォーム構築を推進する。NVIDIAは同社へ大規模出資も実施する。"
-    },
-    {
-      "title": "Google、WorkspaceにGeminiを深く統合　アプリ横断のAI活用が可能に",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/11/news059.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-10T23:38:00+00:00",
-      "summary": "Googleは、Gemini AIをWorkspaceの各アプリに深く統合した新機能を発表した。ドキュメントやスプレッドシート等で、メールやファイルを横断的に参照したコンテンツ作成や情報検索が可能になる。法人向けテスト参加者や特定の有料プランユーザーを対象に英語圏から順次展開され、数カ月以内に一般提供される予定だ。"
-    },
-    {
-      "title": "無料で簡単にAIエージェントでブラウザやファイルの自動操作ができる「Agent Zero」、ChatGPT・Claude・Geminiと連携できローカルAIも使用可能",
-      "url": "https://gigazine.net/news/20260311-agent-zero/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-10T23:00:00+00:00",
-      "summary": "ユーザーの指示に応じてOSをツールとして使い、情報収集やコード実行、他エージェントとの協調などを通じてタスク達成を目指すオープンソースのパーソナルAIエージェントフレームワーク「Agent Zero」が公開されています。続きを読む..."
-    },
-    {
-      "title": "政府職員向けAI基盤「源内」、18万人対象の実証開始　選定された国産LLMは？",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/11/news042.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-10T23:00:00+00:00",
-      "summary": "デジタル庁は、政府職員約18万人を対象とした生成AI基盤「源内」の大規模実証を2026年5月から開始する。試用する国産LLM7件の公募結果も公表した。"
-    },
-    {
-      "title": "もはやAIは内部脅威？　企業の73％が「最大リスク」と回答",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/11/news039.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-10T23:00:00+00:00",
-      "summary": "タレスDISジャパンはデータセキュリティの現状を分析した「タレス2026年データ脅威レポート」を発表した。調査によると、企業の73％が「AIをデータセキュリティ上の最大リスク」と回答したという。ではこれにどう対策すればいいか。"
-    },
-    {
-      "title": "Universal vaccine against respiratory infections and allergens",
-      "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-10T22:33:48+00:00",
-      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html\nComments URL: https://news.ycombinator.com/item?id=47329608\nPoints: 349\n# Comments: 126"
-    },
-    {
-      "title": "U+237C ⍼ Is Azimuth",
-      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-10T22:33:45+00:00",
-      "summary": "Article URL: https://ionathan.ch/2026/02/16/angzarr.html\nComments URL: https://news.ycombinator.com/item?id=47329605\nPoints: 386\n# Comments: 75"
-    },
-    {
-      "title": "生成AIで消えるのは仕事、それとも新人枠？　800職種のデータから分かったこと",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/11/news038.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-10T22:30:00+00:00",
-      "summary": "AnthropicはAIの労働市場への影響を分析し、理論的能力と実利用を組み合わせた新指標を提示した。AIと失業率への明確な影響は確認されていないが、若年層の採用減少の兆候が示された。その原因は一体何か。"
-    },
-    {
-      "title": "Cloudflare crawl endpoint",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-10T22:27:15+00:00",
-      "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/\nComments URL: https://news.ycombinator.com/item?id=47329557\nPoints: 467\n# Comments: 179"
-    },
-    {
-      "title": "How the spiraling Iran conflict could affect data centers and electricity costs",
-      "url": "https://www.theverge.com/report/892661/iran-war-oil-gas-prices-data-center-electricity",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-10T22:25:06+00:00",
-      "summary": "Soon after the Trump administration launched its war on Iran, I called up Reed Blakemore, director of research and programs at the Atlantic Council Global Energy Center, to talk about the consequences. While oil and gas prices were already on the rise, there was still more hope then that the impact of the conflict might [&#8230;]"
     }
   ]
 }

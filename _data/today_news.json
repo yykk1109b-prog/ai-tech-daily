@@ -1,7 +1,106 @@
 {
-  "fetched_at": "2026-03-12T22:20:45.714292+00:00",
+  "fetched_at": "2026-03-13T02:01:06.842062+00:00",
   "total_count": 81,
   "articles": [
+    {
+      "title": "MicrosoftがAI健康情報機能「Copilot Health」発表、「医学的アドバイスの代わりにはならない」との注意あり",
+      "url": "https://gigazine.net/news/20260313-microsoft-copilot-health/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-13T02:00:00+00:00",
+      "summary": "医療記録やウェアラブル端末から得られた情報をまとめてユーザーに助言するツール「Copilot Health」をMicrosoftが発表しました。続きを読む..."
+    },
+    {
+      "title": "Googleが都市型洪水の予測マップを公開、GoogleマップとGeminiを用いた災害予測データセット構築手法「Groundsource」を活用",
+      "url": "https://gigazine.net/news/20260313-google-groundsource-gemini-crisis-prediction/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-13T01:57:00+00:00",
+      "summary": "Googleが災害予測AIを開発するためのデータセット構築手法「Groundsource」を開発しました。既にGroundsourceを用いた洪水予測AIが開発されており、洪水予測マップ「Flood Hub」も公開されています。続きを読む..."
+    },
+    {
+      "title": "MacBook Neoはわずか10分以内で分解可能、接着剤なしでネジ留めのみのモジュール設計なので他のMacBookよりも修理が簡単",
+      "url": "https://gigazine.net/news/20260313-macbook-neo-makes-repairs-easier/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-13T01:54:00+00:00",
+      "summary": "iPhone用のチップであるA18 Proと8GBのユニファイドメモリを搭載する「MacBook Neo」は税込9万9800円というMacBookシリーズ初の低価格モデルです。テクノロジー系YouTubeチャンネルのTECH RE-NUが公開したMacBook Neoの分解動画から、MacBook Neoが他のMacBookよりもシンプルな部品構成で修理が簡単になるように設計されていることがわかりました。続きを読む..."
+    },
+    {
+      "title": "創立50周年を迎えるAppleのティム・クックCEOがこれまでのAppleを支えてきた功労者宛ての感謝の手紙を公開",
+      "url": "https://gigazine.net/news/20260313-apple-marks-50-years/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-13T01:47:00+00:00",
+      "summary": "Appleは2026年4月1日で創立50周年を迎えます。50周年を記念して、ティム・クックCEOはAppleの歴史と価値観を振り返りながら、過去50年間にAppleを形作ってきた人々を讃える手紙を公開しました。続きを読む..."
+    },
+    {
+      "title": "「とほほのWWW入門」30年目も更新中　96年開設の個人サイト、CGIからOpenAI APIまでカバー",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/13/news073.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-13T01:46:00+00:00",
+      "summary": "近年はReactやNext.js、OpneAI APIまで対象を広げ、淡々と更新を続けている。"
+    },
+    {
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+      "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T23:25:39+00:00",
+      "summary": "Nvidia kicks off its GTC conference with Huang's keynote on Monday, which can be watched in person or via livestream."
+    },
+    {
+      "title": "Anthropic、「Claude」で表や図のインライン表示をβ公開　無料版でも",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/13/news068.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T23:02:00+00:00",
+      "summary": "Anthropicは、Claudeのチャット回答内で表や図、画像をインライン生成する機能をβ版として導入した。2025年9月に公開された「Imagine with Claude」がベースで、全ユーザーが利用可能。プロンプトに応じてAIが視覚化の必要性を判断する。"
+    },
+    {
+      "title": "黒船「フィジカルAI」襲来　日本におけるヒューマノイド開発の最適解とは",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/13/news050.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T23:00:00+00:00",
+      "summary": "アールティが、産業技術総合研究所、川田テクノロジーズ、川崎重工業などと共同で「フィジカルAI勉強会」を開催。ヒューマノイドの実用化に必要不可欠な技術としてフィジカルAIという言葉そのものや技術成熟度への認識については混乱が見られる中、今回の勉強会は現時点でのフィジカルAIの捉え方を共有することを目的に開催された。"
+    },
+    {
+      "title": "Microsoft 365の新プラン「E7」は“AI盛り盛り”で99ドル　E5にはない魅力は？",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news096.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-12T23:00:00+00:00",
+      "summary": "AIとエージェント運用を統合したMicrosoft 365の新プラン「Microsoft 365 E7」が発表された。Copilotや管理基盤を統合し、業務全般でのAI利用とIT部門による統制を両立する。"
+    },
+    {
+      "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+      "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-12T22:25:50+00:00",
+      "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools."
+    },
+    {
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-12T22:23:34+00:00",
+      "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over a strike&#8230;"
+    },
     {
       "title": "企業が採用現場で導入し始めている「AI面接官」と実際に面接してみるとどんな感じなのか？",
       "url": "https://gigazine.net/news/20260313-job-interviewed-by-ai-bot/",
@@ -18,7 +117,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T21:01:10+00:00",
-      "summary": "Article URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0\nComments URL: https://news.ycombinator.com/item?id=47357042\nPoints: 272\n# Comments: 94"
+      "summary": "Article URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0\nComments URL: https://news.ycombinator.com/item?id=47357042\nPoints: 812\n# Comments: 295"
     },
     {
       "title": "アルツハイマー病の初期に不眠になる理由が解明される",
@@ -36,7 +135,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T20:55:51+00:00",
-      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case\nComments URL: https://news.ycombinator.com/item?id=47356968\nPoints: 178\n# Comments: 98"
+      "summary": "Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case\nComments URL: https://news.ycombinator.com/item?id=47356968\nPoints: 400\n# Comments: 200"
     },
     {
       "title": "VS Codeの安定版が毎週リリースへ　第1弾のバージョン1.111ではAIエージェント運用を強化",
@@ -63,7 +162,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T19:41:35+00:00",
-      "summary": "Article URL: https://rachelbythebay.com/w/2022/01/26/swcbbs/\nComments URL: https://news.ycombinator.com/item?id=47356017\nPoints: 126\n# Comments: 92"
+      "summary": "Article URL: https://rachelbythebay.com/w/2022/01/26/swcbbs/\nComments URL: https://news.ycombinator.com/item?id=47356017\nPoints: 163\n# Comments: 118"
     },
     {
       "title": "White House plan to break up iconic U.S. climate lab moves forward",
@@ -72,7 +171,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T19:14:21+00:00",
-      "summary": "Article URL: https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward\nComments URL: https://news.ycombinator.com/item?id=47355702\nPoints: 138\n# Comments: 141"
+      "summary": "Article URL: https://www.science.org/content/article/white-house-plan-break-iconic-u-s-climate-lab-moves-forward\nComments URL: https://news.ycombinator.com/item?id=47355702\nPoints: 145\n# Comments: 160"
     },
     {
       "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
@@ -117,7 +216,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T17:13:56+00:00",
-      "summary": "Article URL: https://parametricavocado.itch.io/amen-sorting\nComments URL: https://news.ycombinator.com/item?id=47354098\nPoints: 212\n# Comments: 72"
+      "summary": "Article URL: https://parametricavocado.itch.io/amen-sorting\nComments URL: https://news.ycombinator.com/item?id=47354098\nPoints: 261\n# Comments: 86"
     },
     {
       "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
@@ -126,7 +225,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T17:07:16+00:00",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/\nComments URL: https://news.ycombinator.com/item?id=47353993\nPoints: 145\n# Comments: 85"
+      "summary": "Article URL: https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/\nComments URL: https://news.ycombinator.com/item?id=47353993\nPoints: 160\n# Comments: 98"
     },
     {
       "title": "Gemini’s task automation is here and it’s wild",
@@ -138,8 +237,8 @@
       "summary": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to [&#8230;]"
     },
     {
-      "title": "Bumble to launch an AI dating assistant, ‘Bee’",
-      "url": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+      "title": "Bumble introduces an AI dating assistant, ‘Bee’",
+      "url": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
@@ -162,7 +261,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T16:41:06+00:00",
-      "summary": "We built OneCLI because AI agents are being given raw API keys. And it's going about as well as you'd expect. We figured the answer isn't \"don't give agents access,\" it's \"give them access without giving them secrets.\"OneCLI is an open-source gateway that sits between your AI agents and the services they call. You store your real credentials once in OneCLI's encrypted vault, and give your agents placeholder keys. When an agent makes an HTTP call through the proxy, OneCLI matches the request by host/path, verifies the agent should have access, swaps the placeholder for the real credential, and forwards the request. The agent never touches the actual secret. It just uses CLI or MCP tools as normal.Try it in one line:\ndocker run --pull always -p 10254:10254 -p 10255:10255 -v onecli-data:/app/data ghcr.io/onecli/onecliThe proxy is written in Rust, the dashboard is Next.js, and secrets are AES-256-GCM encrypted at rest. Everything runs in a single Docker container with an embedded Postgres (PGlite), no external dependencies. Works with any agent framework (OpenClaw, NanoClaw, IronClaw, or anything that can set an HTTPS_PROXY).We started with what felt most urgent: agents shouldn't be holding raw credentials. \nThe next layer is access policies and audit, defining what each agent can call, logging everything, and requiring human approval before sensitive actions go through.It's Apache-2.0 licensed. We'd love feedback on the approach, and we're especially curious how people are handling agent auth today.GitHub: https://github.com/onecli/onecli\nSite: https://onecli.sh\n\nComments URL: https://news.ycombinator.com/item?id=47353558\nPoints: 101\n# Comments: 36"
+      "summary": "We built OneCLI because AI agents are being given raw API keys. And it's going about as well as you'd expect. We figured the answer isn't \"don't give agents access,\" it's \"give them access without giving them secrets.\"OneCLI is an open-source gateway that sits between your AI agents and the services they call. You store your real credentials once in OneCLI's encrypted vault, and give your agents placeholder keys. When an agent makes an HTTP call through the proxy, OneCLI matches the request by host/path, verifies the agent should have access, swaps the placeholder for the real credential, and forwards the request. The agent never touches the actual secret. It just uses CLI or MCP tools as normal.Try it in one line:\ndocker run --pull always -p 10254:10254 -p 10255:10255 -v onecli-data:/app/data ghcr.io/onecli/onecliThe proxy is written in Rust, the dashboard is Next.js, and secrets are AES-256-GCM encrypted at rest. Everything runs in a single Docker container with an embedded Postgres (PGlite), no external dependencies. Works with any agent framework (OpenClaw, NanoClaw, IronClaw, or anything that can set an HTTPS_PROXY).We started with what felt most urgent: agents shouldn't be holding raw credentials. \nThe next layer is access policies and audit, defining what each agent can call, logging everything, and requiring human approval before sensitive actions go through.It's Apache-2.0 licensed. We'd love feedback on the approach, and we're especially curious how people are handling agent auth today.GitHub: https://github.com/onecli/onecli\nSite: https://onecli.sh\n\nComments URL: https://news.ycombinator.com/item?id=47353558\nPoints: 124\n# Comments: 39"
     },
     {
       "title": "Reversing memory loss via gut-brain communication",
@@ -171,7 +270,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T16:38:51+00:00",
-      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html\nComments URL: https://news.ycombinator.com/item?id=47353533\nPoints: 163\n# Comments: 46"
+      "summary": "Article URL: https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html\nComments URL: https://news.ycombinator.com/item?id=47353533\nPoints: 235\n# Comments: 92"
     },
     {
       "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
@@ -189,7 +288,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T15:59:00+00:00",
-      "summary": "Article URL: https://claude.com/blog/claude-builds-visuals\nComments URL: https://news.ycombinator.com/item?id=47352751\nPoints: 153\n# Comments: 96"
+      "summary": "Article URL: https://claude.com/blog/claude-builds-visuals\nComments URL: https://news.ycombinator.com/item?id=47352751\nPoints: 172\n# Comments: 102"
     },
     {
       "title": "The Met releases high-def 3D scans of 140 famous art objects",
@@ -198,7 +297,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T15:43:39+00:00",
-      "summary": "Article URL: https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html\nComments URL: https://news.ycombinator.com/item?id=47352459\nPoints: 171\n# Comments: 33"
+      "summary": "Article URL: https://www.openculture.com/2026/03/the-met-releases-high-definition-3d-scans-of-140-famous-art-objects.html\nComments URL: https://news.ycombinator.com/item?id=47352459\nPoints: 231\n# Comments: 48"
     },
     {
       "title": "AI should not replace people at Atlassian, says CEO",
@@ -207,7 +306,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T15:36:53+00:00",
-      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html\nComments URL: https://news.ycombinator.com/item?id=47352335\nPoints: 111\n# Comments: 48"
+      "summary": "Article URL: https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html\nComments URL: https://news.ycombinator.com/item?id=47352335\nPoints: 112\n# Comments: 49"
     },
     {
       "title": "Italian prosecutors seek trial for Amazon, 4 execs in alleged $1.4B tax evasion",
@@ -216,7 +315,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T15:34:41+00:00",
-      "summary": "Article URL: https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/\nComments URL: https://news.ycombinator.com/item?id=47352297\nPoints: 224\n# Comments: 58"
+      "summary": "Article URL: https://www.reuters.com/world/italian-prosecutors-seek-trial-amazon-four-execs-over-alleged-14-bln-tax-evasion-2026-03-12/\nComments URL: https://news.ycombinator.com/item?id=47352297\nPoints: 240\n# Comments: 61"
     },
     {
       "title": "Colon cancer now leading cause of cancer deaths under 50 in US",
@@ -225,7 +324,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T15:33:34+00:00",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths\nComments URL: https://news.ycombinator.com/item?id=47352277\nPoints: 134\n# Comments: 181"
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths\nComments URL: https://news.ycombinator.com/item?id=47352277\nPoints: 134\n# Comments: 189"
     },
     {
       "title": "US- and Greek-owned tankers ablaze after Iran claims 'underwater drone' strike",
@@ -234,7 +333,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T15:32:54+00:00",
-      "summary": "Article URL: https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters\nComments URL: https://news.ycombinator.com/item?id=47352262\nPoints: 160\n# Comments: 248"
+      "summary": "Article URL: https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters\nComments URL: https://news.ycombinator.com/item?id=47352262\nPoints: 164\n# Comments: 260"
     },
     {
       "title": "Asian governments roll out 4-day weeks, WFH to solve fuel crisis caused by war",
@@ -243,7 +342,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T15:30:37+00:00",
-      "summary": "Article URL: https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/\nComments URL: https://news.ycombinator.com/item?id=47352215\nPoints: 364\n# Comments: 295"
+      "summary": "Article URL: https://fortune.com/2026/03/11/iran-war-fuel-crisis-asia-work-from-home-closed-schools-price-caps/\nComments URL: https://news.ycombinator.com/item?id=47352215\nPoints: 375\n# Comments: 315"
     },
     {
       "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
@@ -255,8 +354,8 @@
       "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential."
     },
     {
-      "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t get into NSFW content",
-      "url": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/",
+      "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t do NSFW content",
+      "url": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
@@ -279,7 +378,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T14:48:57+00:00",
-      "summary": "Article URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller\nComments URL: https://news.ycombinator.com/item?id=47351371\nPoints: 260\n# Comments: 317"
+      "summary": "Article URL: https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller\nComments URL: https://news.ycombinator.com/item?id=47351371\nPoints: 328\n# Comments: 371"
     },
     {
       "title": "Suburban school district uses license plate readers to verify student residency",
@@ -288,7 +387,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T14:41:12+00:00",
-      "summary": "Article URL: https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/\nComments URL: https://news.ycombinator.com/item?id=47351239\nPoints: 184\n# Comments: 226"
+      "summary": "Article URL: https://www.nbcchicago.com/consumer/suburban-school-district-uses-license-plate-readers-to-verify-student-residency/3906703/\nComments URL: https://news.ycombinator.com/item?id=47351239\nPoints: 185\n# Comments: 233"
     },
     {
       "title": "Kotlin creator's new language: talk to LLMs in specs, not English",
@@ -297,7 +396,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T14:22:43+00:00",
-      "summary": "Article URL: https://codespeak.dev/\nComments URL: https://news.ycombinator.com/item?id=47350931\nPoints: 260\n# Comments: 226"
+      "summary": "Article URL: https://codespeak.dev/\nComments URL: https://news.ycombinator.com/item?id=47350931\nPoints: 271\n# Comments: 236"
     },
     {
       "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
@@ -324,7 +423,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T13:49:12+00:00",
-      "summary": "I built Axe because I got tired of every AI tool trying to be a chatbot.Most frameworks want a long-lived session with a massive context window doing everything at once. That's expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be too.Axe treats LLM agents like Unix programs. Each agent is a TOML config with a focused job. Such as code reviewer, log analyzer, commit message writer. You can run them from the CLI, pipe data in, get results out. You can use pipes to chain them together. Or trigger from cron, git hooks, CI.What Axe is:- 12MB binary, two dependencies. no framework, no Python, no Docker (unless you want it)- Stdin piping, something like `git diff | axe run reviewer` just works- Sub-agent delegation. Where agents call other agents via tool use, depth-limited- Persistent memory. If you want, agents can remember across runs without you managing state- MCP support. Axe can connect any MCP server to your agents- Built-in tools. Such as web_search and url_fetch out of the box- Multi-provider. Bring what you love to use.. Anthropic, OpenAI, Ollama, or anything in models.dev format- Path-sandboxed file ops. Keeps agents locked to a working directoryWritten in Go. No daemon, no GUI.What would you automate first?\n\nComments URL: https://news.ycombinator.com/item?id=47350516\nPoints: 120\n# Comments: 85"
+      "summary": "I built Axe because I got tired of every AI tool trying to be a chatbot.Most frameworks want a long-lived session with a massive context window doing everything at once. That's expensive, slow, and fragile. Good software is small, focused, and composable... AI agents should be too.Axe treats LLM agents like Unix programs. Each agent is a TOML config with a focused job. Such as code reviewer, log analyzer, commit message writer. You can run them from the CLI, pipe data in, get results out. You can use pipes to chain them together. Or trigger from cron, git hooks, CI.What Axe is:- 12MB binary, two dependencies. no framework, no Python, no Docker (unless you want it)- Stdin piping, something like `git diff | axe run reviewer` just works- Sub-agent delegation. Where agents call other agents via tool use, depth-limited- Persistent memory. If you want, agents can remember across runs without you managing state- MCP support. Axe can connect any MCP server to your agents- Built-in tools. Such as web_search and url_fetch out of the box- Multi-provider. Bring what you love to use.. Anthropic, OpenAI, Ollama, or anything in models.dev format- Path-sandboxed file ops. Keeps agents locked to a working directoryWritten in Go. No daemon, no GUI.What would you automate first?\n\nComments URL: https://news.ycombinator.com/item?id=47350516\nPoints: 150\n# Comments: 95"
     },
     {
       "title": "Malus – Clean Room as a Service",
@@ -333,7 +432,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-12T13:42:04+00:00",
-      "summary": "https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_...https://malus.sh/blog.html\n\nComments URL: https://news.ycombinator.com/item?id=47350424\nPoints: 908\n# Comments: 355"
+      "summary": "https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_...https://malus.sh/blog.html\n\nComments URL: https://news.ycombinator.com/item?id=47350424\nPoints: 1037\n# Comments: 402"
     },
     {
       "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
@@ -631,105 +730,6 @@
       "language": "ja",
       "published": "2026-03-12T02:36:00+00:00",
       "summary": "米Uber Technologiesは、日本でのロボタクシー（自動運転タクシー）の展開に向け、日産自動車および自動運転システムを手掛ける英Wayveと協業すると発表した。2026年後半に、東京でロボタクシーの試験運転を始める予定だ。"
-    },
-    {
-      "title": "PCと家庭用ゲームを統合する次世代Xbox「Project Helix」の概要をMicrosoftが発表、2026年4月からXboxモードがWindows PCに実装＆開発機はAMDカスタムチップ搭載",
-      "url": "https://gigazine.net/news/20260312-microsoft-project-helix/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-12T01:55:00+00:00",
-      "summary": "Microsoftがアメリカのサンフランシスコで2026年3月9日から開催されているゲーム開発者向けカンファレンスの「GDC 2026」で、プロジェクト名「Project Helix」で開発される次世代Xboxの概要を発表しました。Project HelixはPCとコンソール(家庭用ゲーム機)の統合をテーマとしています。また、Windows向けの新機能として、コントローラーでの操作に特化した「Xboxモード」が2026年4月より順次展開されます。続きを読む..."
-    },
-    {
-      "title": "Google、クラウドとAIセキュリティのWiz買収を完了　過去最大の案件に",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/12/news069.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-12T00:46:00+00:00",
-      "summary": "Googleは、クラウドとAIセキュリティ企業Wizの買収を320億ドルで完了した。WizはGoogle Cloud部門に統合されるが、ブランドは維持され、AWSやAzureなどマルチクラウド環境へのサービス提供も継続する。Wizの専門知識とGoogleのAI技術の融合により、サイバー攻撃への対応迅速化と運用コスト削減を目指す。"
-    },
-    {
-      "title": "Meta、自社製AIチップ「MTIA」新モデルと次世代データセンター構想発表",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/12/news068.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T23:46:00+00:00",
-      "summary": "Metaは、AI関連タスクに特化した自社製カスタムチップ「MTIA」シリーズの最新4モデルを公開した。推論処理の最適化とコスト削減を狙い、開発サイクルを大幅に短縮。並行して、NVIDIA製GPUを大量投入した巨大クラスタの構築や、将来的な5GW規模の超巨大データセンター「Hyperion」の稼働計画も進めている。"
-    },
-    {
-      "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-      "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T23:35:03+00:00",
-      "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this."
-    },
-    {
-      "title": "「子どもの安全を守るため」のオンライン年齢確認ツールが普及しているが実際には「成人」も監視対象となっている",
-      "url": "https://gigazine.net/news/20260312-online-age-verification-tools-surveilling-adults/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-11T23:00:00+00:00",
-      "summary": "アメリカではオンライン上で子どもを保護するために、プラットフォーマーにユーザーの年齢確認を義務付ける法律である「年齢確認法」が検討されており、既にAppleやDiscordは年齢確認法に則った年齢確認ツールの導入を進めています。しかし、子どもの安全を守るための年齢確認ツールが、大人の監視に利用されているとCNBCが報じました。続きを読む..."
-    },
-    {
-      "title": "M365版「Cowork」登場　Anthropicとの連携が生んだ「新しい仕事の進め方」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news045.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T23:00:00+00:00",
-      "summary": "「Microsoft 365 Copilot」の新機能「Copilot Cowork」が発表された。AIが各アプリを横断して業務を遂行する。機能の詳細とユースケースについて解説する。"
-    },
-    {
-      "title": "データ激増時代に変化するIT部門の役割　データガバナンス実装の現実解",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/12/news011.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T23:00:00+00:00",
-      "summary": "データ活用の拡大によってデータ基盤のサイロ化も進んでいる。複雑なデータ基盤を管理する企業のIT担当者に求められている新たな役割とは何か。そして、事業の信頼を支えるデータガバナンスの実現に必要な思想とは。"
-    },
-    {
-      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T22:51:53+00:00",
-      "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the [&#8230;]"
-    },
-    {
-      "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-      "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T22:51:39+00:00",
-      "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers."
-    },
-    {
-      "title": "Anthropic、AIリスク専門のシンクタンク設立──米政府の規制リスクに直面する中で",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/12/news066.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-11T22:43:00+00:00",
-      "summary": "Anthropicは、AIの社会的影響を研究する新部門「Anthropic Institute」を設立した。高度なAIがもたらす経済や雇用へのリスクを分析し、政府の政策決定を支援するシンクタンクとして機能する。ワシントンD.C.にも拠点を設け、サプライチェーンリスク指定を巡る議論が深まる中、情報の公開と外部連携を強化する。"
-    },
-    {
-      "title": "Zendesk acquires agentic customer service startup Forethought",
-      "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-11T22:41:27+00:00",
-      "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield."
     }
   ]
 }

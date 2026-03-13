@@ -4,6 +4,13 @@ on:
   push:
     branches:
       - master
+    paths:
+      - '_posts/**'
+      - '_includes/**'
+      - '_layouts/**'
+      - 'assets/**'
+      - '_config.yml'
+      - '.github/workflows/pages.yml'
   workflow_dispatch:  # 手動実行も可能
 
 permissions:

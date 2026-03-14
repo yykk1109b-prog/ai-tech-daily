@@ -83,5 +83,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add _data/today_news.json _posts/
-          git diff --staged --quiet || git commit -m "📰 Update daily AI news [skip ci]"
+          git diff --staged --quiet || git commit -m "📰 Update daily AI news"
           git push

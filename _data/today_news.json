@@ -1,7 +1,34 @@
 {
-  "fetched_at": "2026-03-15T13:28:45.621034+00:00",
-  "total_count": 32,
+  "fetched_at": "2026-03-15T15:26:16.891288+00:00",
+  "total_count": 34,
   "articles": [
+    {
+      "title": "Instagramのエンドツーエンド暗号化メッセージをMetaが廃止へ",
+      "url": "https://gigazine.net/news/20260315-instagram-e2ee-dm-end/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-15T14:59:00+00:00",
+      "summary": "Metaが、Instagramのエンドツーエンド暗号化(E2EE)メッセージのサポートを2026年5月8日をもって終了することを明らかにしました。続きを読む..."
+    },
+    {
+      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-15T14:00:00+00:00",
+      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents [&#8230;]"
+    },
+    {
+      "title": "サブスク不要で無料の超シンプルなグループチャット「Campfire」、セルフホスト可能",
+      "url": "https://gigazine.net/news/20260315-campfire/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-15T14:00:00+00:00",
+      "summary": "SlackやTeamsなどのチャットツールは便利ですが、無料プランには機能制限があり、人数が増えるほどコストが膨らむため、長期的な運用において問題となることがあります。そのような問題を解決すべく、無料のオープンソースでセルフホストを用意すれば簡単にグループチャットが構築できる「Campfire」が公開されています。続きを読む..."
+    },
     {
       "title": "無料でローカル動作するAI顧客管理ツール「DenchClaw」は自然言語でデータベースを扱えて見込み客への連絡も自動化可能",
       "url": "https://gigazine.net/news/20260315-denchclaw-local-ai-crm/",
@@ -21,6 +48,33 @@
       "summary": "ウェブサイトを運営するにあたり、サイトの課題を明確にし改善を検討する上でSEOトラッキングは不可欠なプロセスと言えます。SEOトラッキングはニーズの高さから様々なサービスやツールが提供されていますが、無料で「SERP(Search Engine Result Page)」、つまり検索結果ページ対策を使用できる上にオープンソースでありセルフホストも可能なツールが「SerpBear」です。2024年2月にバージョン1.0.0が公開されて以降着実に更新を重ね、記事作成時点でちょうどバージョン3.0.0がリリースされています。続きを読む..."
     },
     {
+      "title": "A Theory of the World as run by large adult children",
+      "url": "https://tomclancy.info/harold-and-george.html",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-15T12:48:17+00:00",
+      "summary": "Article URL: https://tomclancy.info/harold-and-george.html\nComments URL: https://news.ycombinator.com/item?id=47386908\nPoints: 173\n# Comments: 137"
+    },
+    {
+      "title": "I'm 60 years old. Claude Code killed a passion",
+      "url": "https://news.ycombinator.com/item?id=47386813",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-15T12:35:22+00:00",
+      "summary": "I stumble upon a post from shannoncc called \"I'm 60 years old. Claude Code has re-ignited a passion\", and it made me think. I am also (almost) 60, but AI just killed the passion. I remember all the pre-AI days, where I was enjoying coding during the day, the evening, the weekends and the vacations. This is no more, while others have their \"passion re-ignited\".I would argue it depends on what you enjoy: the journey or the destination. I have always enjoyed the journey, I think people having a blast nowadays are enjoying the destination. AI gave us more destinations, but less journey. It is not worse or better, just different.\n\nComments URL: https://news.ycombinator.com/item?id=47386813\nPoints: 114\n# Comments: 75"
+    },
+    {
+      "title": "100 hour gap between a vibecoded prototype and a working product",
+      "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-15T12:09:30+00:00",
+      "summary": "Article URL: https://kanfa.macbudkowski.com/vibecoding-cryptosaurus\nComments URL: https://news.ycombinator.com/item?id=47386636\nPoints: 109\n# Comments: 91"
+    },
+    {
       "title": "現代の職場は労働者を軽視しすぎているとの指摘、労働者を使いつぶさない「持続可能な職場」の作り方とは？",
       "url": "https://gigazine.net/news/20260315-sustainable-circular-work-without-burning-out/",
       "source": "GIGAZINE",
@@ -30,13 +84,22 @@
       "summary": "会社や仕事についてアウトプット・目標達成・価値創造といった観点で捉える経営者は多い一方、会社を動かすシステムを構成している「人間」について考慮されることはあまり多くありません。そこで、イギリスのレスター大学で労働・組織心理学教授を務めるマリア・カラニカ＝マレー氏らが、現代の労働環境の問題点や持続可能な職場の作り方について解説しました。続きを読む..."
     },
     {
+      "title": "A Visual Introduction to Machine Learning (2015)",
+      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-15T10:47:35+00:00",
+      "summary": "Article URL: https://r2d3.us/visual-intro-to-machine-learning-part-1/\nComments URL: https://news.ycombinator.com/item?id=47386116\nPoints: 157\n# Comments: 9"
+    },
+    {
       "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
       "published": "2026-03-15T10:15:47+00:00",
-      "summary": "Article URL: https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket\nComments URL: https://news.ycombinator.com/item?id=47385935\nPoints: 158\n# Comments: 90"
+      "summary": "Article URL: https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket\nComments URL: https://news.ycombinator.com/item?id=47385935\nPoints: 231\n# Comments: 173"
     },
     {
       "title": "無料＆広告なしで音声をテキストに変換できるアプリ「Notely Voice」レビュー、ネット接続不要でスマホのみでWhisperを実行して長文メモを簡単に作れる",
@@ -54,7 +117,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T08:04:55+00:00",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html\nComments URL: https://news.ycombinator.com/item?id=47385272\nPoints: 209\n# Comments: 178"
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html\nComments URL: https://news.ycombinator.com/item?id=47385272\nPoints: 274\n# Comments: 224"
     },
     {
       "title": "小さな失敗は笑い飛ばす方が恥ずかしがるより社会的に有利だという研究結果",
@@ -72,7 +135,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T04:23:43+00:00",
-      "summary": "Article URL: https://sa.lj.am/rack-mount-hydroponics/\nComments URL: https://news.ycombinator.com/item?id=47384352\nPoints: 218\n# Comments: 49"
+      "summary": "Article URL: https://sa.lj.am/rack-mount-hydroponics/\nComments URL: https://news.ycombinator.com/item?id=47384352\nPoints: 250\n# Comments: 56"
     },
     {
       "title": "世界100以上の言語のあらゆる報道やSNSを収集・分析している「GDELTプロジェクト」、AIで25年分のテレビニュース翻訳などの実験も公開",
@@ -90,7 +153,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T03:29:17+00:00",
-      "summary": "Article URL: https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html\nComments URL: https://news.ycombinator.com/item?id=47384032\nPoints: 124\n# Comments: 47"
+      "summary": "Article URL: https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html\nComments URL: https://news.ycombinator.com/item?id=47384032\nPoints: 151\n# Comments: 51"
     },
     {
       "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
@@ -99,7 +162,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T02:48:33+00:00",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cg4g7kn99q3o\nComments URL: https://news.ycombinator.com/item?id=47383804\nPoints: 120\n# Comments: 159"
+      "summary": "Article URL: https://www.bbc.com/news/articles/cg4g7kn99q3o\nComments URL: https://news.ycombinator.com/item?id=47383804\nPoints: 137\n# Comments: 181"
     },
     {
       "title": "無料でYouTubeなどから動画・音楽をダウンロードできるyt-dlpを簡単に使える「ytdlp-interface」、オープンソースで開発され広告やユーザー登録なしで利用可能",
@@ -126,7 +189,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T00:15:10+00:00",
-      "summary": "Article URL: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/\nComments URL: https://news.ycombinator.com/item?id=47382791\nPoints: 234\n# Comments: 202"
+      "summary": "Article URL: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/\nComments URL: https://news.ycombinator.com/item?id=47382791\nPoints: 269\n# Comments: 218"
     },
     {
       "title": "FCC chairman threatens TV broadcast licenses over news coverage",
@@ -144,7 +207,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T23:22:39+00:00",
-      "summary": "Article URL: https://atgreen.github.io/repl-yell/posts/sbcl-fibers/\nComments URL: https://news.ycombinator.com/item?id=47382398\nPoints: 120\n# Comments: 22"
+      "summary": "Article URL: https://atgreen.github.io/repl-yell/posts/sbcl-fibers/\nComments URL: https://news.ycombinator.com/item?id=47382398\nPoints: 130\n# Comments: 24"
     },
     {
       "title": "Airbus is preparing two uncrewed combat aircraft",
@@ -153,7 +216,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T23:10:24+00:00",
-      "summary": "Article URL: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european\nComments URL: https://news.ycombinator.com/item?id=47382277\nPoints: 163\n# Comments: 110"
+      "summary": "Article URL: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european\nComments URL: https://news.ycombinator.com/item?id=47382277\nPoints: 170\n# Comments: 119"
     },
     {
       "title": "人気映画のトレントファイルの字幕にマルウェアが仕込まれる",
@@ -171,7 +234,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T22:10:26+00:00",
-      "summary": "Article URL: https://agelesslinux.org/\nComments URL: https://news.ycombinator.com/item?id=47381791\nPoints: 699\n# Comments: 460"
+      "summary": "Article URL: https://agelesslinux.org/\nComments URL: https://news.ycombinator.com/item?id=47381791\nPoints: 726\n# Comments: 482"
     },
     {
       "title": "Changes to OpenTTD Distribution on Steam",
@@ -180,7 +243,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T22:04:48+00:00",
-      "summary": "Article URL: https://www.openttd.org/news/2026/03/14/steam-changes\nComments URL: https://news.ycombinator.com/item?id=47381746\nPoints: 163\n# Comments: 111"
+      "summary": "Article URL: https://www.openttd.org/news/2026/03/14/steam-changes\nComments URL: https://news.ycombinator.com/item?id=47381746\nPoints: 167\n# Comments: 117"
     },
     {
       "title": "Allow me to get to know you, mistakes and all",
@@ -189,7 +252,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T22:03:47+00:00",
-      "summary": "Article URL: https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/\nComments URL: https://news.ycombinator.com/item?id=47381736\nPoints: 191\n# Comments: 87"
+      "summary": "Article URL: https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/\nComments URL: https://news.ycombinator.com/item?id=47381736\nPoints: 222\n# Comments: 95"
     },
     {
       "title": "Show HN: Han – A Korean programming language written in Rust",
@@ -198,7 +261,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T21:27:33+00:00",
-      "summary": "A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.I've also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?Han is the result. It's a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).It supports arrays, structs with impl blocks, closures, pattern matching, try/catch, file I/O, module imports, a REPL, and a basic LSP server.This is a side project, not a \"you should use this instead of Python\" pitch. \nFeedback on language design, compiler architecture, or the Korean keyword choices is very welcome.https://github.com/xodn348/han\n\nComments URL: https://news.ycombinator.com/item?id=47381382\nPoints: 186\n# Comments: 102"
+      "summary": "A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.I've also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?Han is the result. It's a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).It supports arrays, structs with impl blocks, closures, pattern matching, try/catch, file I/O, module imports, a REPL, and a basic LSP server.This is a side project, not a \"you should use this instead of Python\" pitch. \nFeedback on language design, compiler architecture, or the Korean keyword choices is very welcome.https://github.com/xodn348/han\n\nComments URL: https://news.ycombinator.com/item?id=47381382\nPoints: 195\n# Comments: 105"
     },
     {
       "title": "Launching the Claude Partner Network",
@@ -207,7 +270,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T21:23:42+00:00",
-      "summary": "Article URL: https://www.anthropic.com/news/claude-partner-network\nComments URL: https://news.ycombinator.com/item?id=47381340\nPoints: 150\n# Comments: 87"
+      "summary": "Article URL: https://www.anthropic.com/news/claude-partner-network\nComments URL: https://news.ycombinator.com/item?id=47381340\nPoints: 154\n# Comments: 87"
     },
     {
       "title": "Bumblebee queens breathe underwater to survive drowning",
@@ -216,7 +279,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T20:49:10+00:00",
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/\nComments URL: https://news.ycombinator.com/item?id=47381011\nPoints: 151\n# Comments: 33"
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/\nComments URL: https://news.ycombinator.com/item?id=47381011\nPoints: 165\n# Comments: 38"
     },
     {
       "title": "US Army announces contract with Anduril worth up to $20B",
@@ -234,43 +297,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T20:08:54+00:00",
-      "summary": "Article URL: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion\nComments URL: https://news.ycombinator.com/item?id=47380647\nPoints: 237\n# Comments: 141"
-    },
-    {
-      "title": "Fedora 44 on the Raspberry Pi 5",
-      "url": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-14T19:56:38+00:00",
-      "summary": "Article URL: https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/\nComments URL: https://news.ycombinator.com/item?id=47380512\nPoints: 107\n# Comments: 35"
-    },
-    {
-      "title": "GIMP 3.2 released",
-      "url": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-14T19:51:25+00:00",
-      "summary": "Article URL: https://www.gimp.org/news/2026/03/14/gimp-3-2-released/\nComments URL: https://news.ycombinator.com/item?id=47380465\nPoints: 228\n# Comments: 70"
-    },
-    {
-      "title": "2026 tech layoffs reach 45,000 in March",
-      "url": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-14T19:46:49+00:00",
-      "summary": "Article URL: https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/\nComments URL: https://news.ycombinator.com/item?id=47380405\nPoints: 163\n# Comments: 135"
-    },
-    {
-      "title": "Marketing for Founders",
-      "url": "https://github.com/EdoStra/Marketing-for-Founders",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-14T19:35:40+00:00",
-      "summary": "Article URL: https://github.com/EdoStra/Marketing-for-Founders\nComments URL: https://news.ycombinator.com/item?id=47380295\nPoints: 198\n# Comments: 90"
+      "summary": "Article URL: https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion\nComments URL: https://news.ycombinator.com/item?id=47380647\nPoints: 239\n# Comments: 142"
     },
     {
       "title": "Meta reportedly considering layoffs that could affect 20% of the company",
@@ -280,15 +307,6 @@
       "language": "en",
       "published": "2026-03-14T16:28:42+00:00",
       "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring."
-    },
-    {
-      "title": "『劇場版 転スラ 蒼海の涙編』大ヒット記念舞台挨拶レポ、ゾドン役・堂本光一の考えた「ゾドンのホワイトデーのお返し」とは？",
-      "url": "https://gigazine.net/news/20260314-ten-sura-movie2-osaka-greeting-report/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-14T13:50:00+00:00",
-      "summary": "人気シリーズの劇場版第2弾として2026年3月6日(金)に公開されると3日間で22万5000人を動員し、興行収入3億円超えの大ヒットスタート。公開2周目週末までに43万人を動員している『劇場版 転生したらスライムだった件 蒼海の涙編』の大ヒット記念舞台挨拶付き上映が大阪ステーションシティシネマで行われ、主人公リムル・テンペスト役の岡咲美保さん、ゴブタ役・泊明日菜さんが登壇しました。続きを読む..."
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-03-15T13:06:32.304718+00:00",
-  "total_count": 31,
+  "fetched_at": "2026-03-15T13:28:45.621034+00:00",
+  "total_count": 32,
   "articles": [
+    {
+      "title": "無料でローカル動作するAI顧客管理ツール「DenchClaw」は自然言語でデータベースを扱えて見込み客への連絡も自動化可能",
+      "url": "https://gigazine.net/news/20260315-denchclaw-local-ai-crm/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-15T13:15:00+00:00",
+      "summary": "「顧客データはクラウドに預けたくないが、AIで整理や営業作業は自動化したい」というニーズを狙ったローカル動作型のAI CRM(顧客管理ツール)「DenchClaw」が登場しました。DenchClawはOpenClawをベースに作られた無料のAI CRMで、自然言語によるデータベース操作やLinkedIn・メールを使った見込み客への連絡の自動化に対応しています。続きを読む..."
+    },
     {
       "title": "無料でSEOトラッキングができる「SerpBear」、オープンソースでセルフホスト可",
       "url": "https://gigazine.net/news/20260315-serpbear/",
@@ -27,7 +36,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T10:15:47+00:00",
-      "summary": "Article URL: https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket\nComments URL: https://news.ycombinator.com/item?id=47385935\nPoints: 135\n# Comments: 72"
+      "summary": "Article URL: https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket\nComments URL: https://news.ycombinator.com/item?id=47385935\nPoints: 158\n# Comments: 90"
     },
     {
       "title": "無料＆広告なしで音声をテキストに変換できるアプリ「Notely Voice」レビュー、ネット接続不要でスマホのみでWhisperを実行して長文メモを簡単に作れる",
@@ -45,7 +54,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T08:04:55+00:00",
-      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html\nComments URL: https://news.ycombinator.com/item?id=47385272\nPoints: 198\n# Comments: 171"
+      "summary": "Article URL: https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html\nComments URL: https://news.ycombinator.com/item?id=47385272\nPoints: 209\n# Comments: 178"
     },
     {
       "title": "小さな失敗は笑い飛ばす方が恥ずかしがるより社会的に有利だという研究結果",
@@ -63,7 +72,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T04:23:43+00:00",
-      "summary": "Article URL: https://sa.lj.am/rack-mount-hydroponics/\nComments URL: https://news.ycombinator.com/item?id=47384352\nPoints: 211\n# Comments: 49"
+      "summary": "Article URL: https://sa.lj.am/rack-mount-hydroponics/\nComments URL: https://news.ycombinator.com/item?id=47384352\nPoints: 218\n# Comments: 49"
     },
     {
       "title": "世界100以上の言語のあらゆる報道やSNSを収集・分析している「GDELTプロジェクト」、AIで25年分のテレビニュース翻訳などの実験も公開",
@@ -81,7 +90,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T03:29:17+00:00",
-      "summary": "Article URL: https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html\nComments URL: https://news.ycombinator.com/item?id=47384032\nPoints: 119\n# Comments: 44"
+      "summary": "Article URL: https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html\nComments URL: https://news.ycombinator.com/item?id=47384032\nPoints: 124\n# Comments: 47"
     },
     {
       "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
@@ -90,7 +99,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T02:48:33+00:00",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cg4g7kn99q3o\nComments URL: https://news.ycombinator.com/item?id=47383804\nPoints: 116\n# Comments: 154"
+      "summary": "Article URL: https://www.bbc.com/news/articles/cg4g7kn99q3o\nComments URL: https://news.ycombinator.com/item?id=47383804\nPoints: 120\n# Comments: 159"
     },
     {
       "title": "無料でYouTubeなどから動画・音楽をダウンロードできるyt-dlpを簡単に使える「ytdlp-interface」、オープンソースで開発され広告やユーザー登録なしで利用可能",
@@ -117,7 +126,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-15T00:15:10+00:00",
-      "summary": "Article URL: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/\nComments URL: https://news.ycombinator.com/item?id=47382791\nPoints: 229\n# Comments: 199"
+      "summary": "Article URL: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/\nComments URL: https://news.ycombinator.com/item?id=47382791\nPoints: 234\n# Comments: 202"
     },
     {
       "title": "FCC chairman threatens TV broadcast licenses over news coverage",
@@ -135,7 +144,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T23:22:39+00:00",
-      "summary": "Article URL: https://atgreen.github.io/repl-yell/posts/sbcl-fibers/\nComments URL: https://news.ycombinator.com/item?id=47382398\nPoints: 117\n# Comments: 20"
+      "summary": "Article URL: https://atgreen.github.io/repl-yell/posts/sbcl-fibers/\nComments URL: https://news.ycombinator.com/item?id=47382398\nPoints: 120\n# Comments: 22"
     },
     {
       "title": "Airbus is preparing two uncrewed combat aircraft",
@@ -144,7 +153,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T23:10:24+00:00",
-      "summary": "Article URL: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european\nComments URL: https://news.ycombinator.com/item?id=47382277\nPoints: 163\n# Comments: 108"
+      "summary": "Article URL: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european\nComments URL: https://news.ycombinator.com/item?id=47382277\nPoints: 163\n# Comments: 110"
     },
     {
       "title": "人気映画のトレントファイルの字幕にマルウェアが仕込まれる",
@@ -162,7 +171,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T22:10:26+00:00",
-      "summary": "Article URL: https://agelesslinux.org/\nComments URL: https://news.ycombinator.com/item?id=47381791\nPoints: 687\n# Comments: 454"
+      "summary": "Article URL: https://agelesslinux.org/\nComments URL: https://news.ycombinator.com/item?id=47381791\nPoints: 699\n# Comments: 460"
     },
     {
       "title": "Changes to OpenTTD Distribution on Steam",
@@ -180,7 +189,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T22:03:47+00:00",
-      "summary": "Article URL: https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/\nComments URL: https://news.ycombinator.com/item?id=47381736\nPoints: 189\n# Comments: 81"
+      "summary": "Article URL: https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/\nComments URL: https://news.ycombinator.com/item?id=47381736\nPoints: 191\n# Comments: 87"
     },
     {
       "title": "Show HN: Han – A Korean programming language written in Rust",
@@ -189,7 +198,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T21:27:33+00:00",
-      "summary": "A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.I've also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?Han is the result. It's a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).It supports arrays, structs with impl blocks, closures, pattern matching, try/catch, file I/O, module imports, a REPL, and a basic LSP server.This is a side project, not a \"you should use this instead of Python\" pitch. \nFeedback on language design, compiler architecture, or the Korean keyword choices is very welcome.https://github.com/xodn348/han\n\nComments URL: https://news.ycombinator.com/item?id=47381382\nPoints: 184\n# Comments: 102"
+      "summary": "A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.I've also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?Han is the result. It's a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).It supports arrays, structs with impl blocks, closures, pattern matching, try/catch, file I/O, module imports, a REPL, and a basic LSP server.This is a side project, not a \"you should use this instead of Python\" pitch. \nFeedback on language design, compiler architecture, or the Korean keyword choices is very welcome.https://github.com/xodn348/han\n\nComments URL: https://news.ycombinator.com/item?id=47381382\nPoints: 186\n# Comments: 102"
     },
     {
       "title": "Launching the Claude Partner Network",
@@ -198,7 +207,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T21:23:42+00:00",
-      "summary": "Article URL: https://www.anthropic.com/news/claude-partner-network\nComments URL: https://news.ycombinator.com/item?id=47381340\nPoints: 149\n# Comments: 86"
+      "summary": "Article URL: https://www.anthropic.com/news/claude-partner-network\nComments URL: https://news.ycombinator.com/item?id=47381340\nPoints: 150\n# Comments: 87"
     },
     {
       "title": "Bumblebee queens breathe underwater to survive drowning",
@@ -207,7 +216,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T20:49:10+00:00",
-      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/\nComments URL: https://news.ycombinator.com/item?id=47381011\nPoints: 151\n# Comments: 29"
+      "summary": "Article URL: https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/\nComments URL: https://news.ycombinator.com/item?id=47381011\nPoints: 151\n# Comments: 33"
     },
     {
       "title": "US Army announces contract with Anduril worth up to $20B",
@@ -234,7 +243,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T19:56:38+00:00",
-      "summary": "Article URL: https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/\nComments URL: https://news.ycombinator.com/item?id=47380512\nPoints: 106\n# Comments: 34"
+      "summary": "Article URL: https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/\nComments URL: https://news.ycombinator.com/item?id=47380512\nPoints: 107\n# Comments: 35"
     },
     {
       "title": "GIMP 3.2 released",
@@ -261,7 +270,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-14T19:35:40+00:00",
-      "summary": "Article URL: https://github.com/EdoStra/Marketing-for-Founders\nComments URL: https://news.ycombinator.com/item?id=47380295\nPoints: 196\n# Comments: 89"
+      "summary": "Article URL: https://github.com/EdoStra/Marketing-for-Founders\nComments URL: https://news.ycombinator.com/item?id=47380295\nPoints: 198\n# Comments: 90"
     },
     {
       "title": "Meta reportedly considering layoffs that could affect 20% of the company",

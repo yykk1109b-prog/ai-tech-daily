@@ -11,6 +11,12 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 import anthropic
 import yaml
 

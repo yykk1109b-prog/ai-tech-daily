@@ -1,7 +1,70 @@
 {
-  "fetched_at": "2026-03-17T13:02:51.343974+00:00",
-  "total_count": 77,
+  "fetched_at": "2026-03-17T16:02:25.760799+00:00",
+  "total_count": 83,
   "articles": [
+    {
+      "title": "Google’s Personal Intelligence feature is expanding to all US users",
+      "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T16:00:00+00:00",
+      "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses."
+    },
+    {
+      "title": "OpenAI expands government footprint with AWS deal, report says",
+      "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T15:37:03+00:00",
+      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month."
+    },
+    {
+      "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
+      "url": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T15:17:27+00:00",
+      "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will [&#8230;]"
+    },
+    {
+      "title": "The future of code is exciting and terrifying",
+      "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T15:16:47+00:00",
+      "summary": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app. But even for the seasoned pros, the act of software development is changing fast - many people are writing less code themselves and instead spending their time managing agents and projects. So what does [&#8230;]"
+    },
+    {
+      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+      "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T15:16:21+00:00",
+      "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim."
+    },
+    {
+      "title": "World launches tool to verify humans behind AI shopping agents",
+      "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T15:00:00+00:00",
+      "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce."
+    },
+    {
+      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+      "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T13:00:00+00:00",
+      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges."
+    },
     {
       "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
       "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
@@ -10,6 +73,15 @@
       "language": "en",
       "published": "2026-03-17T13:00:00+00:00",
       "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics."
+    },
+    {
+      "title": "Silicon Valley's \"Pronatalists\" Killed WFH. The Strait of Hormuz Brought It Back",
+      "url": "https://www.governance.fyi/p/silicon-valleys-pronatalists-killed",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T12:56:59+00:00",
+      "summary": "Article URL: https://www.governance.fyi/p/silicon-valleys-pronatalists-killed\nComments URL: https://news.ycombinator.com/item?id=47412023\nPoints: 157\n# Comments: 198"
     },
     {
       "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
@@ -54,7 +126,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-17T10:39:48+00:00",
-      "summary": "Article URL: https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech\nComments URL: https://news.ycombinator.com/item?id=47410870\nPoints: 290\n# Comments: 91"
+      "summary": "Article URL: https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech\nComments URL: https://news.ycombinator.com/item?id=47410870\nPoints: 784\n# Comments: 14"
     },
     {
       "title": "Googleが子ども向けAIアニメスタジオ「Animaj」に1億6000万円を投資、一方で子どもを食い物にするAI生成の低品質コンテンツへの投資だという指摘も",
@@ -72,7 +144,16 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-17T09:53:53+00:00",
-      "summary": "Article URL: https://kagi.com/smallweb/\nComments URL: https://news.ycombinator.com/item?id=47410542\nPoints: 267\n# Comments: 57"
+      "summary": "Article URL: https://kagi.com/smallweb/\nComments URL: https://news.ycombinator.com/item?id=47410542\nPoints: 473\n# Comments: 126"
+    },
+    {
+      "title": "Building a Shell",
+      "url": "https://healeycodes.com/building-a-shell",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T09:52:34+00:00",
+      "summary": "Article URL: https://healeycodes.com/building-a-shell\nComments URL: https://news.ycombinator.com/item?id=47410532\nPoints: 108\n# Comments: 21"
     },
     {
       "title": "富山市、公式キャラ制作に画像生成AI活用　若者向けPRに起用",
@@ -144,7 +225,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-17T04:39:42+00:00",
-      "summary": "Article URL: https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak\nComments URL: https://news.ycombinator.com/item?id=47408703\nPoints: 821\n# Comments: 206"
+      "summary": "Article URL: https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak\nComments URL: https://news.ycombinator.com/item?id=47408703\nPoints: 1119\n# Comments: 261"
     },
     {
       "title": "楽天、日本語LLM「Rakuten AI 3.0」公開　商用利用も可能",
@@ -180,7 +261,16 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-17T04:00:28+00:00",
-      "summary": "Article URL: https://pixeldust.se/monkey-island-project\nComments URL: https://news.ycombinator.com/item?id=47408441\nPoints: 162\n# Comments: 62"
+      "summary": "Article URL: https://pixeldust.se/monkey-island-project\nComments URL: https://news.ycombinator.com/item?id=47408441\nPoints: 166\n# Comments: 65"
+    },
+    {
+      "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
+      "url": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T03:46:22+00:00",
+      "summary": "Article URL: https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2\nComments URL: https://news.ycombinator.com/item?id=47408360\nPoints: 101\n# Comments: 13"
     },
     {
       "title": "Z.aiがクローズドソース版GLM-5「GLM-5-Turbo」リリース、AIエージェント駆動型ワークフローとOpenClawスタイルのタスク向けに最適化",
@@ -216,7 +306,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-17T03:20:36+00:00",
-      "summary": "Article URL: https://apenwarr.ca/log/20260316\nComments URL: https://news.ycombinator.com/item?id=47408205\nPoints: 330\n# Comments: 189"
+      "summary": "Article URL: https://apenwarr.ca/log/20260316\nComments URL: https://news.ycombinator.com/item?id=47408205\nPoints: 405\n# Comments: 245"
     },
     {
       "title": "NVIDIAがオープンソースAIエージェントプラットフォーム「NemoClaw」発表、OpenClawを単一コマンドで導入でき安全性も確保",
@@ -324,7 +414,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-17T00:02:35+00:00",
-      "summary": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\nComments URL: https://news.ycombinator.com/item?id=47406779\nPoints: 620\n# Comments: 340"
+      "summary": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\nComments URL: https://news.ycombinator.com/item?id=47406779\nPoints: 666\n# Comments: 385"
     },
     {
       "title": "日本でカジノが合法化されたら何をやってみたい？GIGAZINE読者に聞いてみた",
@@ -343,6 +433,15 @@
       "language": "ja",
       "published": "2026-03-17T00:00:00+00:00",
       "summary": "米NVIDIAが、エージェンティックAI向け次世代プラットフォーム「Vera Rubin」の全容を公開した。7種の新チップがフル生産体制に入り、今年後半にパートナー各社から提供予定という。新たに推論特化の「Groq 3 LPU」を発表。Vera Rubinと組み合わせることで、Blackwellと比較してスループットが最大35倍向上するとしている。"
+    },
+    {
+      "title": "Teens sue xAI over Grok's pornographic images of them",
+      "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-16T23:55:39+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cgk2lzmm22eo\nComments URL: https://news.ycombinator.com/item?id=47406721\nPoints: 103\n# Comments: 32"
     },
     {
       "title": "GPT・Llama・Grokなどさまざまな大規模言語モデルのアーキテクチャを図示した「LLM Architecture Gallery」",
@@ -450,7 +549,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T20:59:49+00:00",
-      "summary": "Article URL: https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/\nComments URL: https://news.ycombinator.com/item?id=47404798\nPoints: 152\n# Comments: 364"
+      "summary": "Article URL: https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/\nComments URL: https://news.ycombinator.com/item?id=47404798\nPoints: 179\n# Comments: 431"
     },
     {
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
@@ -459,7 +558,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T20:59:40+00:00",
-      "summary": "Lean 4 paper (2021): https://dl.acm.org/doi/10.1007/978-3-030-79876-5_37\n\nComments URL: https://news.ycombinator.com/item?id=47404796\nPoints: 614\n# Comments: 132"
+      "summary": "Lean 4 paper (2021): https://dl.acm.org/doi/10.1007/978-3-030-79876-5_37\n\nComments URL: https://news.ycombinator.com/item?id=47404796\nPoints: 658\n# Comments: 159"
     },
     {
       "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
@@ -478,6 +577,15 @@
       "language": "en",
       "published": "2026-03-16T20:41:55+00:00",
       "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying cup of coffee, only one thing is apparent: Reality used to be much easier [&#8230;]"
+    },
+    {
+      "title": "Mistral Small 4",
+      "url": "https://mistral.ai/news/mistral-small-4",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-16T20:40:53+00:00",
+      "summary": "Article URL: https://mistral.ai/news/mistral-small-4\nComments URL: https://news.ycombinator.com/item?id=47404575\nPoints: 107\n# Comments: 9"
     },
     {
       "title": "NVIDIA「Vera Rubin」は7つの新チップ、GroqのLPU追加でAIエージェント性能向上",
@@ -504,7 +612,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T20:01:02+00:00",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai\nComments URL: https://news.ycombinator.com/item?id=47404074\nPoints: 160\n# Comments: 93"
+      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai\nComments URL: https://news.ycombinator.com/item?id=47404074\nPoints: 164\n# Comments: 98"
     },
     {
       "title": "Coworkと旅するCPythonのソースコード、36年の旅",
@@ -540,7 +648,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T18:38:14+00:00",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c70n2x7p22do\nComments URL: https://news.ycombinator.com/item?id=47402950\nPoints: 1131\n# Comments: 342"
+      "summary": "Article URL: https://www.bbc.com/news/articles/c70n2x7p22do\nComments URL: https://news.ycombinator.com/item?id=47402950\nPoints: 1163\n# Comments: 357"
     },
     {
       "title": "The return-to-the-office trend backfires",
@@ -549,7 +657,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T18:13:18+00:00",
-      "summary": "Article URL: https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/\nComments URL: https://news.ycombinator.com/item?id=47402651\nPoints: 123\n# Comments: 101"
+      "summary": "Article URL: https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/\nComments URL: https://news.ycombinator.com/item?id=47402651\nPoints: 130\n# Comments: 108"
     },
     {
       "title": "Meta’s renewed commitment to jemalloc",
@@ -558,7 +666,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T18:12:32+00:00",
-      "summary": "https://github.com/jemalloc/jemalloc\n\nComments URL: https://news.ycombinator.com/item?id=47402640\nPoints: 461\n# Comments: 201"
+      "summary": "https://github.com/jemalloc/jemalloc\n\nComments URL: https://news.ycombinator.com/item?id=47402640\nPoints: 476\n# Comments: 218"
     },
     {
       "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
@@ -603,7 +711,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T17:17:57+00:00",
-      "summary": "Article URL: https://kevinboone.me/small_web_is_big.html\nComments URL: https://news.ycombinator.com/item?id=47401879\nPoints: 461\n# Comments: 194"
+      "summary": "Article URL: https://kevinboone.me/small_web_is_big.html\nComments URL: https://news.ycombinator.com/item?id=47401879\nPoints: 492\n# Comments: 202"
     },
     {
       "title": "The American Healthcare Conundrum",
@@ -612,7 +720,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T17:13:27+00:00",
-      "summary": "Article URL: https://github.com/rexrodeo/american-healthcare-conundrum\nComments URL: https://news.ycombinator.com/item?id=47401809\nPoints: 394\n# Comments: 361"
+      "summary": "Article URL: https://github.com/rexrodeo/american-healthcare-conundrum\nComments URL: https://news.ycombinator.com/item?id=47401809\nPoints: 439\n# Comments: 461"
     },
     {
       "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
@@ -621,7 +729,7 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-16T17:07:37+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427\nComments URL: https://news.ycombinator.com/item?id=47401734\nPoints: 121\n# Comments: 69"
+      "summary": "Article URL: https://arxiv.org/abs/2511.04427\nComments URL: https://news.ycombinator.com/item?id=47401734\nPoints: 133\n# Comments: 72"
     },
     {
       "title": "Where OpenAI’s technology could show up in Iran",
@@ -640,60 +748,6 @@
       "language": "en",
       "published": "2026-03-16T17:04:06+00:00",
       "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much [&#8230;]"
-    },
-    {
-      "title": "Show HN: Claude Code skills that build complete Godot games",
-      "url": "https://github.com/htdt/godogen",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T16:07:29+00:00",
-      "summary": "I’ve been working on this for about a year through four major rewrites. Godogen is a pipeline that takes a text prompt, designs the architecture, generates 2D/3D assets, writes the GDScript, and tests it visually. The output is a complete, playable Godot 4 project.Getting LLMs to reliably generate functional games required solving three specific engineering bottlenecks:1. The Training Data Scarcity: LLMs barely know GDScript. It has ~850 classes and a Python-like syntax that will happily let a model hallucinate Python idioms that fail to compile. To fix this, I built a custom reference system: a hand-written language spec, full API docs converted from Godot's XML source, and a quirks database for engine behaviors you can't learn from docs alone. Because 850 classes blow up the context window, the agent lazy-loads only the specific APIs it needs at runtime.2. The Build-Time vs. Runtime State: Scenes are generated by headless scripts that build the node graph in memory and serialize it to .tscn files. This avoids the fragility of hand-editing Godot's serialization format. But it means certain engine features (like `@onready` or signal connections) aren't available at build time—they only exist when the game actually runs. Teaching the model which APIs are available at which phase — and that every node needs its owner set correctly or it silently vanishes on save — took careful prompting but paid off.3. The Evaluation Loop: A coding agent is inherently biased toward its own output. To stop it from cheating, a separate Gemini Flash agent acts as visual QA. It sees only the rendered screenshots from the running engine—no code—and compares them against a generated reference image. It catches the visual bugs text analysis misses: z-fighting, floating objects, physics explosions, and grid-like placements that should be organic.Architecturally, it runs as two Claude Code skills: an orchestrator that plans the pipeline, and a task executor that implements each piece in a `context: fork` window so mistakes and state don't accumulate.Everything is open source: https://github.com/htdt/godogenDemo video (real games, not cherry-picked screenshots): https://youtu.be/eUz19GROIpYBlog post with the full story (all the wrong turns) coming soon. Happy to answer questions.\n\nComments URL: https://news.ycombinator.com/item?id=47400868\nPoints: 265\n# Comments: 167"
-    },
-    {
-      "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T15:25:36+00:00",
-      "summary": "Article URL: https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative\nComments URL: https://news.ycombinator.com/item?id=47400261\nPoints: 131\n# Comments: 111"
-    },
-    {
-      "title": "US Job Market Visualizer",
-      "url": "https://karpathy.ai/jobs/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T15:10:30+00:00",
-      "summary": "Article URL: https://karpathy.ai/jobs/\nComments URL: https://news.ycombinator.com/item?id=47400060\nPoints: 467\n# Comments: 342"
-    },
-    {
-      "title": "Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage",
-      "url": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T15:00:00+00:00",
-      "summary": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since. You’ll hear Jim refer [&#8230;]"
-    },
-    {
-      "title": "AirPods Max 2",
-      "url": "https://www.apple.com/airpods-max/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T13:22:03+00:00",
-      "summary": "Article URL: https://www.apple.com/airpods-max/\nComments URL: https://news.ycombinator.com/item?id=47398681\nPoints: 294\n# Comments: 485"
-    },
-    {
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T13:09:58+00:00",
-      "summary": "Article URL: https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860\nComments URL: https://news.ycombinator.com/item?id=47398534\nPoints: 388\n# Comments: 119"
     }
   ]
 }

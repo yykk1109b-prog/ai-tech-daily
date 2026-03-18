@@ -1,753 +1,591 @@
 {
-  "fetched_at": "2026-03-17T16:02:25.760799+00:00",
-  "total_count": 83,
+  "fetched_at": "2026-03-18T16:06:36.964236+00:00",
+  "total_count": 65,
   "articles": [
     {
-      "title": "Google’s Personal Intelligence feature is expanding to all US users",
-      "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-17T16:00:00+00:00",
-      "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses."
+      "published": "2026-03-18T16:00:00+00:00",
+      "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise."
     },
     {
-      "title": "OpenAI expands government footprint with AWS deal, report says",
-      "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+      "url": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-17T15:37:03+00:00",
-      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month."
+      "published": "2026-03-18T15:58:50+00:00",
+      "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business."
     },
     {
-      "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
-      "url": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-17T15:17:27+00:00",
-      "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will [&#8230;]"
-    },
-    {
-      "title": "The future of code is exciting and terrifying",
-      "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-17T15:16:47+00:00",
-      "summary": "Suddenly it seems like everyone's a coder. Or, at the very least, like they play one in the Claude Code app. But even for the seasoned pros, the act of software development is changing fast - many people are writing less code themselves and instead spending their time managing agents and projects. So what does [&#8230;]"
-    },
-    {
-      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-      "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+      "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+      "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-17T15:16:21+00:00",
-      "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim."
+      "published": "2026-03-18T15:33:49+00:00",
+      "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion."
     },
     {
-      "title": "World launches tool to verify humans behind AI shopping agents",
-      "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+      "title": "The PhD students who became the judges of the AI industry",
+      "url": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-17T15:00:00+00:00",
-      "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce."
+      "published": "2026-03-18T15:00:00+00:00",
+      "summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a&#160;UC&#160;Berkeley PhD research [&#8230;]"
     },
     {
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-17T13:00:00+00:00",
-      "summary": "The company raised $12 million in seed funding to measure and manage GPU power surges."
-    },
-    {
-      "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
-      "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-17T13:00:00+00:00",
-      "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics."
-    },
-    {
-      "title": "Silicon Valley's \"Pronatalists\" Killed WFH. The Strait of Hormuz Brought It Back",
-      "url": "https://www.governance.fyi/p/silicon-valleys-pronatalists-killed",
+      "title": "Federal Cyber Experts Called Microsoft's Cloud \"A Pile of Shit\", yet Approved It",
+      "url": "https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
-      "published": "2026-03-17T12:56:59+00:00",
-      "summary": "Article URL: https://www.governance.fyi/p/silicon-valleys-pronatalists-killed\nComments URL: https://news.ycombinator.com/item?id=47412023\nPoints: 157\n# Comments: 198"
+      "published": "2026-03-18T14:14:02+00:00",
+      "summary": "Article URL: https://www.propublica.org/article/microsoft-cloud-fedramp-cybersecurity-government\nComments URL: https://news.ycombinator.com/item?id=47426057\nPoints: 130\n# Comments: 61"
     },
     {
-      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-      "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+      "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-18T13:40:43+00:00",
+      "summary": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk."
+    },
+    {
+      "title": "Tech hobbyist makes shoulder-mounted guided missile prototype with $96 in parts",
+      "url": "https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-18T13:04:15+00:00",
+      "summary": "Article URL: https://www.tomshardware.com/3d-printing/tech-hobbyist-makes-shoulder-mounted-guided-missile-prototype-with-usd96-in-parts-and-a-3d-printer-diy-manpads-includes-wi-fi-guidance-ballistics-calculations-optional-camera-for-tracking\nComments URL: https://news.ycombinator.com/item?id=47425297\nPoints: 143\n# Comments: 99"
+    },
+    {
+      "title": "無料でローカルAIモデルのメモリ使用量を最大80％削減し処理速度を2倍に向上させる「Unsloth Studio」、Windows・macOS・Linux対応でチャットだけならCPUのみでもOKでスマホでも動作可能",
+      "url": "https://gigazine.net/news/20260318-unsloth-studio/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T13:00:00+00:00",
+      "summary": "ローカル環境でオープンソースのAIモデルを訓練、実行、および出力するための統合されたウェブUI「Unsloth Studio」は複雑なプログラミングコードを記述することなく直感的に操作でき、ベータ版として公開されています。ユーザーは100％オフラインの環境でAIモデルを自身のコンピュータ上で動かすことができ、データのプライバシーと制御を維持することが可能です。続きを読む..."
+    },
+    {
+      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+      "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
       "source": "MIT Technology Review",
       "category": "research",
       "language": "en",
-      "published": "2026-03-17T12:26:48+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI’s technology could show up in Iran&#160; OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications&#8230;"
+      "published": "2026-03-18T12:38:00+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data,&#160;defense&#160;official says&#160; The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their&#8230;"
     },
     {
-      "title": "コーディングAI「Claude Code」のスキルから完全に動作するGodot Engine 4駆動のゲームを作成できる「Godogen」",
-      "url": "https://gigazine.net/news/20260317-godogen/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T12:00:00+00:00",
-      "summary": "ゲームの説明文を与えると、AIがGodot Engine 4向けのゲームプロジェクトをほぼ一通り自動で組み立てる「Godogen」が公開されています。Godogenは設計の立案、アート生成、コード記述、実行中ゲームのスクリーンショット取得、見た目や挙動の不具合修正までを一連のパイプラインとして処理し、最終的に実際に動くGodot 4のプロジェクトを出力可能。生成物は2Dと3Dの両方に対応し、一般的なPCでも動かせるとのことです。続きを読む..."
-    },
-    {
-      "title": "会うたびにストレスがたまる「厄介な友人や親戚」の存在が生物学的老化を早めるかもしれない",
-      "url": "https://gigazine.net/news/20260317-difficult-friends-relatives-age-faster/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T11:00:00+00:00",
-      "summary": "友人や家族といった人間関係は充実した人生を送る上で重要ですが、中には接するたびにストレスがたまるような厄介な相手もいます。そんな「厄介な人間関係」について調べた研究で、厄介な友人や親戚の存在が生物学的老化を早める可能性があると報告されました。続きを読む..."
-    },
-    {
-      "title": "「国産人型ロボ」が歩く動画を公開→なぜか注目が集まったのは……　開発陣は困惑",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news116.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-17T10:51:00+00:00",
-      "summary": "「開発陣は困惑してます…」――ロボットを開発するスタートアップHighlandersの増岡宏哉CEOは、同社の人型ロボットの試作機が歩く動画への反響を受け、自身のXアカウントでこのように投稿した。何があったのか。"
-    },
-    {
-      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-      "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-17T10:39:48+00:00",
-      "summary": "Article URL: https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech\nComments URL: https://news.ycombinator.com/item?id=47410870\nPoints: 784\n# Comments: 14"
-    },
-    {
-      "title": "Googleが子ども向けAIアニメスタジオ「Animaj」に1億6000万円を投資、一方で子どもを食い物にするAI生成の低品質コンテンツへの投資だという指摘も",
-      "url": "https://gigazine.net/news/20260317-google-backs-ai-studio-youtube-children-animaj/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T10:00:00+00:00",
-      "summary": "YouTubeの親会社であるGoogleが、子ども向けのアニメーションをAIで制作する映像スタジオの「Animaj」に、100万ドル(約1億6000万円)を投資することが明らかになりました。これはYouTube上で問題になっている「AI生成の低品質コンテンツ」を増やすことにつながる投資だとして、一部の専門家から批判の声が上がっています。続きを読む..."
-    },
-    {
-      "title": "Kagi Small Web",
-      "url": "https://kagi.com/smallweb/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-17T09:53:53+00:00",
-      "summary": "Article URL: https://kagi.com/smallweb/\nComments URL: https://news.ycombinator.com/item?id=47410542\nPoints: 473\n# Comments: 126"
-    },
-    {
-      "title": "Building a Shell",
-      "url": "https://healeycodes.com/building-a-shell",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-17T09:52:34+00:00",
-      "summary": "Article URL: https://healeycodes.com/building-a-shell\nComments URL: https://news.ycombinator.com/item?id=47410532\nPoints: 108\n# Comments: 21"
-    },
-    {
-      "title": "富山市、公式キャラ制作に画像生成AI活用　若者向けPRに起用",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news114.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-17T09:34:00+00:00",
-      "summary": "富山県富山市が、制作過程に米Adobeの画像生成AIサービス「Adobe Firefly」を活用したオリジナルキャラクター「やまやま」「くすくす」を発表した。若者に市の魅力や親しみやすさを伝えるキャラとして、プロモーションに活用する。"
-    },
-    {
-      "title": "2026年3月17日のヘッドラインニュース",
-      "url": "https://gigazine.net/news/20260317-headline/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T09:16:00+00:00",
-      "summary": "フロム・ソフトウェアが開発した傑作アクションアドベンチャーゲーム「SEKIRO: SHADOWS DIE TWICE(隻狼)」のアニメ化作品である「SEKIRO: NO DEFEAT」が2026年に劇場公開されることが決定しました。続きを読む..."
-    },
-    {
-      "title": "NVIDIAのAI特化CPU「Vera CPU」は一体どれだけ高性能なのか？",
-      "url": "https://gigazine.net/news/20260317-nvidia-vera-cpu/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T08:10:00+00:00",
-      "summary": "NVIDIAが主催するAIカンファレンス「GTC 2026」の基調講演が現地時間の2026年3月16日に実施され、ジェンスン・フアンCEOによってRubin GPUやVera CPUの詳細が発表されました。このうち、Vera CPUの性能を測定したベンチマーク結果がAIシステムを開発するRedpandaによって公開されています。続きを読む..."
-    },
-    {
-      "title": "脳にガツンとくる豚と魚介の濃厚スープがもっちり太麺に絡んで食べ応え抜群な「スーパーカップ超大盛り 魚介豚骨醤油ラーメン」食べてみた",
-      "url": "https://gigazine.net/news/20260317-acecook-super-cup-gyokai-tonkotsu/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T08:00:00+00:00",
-      "summary": "エースコックのスーパーカップ超大盛りシリーズに、「スーパーカップ超大盛り 魚介豚骨醤油ラーメン」が2026年3月23日(月)に登場します。豚と魚介の濃厚スープに太麺が絡んで食べ応え抜群のカップ麺になっているというカップ麺が編集部に届いたので、どんな味に仕上がっているのか一足先に食べてみました。続きを読む..."
-    },
-    {
-      "title": "「FFmpeg 8.1」リリース、VulkanとD3D12を中心にGPU活用をさらに拡大したバージョンで開発元もアップデートを推奨",
-      "url": "https://gigazine.net/news/20260317-ffmpeg-8-1-hoare/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T06:37:00+00:00",
-      "summary": "オープンソースマルチメディアフレームワーク「FFmpeg」のバージョン8.1となる「FFmpeg 8.1(コードネーム：Hoare)」が安定版として2026年3月16日に公開されました。このリリースは2025年8月に登場したバージョン8.0に続くアップデートで、開発チームは最新のgitマスターを使用していないすべてのユーザー、ディストリビューター、システムインテグレーターに対して、このバージョンへのアップグレードを推奨しています。続きを読む..."
-    },
-    {
-      "title": "賭博プラットフォーム「Polymarket」のギャンブラーが「イランのミサイル攻撃の記事を書き直さないと殺す」と記者を脅迫",
-      "url": "https://gigazine.net/news/20260317-polymarket-gamblers-threats-journalists-to-win/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T06:00:00+00:00",
-      "summary": "Polymarketは、さまざまな現実世界のトピックについて仮想通貨で賭けることができる賭博プラットフォームであり、戦争や軍事攻撃に関する賭けが行われていることで問題視されています。イスラエルのオンラインメディア・Times of Israelの記者であるエマニュエル・ファビアン氏が、イスラエルの首都・エルサレム近郊に着弾したイランのミサイルについて報じたところ、「記事を書き直さないと殺す」とギャンブラーから脅迫を受ける事態に発展してしまいました。続きを読む..."
-    },
-    {
-      "title": "Grokに児童性的虐待コンテンツを作られたとしてティーンエイジャーがxAIを提訴",
-      "url": "https://gigazine.net/news/20260317-teens-sue-musk-xai-grok-csam/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T05:00:00+00:00",
-      "summary": "イーロン・マスク氏のAI企業・xAIが提供するAIアシスタントのGrokが、児童性的虐待コンテンツ(CSAM)を生成したとして、3人のティーンエイジャーが訴訟を提起しました。続きを読む..."
-    },
-    {
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-17T04:39:42+00:00",
-      "summary": "Article URL: https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak\nComments URL: https://news.ycombinator.com/item?id=47408703\nPoints: 1119\n# Comments: 261"
-    },
-    {
-      "title": "楽天、日本語LLM「Rakuten AI 3.0」公開　商用利用も可能",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news085.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-17T04:14:00+00:00",
-      "summary": "楽天グループは、日本語に特化したLLM「Rakuten AI 3.0」を公開した。Hugging Face上で、商用利用もできるライセンス「Apache 2.0」で提供する。"
-    },
-    {
-      "title": "信頼できるAIコーディングを実現するためのオープンソース証明検証基盤「Leanstral」をMistral AIがリリース、重大なボトルネック「人間によるレビュー」の克服を目指す",
-      "url": "https://gigazine.net/news/20260317-leanstral-mistral/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T04:10:00+00:00",
-      "summary": "フランスのAIスタートアップのMistral AIが、数学的証明やソフトウェア仕様の検証などを支援するAIモデル「Leanstral」を公開しました。Leanstralは形式証明ツール「Lean 4」に対応したオープンソースのAIエージェントで、数学やプログラムの正しさを厳密に検証する「証明エンジニアリング」を支援することを目的としています。続きを読む..."
-    },
-    {
-      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-17T04:01:00+00:00",
-      "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week."
-    },
-    {
-      "title": "Monkey Island for Commodore 64 Ground Up",
-      "url": "https://pixeldust.se/monkey-island-project",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-17T04:00:28+00:00",
-      "summary": "Article URL: https://pixeldust.se/monkey-island-project\nComments URL: https://news.ycombinator.com/item?id=47408441\nPoints: 166\n# Comments: 65"
-    },
-    {
-      "title": "Jepsen: MariaDB Galera Cluster 12.1.2",
-      "url": "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-17T03:46:22+00:00",
-      "summary": "Article URL: https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2\nComments URL: https://news.ycombinator.com/item?id=47408360\nPoints: 101\n# Comments: 13"
-    },
-    {
-      "title": "Z.aiがクローズドソース版GLM-5「GLM-5-Turbo」リリース、AIエージェント駆動型ワークフローとOpenClawスタイルのタスク向けに最適化",
-      "url": "https://gigazine.net/news/20260317-z-ai-glm-5-turbo/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T03:45:00+00:00",
-      "summary": "中国のAIスタートアップ企業Z.aiが、既存のモデルを高速化した「GLM-5-Turbo」を発表しました。同社はこれを「OpenClaw」スタイルのタスク向けに調整された高速モデルとして位置付けています。続きを読む..."
-    },
-    {
-      "title": "NVIDIAのAIアップスケーリング技術「DLSS 5」が加工しすぎで本物からかけ離れてしまうとネットユーザーにいじり倒される",
-      "url": "https://gigazine.net/news/20260317-nvidia-dlss-5/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T03:35:00+00:00",
-      "summary": "2026年3月16日、NVIDIAが「コンピュータグラフィックスにおけるブレークスルー」と称してAIで映像のアップスケーリングを行う「DLSS 5」を発表しました。DLSS 5で加工した際のビフォーアフター映像も公開されているのですが、あまりにも加工しすぎだと指摘されています。続きを読む..."
-    },
-    {
-      "title": "NVIDIAがAI特化GPU「Rubin」とAI特化CPU「Vera」の詳細を発表、AIラック「Vera Rubin NVL72」の処理性能はFP64精度で2400TFLOPS＆Groqの高速推論チップも統合",
-      "url": "https://gigazine.net/news/20260317-nvidia-vera-rubin/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T03:21:00+00:00",
-      "summary": "NVIDIAが主催するAIカンファレンス「GTC 2026」の基調講演が現地時間の2026年3月16日に実施されました。基調講演にはジェンスン・フアンCEOが登壇し、次世代AI処理システムの詳細が発表されました。続きを読む..."
-    },
-    {
-      "title": "Every layer of review makes you 10x slower",
-      "url": "https://apenwarr.ca/log/20260316",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-17T03:20:36+00:00",
-      "summary": "Article URL: https://apenwarr.ca/log/20260316\nComments URL: https://news.ycombinator.com/item?id=47408205\nPoints: 405\n# Comments: 245"
-    },
-    {
-      "title": "NVIDIAがオープンソースAIエージェントプラットフォーム「NemoClaw」発表、OpenClawを単一コマンドで導入でき安全性も確保",
-      "url": "https://gigazine.net/news/20260317-nvidia-nemoclaw/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T03:14:00+00:00",
-      "summary": "NVIDIAのジェンスン・フアンCEOがAIカンファレンス「GTC 2026」の基調講演で、オープンソースのAIエージェントプラットフォームであるOpenClawコミュニティ向けに「NVIDIA NemoClaw」を発表しました。Nemoclawは単一のコマンドでNVIDIA Nemotronモデルと新たに発表されたNVIDIA OpenShellランタイムをインストールできる仕組みを提供し、クラウドやオンプレミスの環境からNVIDIA RTX搭載PCまで、様々なプラットフォームで自律型AIエージェントの安全かつプライベートな運用を可能にするインフラ層を提供するものです。続きを読む..."
-    },
-    {
-      "title": "AIエージェントとユーザーのローカル環境にあるファイル・ツール・アプリを直接連携するデスクトップアプリ「My Computer」をManusがリリース",
-      "url": "https://gigazine.net/news/20260317-manus-my-computer/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T03:10:00+00:00",
-      "summary": "2026年1月にMetaに買収されたAIスタートアップのManusが、AIエージェント「Manus」をデスクトップアプリとしてリリースすることを発表しました。Manus Desktopの中核機能である「My Computer」により、Manusをデスクトップ上で動作させることでローカルファイルやアプリケーションと連携させることができます。続きを読む..."
-    },
-    {
-      "title": "製品レビューの「AIによるポジティブな要約」を読んだ人は購入する可能性が高くなる、AIのニュアンス改変が問題に",
-      "url": "https://gigazine.net/news/20260317-reading-ai-summaries-more-buy/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T03:05:00+00:00",
-      "summary": "Amazonなどのオンライン通販サイトでは、製品に対して寄せられたユーザーレビューをAIが要約する機能が導入されています。AIによる要約は便利かもしれませんが、新たな研究ではAIが元レビューのニュアンスを変えてしまい、人々の購買意欲を変化させる可能性があると報告されています。続きを読む..."
-    },
-    {
-      "title": "自治体の“とある相談AI”使ってみた→返事は「水で薄めた助言」や「電話窓口への案内」　AI導入の意義を考える",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news017.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-17T03:00:00+00:00",
-      "summary": "先日、とあるAIスタートアップが自治体向けに導入している「相談AI」を試してみた。提供元は2025年5月設立の新興企業だが、現時点ですでに全国の複数の自治体において導入や実証実験を行っている。一体どのようなサービスなのか。"
-    },
-    {
-      "title": "AdobeとNVIDIAが戦略的パートナーシップを発表、次世代のFireflyモデルとクリエイティブ・マーケティング・エージェント向けワークフローを提供へ",
-      "url": "https://gigazine.net/news/20260317-adobe-nvidia-strategic-partnership/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T02:36:00+00:00",
-      "summary": "クリエイティブソフトウェア大手であるAdobeが半導体大手のNVIDIAと戦略的パートナーシップを締結したことを発表しました。これには、次世代の基盤となるAdobe Fireflyモデルとエージェント型ワークフローの提供が含まれます。続きを読む..."
-    },
-    {
-      "title": "NVIDIAが“宇宙コンピュータ”発表　人工衛星に搭載、「軌道上データセンター」に活用へ",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/17/news063.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-17T02:28:00+00:00",
-      "summary": "米NVIDIAは、宇宙での運用を想定するコンピューティング基盤「NVIDIA Space-1 Vera Rubin Module」を発表した。人工衛星に搭載でき、高度なAI処理ができるとうたう。"
-    },
-    {
-      "title": "ブリタニカ百科事典が著作物を無断で学習されたとしてOpenAIを提訴",
-      "url": "https://gigazine.net/news/20260317-britannica-sue-openai/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T02:18:00+00:00",
-      "summary": "百科事典出版社のブリタニカ百科事典とその子会社であるメリアム・ウェブスターが、自社の著作物を無断でAIの学習に利用されたとしてOpenAIを訴えたことが分かりました。続きを読む..."
-    },
-    {
-      "title": "AppleがFinal Cut Proのプラグイン開発大手「MotionVFX」を買収",
-      "url": "https://gigazine.net/news/20260317-apple-acquires-motionvfx/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T02:16:00+00:00",
-      "summary": "Appleが動画編集ソフトウェアであるFinal Cut Pro向けのプラグインやテンプレートなどを開発するMotionVFXを買収しました。続きを読む..."
-    },
-    {
-      "title": "Apple製ヘッドホン「AirPods Max 2」が登場、リアルタイム翻訳対応＆ノイキャンを最大1.5倍に強化",
-      "url": "https://gigazine.net/news/20260317-airpods-max-2/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T01:45:00+00:00",
-      "summary": "Appleが新型ヘッドホンの「AirPods Max 2」を2026年3月16日に発表しました。強化された音質やノイズキャンセリングのほか、Apple Intelligenceを活用したライブ翻訳機能も搭載しています。続きを読む..."
-    },
-    {
-      "title": "Appleが1枚の画像からリアルな照明効果を持つ3Dオブジェクトを再現できるAIモデルを発表",
-      "url": "https://gigazine.net/news/20260317-lito-apple-ai-model-recreates-3d-objects-realistic/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T01:38:00+00:00",
-      "summary": "Appleの研究チームが反射やハイライト、その他の効果を様々な視点から見ても一貫して維持しながら、一枚の画像から3Dオブジェクトを再構築することができるAIモデルの「LiTo」を開発しました。続きを読む..."
-    },
-    {
-      "title": "NVIDIAが宇宙で動作するAI処理モジュール「Space-1 Vera Rubin Module」を発表、宇宙空間でH100の25倍の処理能力を発揮",
-      "url": "https://gigazine.net/news/20260317-nvidia-space-1-vera-rubin-module/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T01:30:00+00:00",
-      "summary": "NVIDIAのジェンスン・フアンCEOがAIカンファレンス「GTC 2026」の基調講演で宇宙で動作するAI処理モジュール「Space-1 Vera Rubin Module」を発表しました。続きを読む..."
-    },
-    {
-      "title": "US SEC preparing to scrap quarterly reporting requirement",
-      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-17T00:02:35+00:00",
-      "summary": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\nComments URL: https://news.ycombinator.com/item?id=47406779\nPoints: 666\n# Comments: 385"
-    },
-    {
-      "title": "日本でカジノが合法化されたら何をやってみたい？GIGAZINE読者に聞いてみた",
-      "url": "https://gigazine.net/news/20260317-gigazine-user-public-gambling-casino/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-17T00:00:00+00:00",
-      "summary": "大阪では日本初のカジノを含む統合型リゾートの建設工事が2025年4月に始まっており、2030年秋ごろの開業が見込まれています。そこで、GIGAZINEが年3回実施しているプレゼント企画のアンケートで、公営賭博のうち興味があるものと、日本でも現金を賭けるカジノが合法化された場合にやってみたいゲームについて聞いてみました。続きを読む..."
-    },
-    {
-      "title": "NVIDIA、推論特化チップ「Groq 3 LPU」発表　「Vera Rubin」と組み合わせてAI性能最大35倍に",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/17/news059.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-17T00:00:00+00:00",
-      "summary": "米NVIDIAが、エージェンティックAI向け次世代プラットフォーム「Vera Rubin」の全容を公開した。7種の新チップがフル生産体制に入り、今年後半にパートナー各社から提供予定という。新たに推論特化の「Groq 3 LPU」を発表。Vera Rubinと組み合わせることで、Blackwellと比較してスループットが最大35倍向上するとしている。"
-    },
-    {
-      "title": "Teens sue xAI over Grok's pornographic images of them",
-      "url": "https://www.bbc.com/news/articles/cgk2lzmm22eo",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T23:55:39+00:00",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cgk2lzmm22eo\nComments URL: https://news.ycombinator.com/item?id=47406721\nPoints: 103\n# Comments: 32"
-    },
-    {
-      "title": "GPT・Llama・Grokなどさまざまな大規模言語モデルのアーキテクチャを図示した「LLM Architecture Gallery」",
-      "url": "https://gigazine.net/news/20260317-llm-architecture-gallery/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-16T23:00:00+00:00",
-      "summary": "OpenAIのGPTシリーズやxAIのGrok、MetaのLlamaなどさまざまな大規模言語モデルが存在しますが、これらの構造を図示した「LLM Architecture Gallery」がオンラインで公開されています。続きを読む..."
-    },
-    {
-      "title": "「期待外れ」の生成AI活用、オンプレLLMが突破口になり得るワケ　課題とコツを整理する",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news011.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-16T23:00:00+00:00",
-      "summary": "日本企業の生成AI活用が「期待外れ」に終わる理由とは。製造業特化型AIを手掛ける専門家が、セキュリティの壁を突破するオンプレミス活用の勘所を解説。"
-    },
-    {
-      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T22:45:51+00:00",
-      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw."
-    },
-    {
-      "title": "AIエージェントは情報漏えいの温床　ガートナーが指摘する「管理不能リスク」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/17/news029.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-16T22:30:00+00:00",
-      "summary": "ガートナーはセキュリティ対策が不十分なAIエージェントが攻撃者に悪用され、社内データ侵害の経路となる恐れがあると指摘した。同社によると、数年以内に企業の情報漏えい問題としてこれが顕在化するという。"
-    },
-    {
-      "title": "ゲームがまるで実写に　NVIDIA、AI活用「DLSS 5」発表　「リアルタイムレイトレ以来の技術革新」",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/17/news057.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-16T22:10:00+00:00",
-      "summary": "実写のようなゲーム表現が可能になる新描画技術「DLSS 5」を米NVIDIAが発表した。AIモデルがゲームのフレームからフォトリアルな照明と素材表現をリアルタイムで生成し、最大4K解像度で動作する。2018年のリアルタイムレイトレーシング導入以来最大の技術革新と位置付けており、今秋から複数タイトルへの実装が始まるとしている。"
-    },
-    {
-      "title": "不完全な人間の動作データから人型ロボットにテニススキルを学習させる「LATENT」",
-      "url": "https://gigazine.net/news/20260317-latent/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-16T22:00:00+00:00",
-      "summary": "中国の清華大学の研究チームが不完全な人間の動作データから運動能力の高いヒューマノイドにテニスのスキルを学習させる「LATENT」を発表しました。LATENTは事前学習、知識蒸留、高レベルのポリシー学習のためのヒューマノイド向け学習パイプラインを提供するためのもので、シミュレーションには汎用物理エンジンのMuJoCoを使用しています。続きを読む..."
-    },
-    {
-      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+      "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+      "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
       "source": "The Verge AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-16T21:56:05+00:00",
-      "summary": "Nvidia announced DLSS 5 on Monday during its GTC conference, and based on early reactions, it's going to be a divisive update, with some reactions calling it \"slop\" that unacceptably alters artistic intent. Nvidia CEO Jensen Huang is calling this the \"GPT moment for graphics - blending hand-crafted rendering with generative AI to deliver a [&#8230;]"
+      "published": "2026-03-18T12:30:00+00:00",
+      "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter [&#8230;]"
     },
     {
-      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
-      "source": "The Verge AI",
-      "category": "ai",
+      "title": "How the Xbox One Was Finally Hacked After 12 Years",
+      "url": "https://thecybersecguru.com/news/xbox-one-hacked-boot-rom-exploit-bliss/",
+      "source": "Hacker News",
+      "category": "general",
       "language": "en",
-      "published": "2026-03-16T21:44:11+00:00",
-      "summary": "Three Tennessee teens are suing Elon Musk's xAI over claims that the company's Grok AI chatbot generated sexualized images and videos of themselves as minors, as reported earlier by The Washington Post. The proposed class action lawsuit, filed on Monday, accuses Musk and other xAI leaders of knowing that Grok would produce AI-generated child sexual [&#8230;]"
+      "published": "2026-03-18T11:13:54+00:00",
+      "summary": "Article URL: https://thecybersecguru.com/news/xbox-one-hacked-boot-rom-exploit-bliss/\nComments URL: https://news.ycombinator.com/item?id=47424176\nPoints: 102\n# Comments: 12"
     },
     {
-      "title": "Jensen Huang just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T21:41:37+00:00",
-      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips."
-    },
-    {
-      "title": "NVIDIA、「NemoClaw」発表　OpenClawを1コマンドで導入、安全に実行可能に",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/17/news056.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-16T21:10:00+00:00",
-      "summary": "米NVIDIAが、年次カンファレンス「GTC 2026」でAIエージェントプラットフォーム「OpenClaw」向けソフトウェアスタック「NemoClaw」を発表した。1コマンドでNemotronモデルとOpenShellランタイムをインストールし、プライバシーとセキュリティを担保したままAIエージェントを常時稼働できる環境を構築できるという。"
-    },
-    {
-      "title": "Windowsの設定を一括カスタムできる「Sophia Script for Windows」、「WSLのインストール」や「追跡機能の無効化」などのプリセットを作って一括実行可能",
-      "url": "https://gigazine.net/news/20260317-sophia-script-for-windows/",
+      "title": "「ハッキング不可能」と言われていたXbox Oneが「Bliss」と呼ばれる手法によってついに突破される",
+      "url": "https://gigazine.net/news/20260318-xbox-one-hacked/",
       "source": "GIGAZINE",
       "category": "general",
       "language": "ja",
-      "published": "2026-03-16T21:00:00+00:00",
-      "summary": "Windowsのセットアップ直後には自分好みの環境を構築するために「トラッキングを無効化する」や「WSLをインストールする」といった設定を行う必要があります。しかし、新しいPCをセットアップしたりOSを再インストールするたびにWindowsの散らかった設定項目を順にたどるのは面倒です。そんなときに役立つのがWindowsの設定一括変更ツールの「Sophia Script for Windows」です。続きを読む..."
+      "published": "2026-03-18T11:00:00+00:00",
+      "summary": "2013年の発売以来長年ハッキング不可能だと考えられてきた「Xbox One」に対するハッキング手法が、脆弱(ぜいじゃく)性研究カンファレンスの「RE//verse 2026」で公開されました。続きを読む..."
     },
     {
-      "title": "Beyond has dropped “meat” from its name and expanded its high-protein drink line",
-      "url": "https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/",
+      "title": "海賊版サイトを通報してポイントをためることができる「オンラインハンター」をチェコの海賊版対策企業が開始",
+      "url": "https://gigazine.net/news/20260318-online-hunter/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T10:00:00+00:00",
+      "summary": "著作権侵害は大規模な海賊版サイトの場合は摘発しやすいですが、SNSやクローズドなコミュニティで海賊版コンテンツが共有されている場合には発見が困難です。この問題に対処するため、チェコの著作権侵害対策企業のWarezioがゲーム感覚で著作権侵害の事例を報告してポイントを稼ぐことができる「Online Hunter」の取り組みを開始しました。続きを読む..."
+    },
+    {
+      "title": "Rob Pike's 5 Rules of Programming",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
-      "published": "2026-03-16T20:59:49+00:00",
-      "summary": "Article URL: https://plantbasednews.org/news/alternative-protein/beyond-meat-not-the-moment-rebrand/\nComments URL: https://news.ycombinator.com/item?id=47404798\nPoints: 179\n# Comments: 431"
+      "published": "2026-03-18T09:59:54+00:00",
+      "summary": "Article URL: https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html\nComments URL: https://news.ycombinator.com/item?id=47423647\nPoints: 505\n# Comments: 272"
     },
     {
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T20:59:40+00:00",
-      "summary": "Lean 4 paper (2021): https://dl.acm.org/doi/10.1007/978-3-030-79876-5_37\n\nComments URL: https://news.ycombinator.com/item?id=47404796\nPoints: 658\n# Comments: 159"
-    },
-    {
-      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T20:58:36+00:00",
-      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk."
-    },
-    {
-      "title": "Benjamin Netanyahu is struggling to prove he&#8217;s not an AI clone",
-      "url": "https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T20:41:55+00:00",
-      "summary": "Social media platforms are currently awash with conspiracy theories claiming that Benjamin Netanyahu has been killed or injured and replaced by AI-generated deepfakes. Between clips that supposedly show the Israeli prime minister sporting extra fingers and drinking from a bottomless, gravity-defying cup of coffee, only one thing is apparent: Reality used to be much easier [&#8230;]"
-    },
-    {
-      "title": "Mistral Small 4",
-      "url": "https://mistral.ai/news/mistral-small-4",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T20:40:53+00:00",
-      "summary": "Article URL: https://mistral.ai/news/mistral-small-4\nComments URL: https://news.ycombinator.com/item?id=47404575\nPoints: 107\n# Comments: 9"
-    },
-    {
-      "title": "NVIDIA「Vera Rubin」は7つの新チップ、GroqのLPU追加でAIエージェント性能向上",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/17/news055.html",
+      "title": "デスクトップPCのAIエージェントをスマホで遠隔操作　「Claude Cowork」に新機能",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news130.html",
       "source": "ITmedia AI+",
       "category": "ai",
       "language": "ja",
-      "published": "2026-03-16T20:35:00+00:00",
-      "summary": "NVIDIAは米国カリフォルニア州サンノゼで開催中のユーザーイベント「GTC 2026」の基調講演において、CPU「Vera」やGPU「Rubin」など新たなアーキテクチャを基にしたAIインフラの基盤「Vera Rubinプラットフォーム」を発表した。"
+      "published": "2026-03-18T09:46:00+00:00",
+      "summary": "米Anthropicは、PC上でタスクを自律的にこなすAIエージェント「Claude Cowork」を、スマートフォンから遠隔操作する機能「Dispatch」の試験提供を始めた。"
     },
     {
-      "title": "Memories AI is building the visual memory layer for wearables and robotics",
-      "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T20:30:00+00:00",
-      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI."
-    },
-    {
-      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-      "source": "Hacker News",
+      "title": "2026年3月18日のヘッドラインニュース",
+      "url": "https://gigazine.net/news/20260318-headline/",
+      "source": "GIGAZINE",
       "category": "general",
-      "language": "en",
-      "published": "2026-03-16T20:01:02+00:00",
-      "summary": "Article URL: https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai\nComments URL: https://news.ycombinator.com/item?id=47404074\nPoints: 164\n# Comments: 98"
-    },
-    {
-      "title": "Coworkと旅するCPythonのソースコード、36年の旅",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/17/news013.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
       "language": "ja",
-      "published": "2026-03-16T20:00:00+00:00",
-      "summary": "cpython_growth.csvという、36年間にわたるCPythonのコミット履歴から1400件弱を抽出し、その時点でのソースコードの行数を記録したデータセットがあります。今回はこのデータセットを少しばかり眺めてみましょう。"
+      "published": "2026-03-18T09:25:00+00:00",
+      "summary": "マクドナルドでは2026年3月4日から春の定番商品である「てりたま」ファミリーを期間限定で販売しています。そんな「てりたま」ファミリーの第2弾として、「コク旨かるび焼肉風てりたま」が3月25日から新登場します。続きを読む..."
     },
     {
-      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-      "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T19:18:44+00:00",
-      "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok."
-    },
-    {
-      "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-      "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T19:12:19+00:00",
-      "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries."
-    },
-    {
-      "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
-      "url": "https://www.bbc.com/news/articles/c70n2x7p22do",
-      "source": "Hacker News",
+      "title": "もっちり生地に具材の詰まった1人前の「井村屋 mini PIZZA テリマヨ＆チーズ」試食レビュー",
+      "url": "https://gigazine.net/news/20260318-imuraya-mini-pizza-terimayo-cheese/",
+      "source": "GIGAZINE",
       "category": "general",
-      "language": "en",
-      "published": "2026-03-16T18:38:14+00:00",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c70n2x7p22do\nComments URL: https://news.ycombinator.com/item?id=47402950\nPoints: 1163\n# Comments: 357"
+      "language": "ja",
+      "published": "2026-03-18T09:20:00+00:00",
+      "summary": "肉まんやあんまんで培った井村屋の技術を活かしたミニサイズピザ「mini PIZZA」シリーズに、2026年2月から第2弾「mini PIZZA テリマヨ＆チーズ」が加わったので食べてみました。続きを読む..."
     },
     {
-      "title": "The return-to-the-office trend backfires",
-      "url": "https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T18:13:18+00:00",
-      "summary": "Article URL: https://thehill.com/opinion/technology/5775420-remote-first-productivity-growth/\nComments URL: https://news.ycombinator.com/item?id=47402651\nPoints: 130\n# Comments: 108"
-    },
-    {
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T18:12:32+00:00",
-      "summary": "https://github.com/jemalloc/jemalloc\n\nComments URL: https://news.ycombinator.com/item?id=47402640\nPoints: 476\n# Comments: 218"
-    },
-    {
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-      "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T17:51:46+00:00",
-      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI."
-    },
-    {
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T17:47:32+00:00",
-      "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million."
-    },
-    {
-      "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
-      "url": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T17:43:27+00:00",
-      "summary": "The startup also announced a $5 million \"rescue fund\" to help credit unions ditch legacy software for its AI-native platform."
-    },
-    {
-      "title": "The dictionary sues OpenAI",
-      "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-16T17:38:34+00:00",
-      "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training."
-    },
-    {
-      "title": "The “small web” is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T17:17:57+00:00",
-      "summary": "Article URL: https://kevinboone.me/small_web_is_big.html\nComments URL: https://news.ycombinator.com/item?id=47401879\nPoints: 492\n# Comments: 202"
-    },
-    {
-      "title": "The American Healthcare Conundrum",
-      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T17:13:27+00:00",
-      "summary": "Article URL: https://github.com/rexrodeo/american-healthcare-conundrum\nComments URL: https://news.ycombinator.com/item?id=47401809\nPoints: 439\n# Comments: 461"
-    },
-    {
-      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-      "url": "https://arxiv.org/abs/2511.04427",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-16T17:07:37+00:00",
-      "summary": "Article URL: https://arxiv.org/abs/2511.04427\nComments URL: https://news.ycombinator.com/item?id=47401734\nPoints: 133\n# Comments: 72"
-    },
-    {
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+      "title": "What do new nuclear reactors mean for waste?",
+      "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
       "source": "MIT Technology Review",
       "category": "research",
       "language": "en",
-      "published": "2026-03-16T17:06:21+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s&#8230;"
+      "published": "2026-03-18T09:00:00+00:00",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase it in steel, bury&#8230;"
     },
     {
-      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
+      "title": "Claw Compactor: compress LLM tokens 54% with zero dependencies",
+      "url": "https://github.com/open-compress/claw-compactor",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-18T08:06:48+00:00",
+      "summary": "Article URL: https://github.com/open-compress/claw-compactor\nComments URL: https://news.ycombinator.com/item?id=47422948\nPoints: 101\n# Comments: 2"
+    },
+    {
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "url": "https://nightingale.cafe/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-18T08:06:24+00:00",
+      "summary": "Article URL: https://nightingale.cafe/\nComments URL: https://news.ycombinator.com/item?id=47422942\nPoints: 340\n# Comments: 72"
+    },
+    {
+      "title": "「アイスクリーム食べた」が「セルフケアの大切さを実感しました」とインフルエンサーっぽい大げさな言い回しに変換される「LinkedIn Speak」が翻訳サービスのKagi Translateに登場",
+      "url": "https://gigazine.net/news/20260318-linkedin-speak/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T07:45:00+00:00",
+      "summary": "「Kagi Translate」は2024年に登場した無料の翻訳サービスで、DeepL翻訳やGoogle翻訳など既存の翻訳サービスを超える精度で翻訳できるとされています。Kagi Translateには言語の翻訳だけではなく「シェイクスピア風英語」「怒れる海賊」などさまざまなスタイルの英語に変換できる機能もありますが、新しくビジネス特化型SNSのLinkedInで使われるようなインフルエンサーっぽい大げさな言い回しに変換する「LinkedIn Speak」が登場しました。続きを読む..."
+    },
+    {
+      "title": "Linux Foundation、AI時代のOSSセキュリティ強化に1250万ドルの助成金をGoogleなど6社から獲得",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/18/news117.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-18T07:26:00+00:00",
+      "summary": "Linux Foundationは、Anthropic、AWS、GitHub、Google、Google DeepMind、Microsoft、OpenAIから総額1250万ドル（約20億円）の助成金を受領した。資金は「Alpha-Omega」等を通じて、AIによる脆弱性報告の急増に直面するオープンソース保守担当者の支援に充てる。"
+    },
+    {
+      "title": "小惑星リュウグウのサンプルからDNA/RNAの塩基5種類が発見される",
+      "url": "https://gigazine.net/news/20260318-hayabusa-2-ryuugu-nucleobases/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T06:00:00+00:00",
+      "summary": "宇宙航空研究開発機構(JAXA)の「はやぶさ2」ミッションによって採取された小惑星リュウグウのサンプルから、DNAおよびRNAを構成する標準的な核酸塩基5種「アデニン」「シトシン」「グアニン」「チミン」「ウラシル」がすべて見つかったことがわかりました。続きを読む..."
+    },
+    {
+      "title": "SSH has no Host header",
+      "url": "https://blog.exe.dev/ssh-host-header",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-18T05:18:02+00:00",
+      "summary": "Article URL: https://blog.exe.dev/ssh-host-header\nComments URL: https://news.ycombinator.com/item?id=47421828\nPoints: 131\n# Comments: 129"
+    },
+    {
+      "title": "イランのホルムズ海峡封鎖が「肥料ショック」を引き起こして世界中で食費上昇や食糧不足を引き起こす可能性",
+      "url": "https://gigazine.net/news/20260318-iran-war-fertiliser-shock-food-prices/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T05:15:00+00:00",
+      "summary": "アメリカとイスラエルによる攻撃を受けているイランは、報復としてペルシア湾とオマーン湾の間にあるホルムズ海峡を封鎖しました。これにより国際エネルギー市場は混乱に陥っていますが、国際連合大学の応用工学教授であるニマ・ショクリ氏らは注目するべきはエネルギー問題だけでなく、世界中の家計や農業に大打撃を与える「肥料ショック」にも注目するべきだと警告しています。続きを読む..."
+    },
+    {
+      "title": "「ブラウザ自動化」の限界を解消？　Googleが新標準「WebMCP」早期プレビュー公開",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/18/news058.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-18T04:00:00+00:00",
+      "summary": "Googleは、AIエージェントがWebサイトと構造化された方法でやりとりするための新しいWeb標準「WebMCP」の早期プレビュー版を公開した。Web開発者がAIエージェント向けにツールを公開することで、AIエージェントがより高速かつ正確に処理を実行できるようになるという。"
+    },
+    {
+      "title": "無料の国交省、中小企業庁、総務省データ用「リモートMCPサーバー」公開",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/18/news055.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-18T04:00:00+00:00",
+      "summary": "AI HYVEとN-3は、行政APIをAIエージェントから利用可能にする「リモートMCPサーバー」を無料公開した。ChatGPT、Gemini、Claudeなどから最新の行政データへのアクセスを可能にするという。"
+    },
+    {
+      "title": "NVIDIAのCEOがDLSS 5の過剰加工をからかうインターネットユーザーに反論",
+      "url": "https://gigazine.net/news/20260318-nvidia-ceo-completely-wrong-dlss-5/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T03:57:00+00:00",
+      "summary": "NVIDIAが2026年3月に発表したばかりの「DLSS 5」は、ゲームに登場するキャラクターを過剰に加工してしまうとして、インターネットユーザーの嘲笑の的となっています。これを受け、NVIDIAのジェンスン・フアンCEOがインターネットユーザーに反論しました。続きを読む..."
+    },
+    {
+      "title": "Samsungが三つ折りスマホ「Galaxy Z TriFold」の販売を終了へ、発売からわずか3カ月",
+      "url": "https://gigazine.net/news/20260318-samsung-discontinue-galaxy-z-trifold/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T03:55:00+00:00",
+      "summary": "Samsungが積極的に展開している折りたたみスマホの最先端形態として、2025年12月に三つ折りの「Galaxy Z TriFold」が登場しましたが、早くもSamsungが在庫限りで展開を終えようとしていることがわかりました。続きを読む..."
+    },
+    {
+      "title": "Have a fucking website",
+      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-18T03:53:42+00:00",
+      "summary": "Article URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/\nComments URL: https://news.ycombinator.com/item?id=47421442\nPoints: 722\n# Comments: 406"
+    },
+    {
+      "title": "Meta Horizon WorldsがVRサポートを終了へ",
+      "url": "https://gigazine.net/news/20260318-meta-horizon-worlds-vr-support-end/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T03:50:00+00:00",
+      "summary": "Metaがバーチャル空間で交流やゲームを楽しめる「Meta Horizon Worlds」のVRサポートを終了することを明らかにしました。2026年6月15日をもってQuestヘッドセットからのアクセスは終了し、以降はウェブブラウザやスマートフォン向けのアプリを通じた2Dスクリーンでの体験のみが提供されることになります。続きを読む..."
+    },
+    {
+      "title": "Appleのホームハードウェア責任者がスマートリングメーカーのOuraに移籍",
+      "url": "https://gigazine.net/news/20260318-apple-oura/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T03:25:00+00:00",
+      "summary": "AppleでHomePodやApple TVなどの開発を担うホームハードウェア部門の責任者を務めていたブライアン・リンチ氏が、スマートリングメーカーのOuraへ移籍したことが明らかになりました。続きを読む..."
+    },
+    {
+      "title": "Mistral AIが「Forge」をリリース、企業が独自知識を取り入れたAIモデルを簡単に構築するためのシステム",
+      "url": "https://gigazine.net/news/20260318-mistral-forge/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T03:00:00+00:00",
+      "summary": "AI企業のMistral AIが、企業が自社の知識に基づいた最先端レベルのAIモデルを構築するためのシステム「Forge」をリリースしました。このシステムを使うことでAIを自社固有の業務に適合させることが可能になるとされています。続きを読む..."
+    },
+    {
+      "title": "オゼンピックのようなダイエット薬は服用中止後も減量した体重の一部はリバウンドせず維持される",
+      "url": "https://gigazine.net/news/20260318-after-stopping-weight-loss-drugs/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T03:00:00+00:00",
+      "summary": "記事作成時点では世界中で10億人以上が肥満だといわれており、肥満は2型糖尿病や心血管疾患、がんといった病気のリスクを高めます。近年は肥満の治療にオゼンピック(セマグルチド)などの減量薬が用いられるようになっていますが、これらの減量薬には副作用があり、途中で服用を中止してしまう患者も少なくありません。新たな研究では、たとえ減量薬の服用を中止したとしても、減量した体重の一部は1年以上経過しても維持されるとの結果が示されました。続きを読む..."
+    },
+    {
+      "title": "Firefoxのタブにメモできるノートをくっつける「タブノート」機能実装へ",
+      "url": "https://gigazine.net/news/20260318-mozilla-firefox-tab-notes/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T02:40:00+00:00",
+      "summary": "ウェブブラウザのFirefoxを開発するMozillaが、ユーザーがウェブ上の作業を中断した場所からスムーズに再開できるよう支援する新機能「タブノート」を開発していることを明らかにしました。この機能は記事作成時点でNightly版で実験的に運用されており、2026年3月24日公開予定のFirefox 149において、実験的機能を提供するFirefox Labsを通じて公式にロールアウトされる予定となっています。続きを読む..."
+    },
+    {
+      "title": "「ぽこ あ ポケモン」でゴツゴツやまの街のかざんばいをすべて破壊したプレイヤー現る、大量のブロックの下には何が隠されているのか？",
+      "url": "https://gigazine.net/news/20260318-pokemon-pokopia-clearing-all-ash/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T02:36:00+00:00",
+      "summary": "2026年3月5日に発売されたNintendo Switch 2向けゲームの「ぽこ あ ポケモン」は、発売から4日で累計販売本数220万本を記録しました。そんな「ぽこ あ ポケモン」で登場するマップの「ゴツゴツやまの街」は岩山に囲まれた街で、街の至る所にかざんばいが山積しているのですが、これをすべて破壊し尽くしたというゲーマーが登場しています。続きを読む..."
+    },
+    {
+      "title": "4社のメーカーのIP-KVMに脆弱性があることが明らかに",
+      "url": "https://gigazine.net/news/20260318-ip-kvm-vulnerabilities/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T02:34:00+00:00",
+      "summary": "リモートでネットワーク上の機器にアクセスするためのデバイス「IP-KVM」の一部モデルに脆弱(ぜいじゃく)性があり、デバイスが侵害される可能性があることが分かりました。セキュリティ企業のEclypsiumが詳細を報告しています。続きを読む..."
+    },
+    {
+      "title": "予測市場のKalshiが違法賭博運営の疑いでアリゾナ州から訴えられる",
+      "url": "https://gigazine.net/news/20260318-arizona-prediction-market-kalshi-illegal-gambling/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T01:37:00+00:00",
+      "summary": "アリゾナ州司法長官のクリス・メイズ氏が、予測市場のKalshiが無許可で賭博事業を運営し、選挙に関する違法な賭け事を行ったとして刑事告発を行いました。続きを読む..."
+    },
+    {
+      "title": "OpenAIが高速かつ低コストな軽量モデル「GPT-5.4 mini／nano」を発表、GPT-5.4 miniは無料プランでも利用可能",
+      "url": "https://gigazine.net/news/20260318-openai-gpt-5-4-mini-nano/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-18T01:37:00+00:00",
+      "summary": "OpenAIが2026年3月に登場したGPT-5.4の軽量版である「GPT-5.4 mini」「GPT-5.4 nano」をリリースしたと2026年3月17日に発表しました。GPT-5.4 mini／nanoはGPT‑5.4の強みの多くを受け継ぎながら、高い処理量に対応する高速かつ効率的なモデルとして設計されているとのことです。続きを読む..."
+    },
+    {
+      "title": "The pleasures of poor product design",
+      "url": "https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-18T01:00:45+00:00",
+      "summary": "Article URL: https://www.inconspicuous.info/p/the-pleasures-of-poor-product-design\nComments URL: https://news.ycombinator.com/item?id=47420432\nPoints: 198\n# Comments: 68"
+    },
+    {
+      "title": "生成AIパスポートってどんな試験？　合格した当社の人事担当者に受験意義と勉強法を聞いた",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2603/18/news052.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-18T01:00:00+00:00",
+      "summary": "AI関連のおすすめの資格として「生成AIパスポート」はG検定に並んでよく挙げられる。今回は、同試験に合格した当社人事のHRさんに、受験した当事者の視点、人事の視点から、試験の意義や勉強方法を聞いた。"
+    },
+    {
+      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
+      "url": "https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-18T00:53:10+00:00",
+      "summary": "Article URL: https://rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/\nComments URL: https://news.ycombinator.com/item?id=47420388\nPoints: 138\n# Comments: 14"
+    },
+    {
+      "title": "OpenClaw狙う攻撃集団を特定　偽装導入で機密情報を窃取",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news048.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-17T23:00:00+00:00",
+      "summary": "中国のセキュリティ企業ThreatBookは、AIアプリを悪用する攻撃集団の活動を報告した。偽装したWebサイトや技術記事、拡張機能で利用者に不正操作を促し、端末に侵入して情報を窃取するという。"
+    },
+    {
+      "title": "強力なAIは「想定より早く実現する」　AIによる重要課題の研究組織「Anthropic Institute」設立",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/18/news043.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-17T23:00:00+00:00",
+      "summary": "Anthropicは、高度なAIが社会に与える影響を研究する「Anthropic Institute」を設立した。急速な技術進化に伴う雇用や法制度の課題を分析し、開発者の知見を公開・共有することで、AI時代の適切な統治と社会のレジリエンス向上を目指す。"
+    },
+    {
+      "title": "OpenAI、「ChatGPT」でモデル管理を改善　応答スタイル「探究心が強い」は廃止",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news071.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-17T22:42:00+00:00",
+      "summary": "OpenAIは、「ChatGPT」のモデル選択機能を簡素化した。有料プラン向けに「Instant」「Thinking」「Pro」（ProはProプラン以上）の3系統に整理し、状況に応じた自動切り替え機能や推論強度の調整項目を追加した。その他、幾つかの設定画面の見直しを実施した。"
+    },
+    {
+      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-17T22:30:46+00:00",
+      "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on&#8230;"
+    },
+    {
+      "title": "Starlink Miniを自宅インターネットの予備回線として使う",
+      "url": "https://gigazine.net/news/20260318-starlink-mini-failover/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-17T22:00:00+00:00",
+      "summary": "愛好家のジャック・ピアース氏が、衛星通信ネットワークとして提供されているStarlinkサービスから新たに登場した小型モデル「Starlink Mini」を導入し、メイン回線が落ちたときの予備として使用しているとして体験談を公開しました。続きを読む..."
+    },
+    {
+      "title": "OpenAI、「GPT-5.4」の軽量版「mini」と「nano」を公開　無料とGoでも利用可能",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/18/news068.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-17T21:58:00+00:00",
+      "summary": "OpenAIは、最新モデル「GPT-5.4」の軽量版となる「mini」と「nano」を発表した。高い推論能力を維持しつつ、応答速度とコスト効率を最適化したものだ。無料版やGoプランでも利用可能で、開発者向けにはAPIを通じた提供も開始された。"
+    },
+    {
+      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T21:42:39+00:00",
+      "summary": "Article URL: https://arxiv.org/abs/2603.15381\nComments URL: https://news.ycombinator.com/item?id=47418722\nPoints: 161\n# Comments: 97"
+    },
+    {
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T21:04:26+00:00",
+      "summary": "Article URL: https://mistral.ai/news/forge\nComments URL: https://news.ycombinator.com/item?id=47418295\nPoints: 642\n# Comments: 156"
+    },
+    {
+      "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+      "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T21:00:00+00:00",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
+    },
+    {
+      "title": "2026年も猛暑の可能性が濃厚、スーパーエルニーニョ級への発達予測も",
+      "url": "https://gigazine.net/news/20260318-2026-hot-summer-super-el-nino/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-17T21:00:00+00:00",
+      "summary": "2026年の夏も厳しい暑さになる可能性が高まっています。太平洋赤道域の海面水温が平年より高い状態が続くエルニーニョ現象について、アメリカ海洋大気庁は2026年6月～8月に発生する可能性を62％と予測しました。気象庁も夏にはエルニーニョ現象が発生する可能性の方が高いとしており、科学系メディアであるLive Scienceは、スーパーエルニーニョ級への発達で世界の気温がさらに押し上げられる可能性があると報じています。続きを読む..."
+    },
+    {
+      "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+      "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T20:50:04+00:00",
+      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini."
+    },
+    {
+      "title": "Warranty Void If Regenerated",
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T20:39:19+00:00",
+      "summary": "Article URL: https://nearzero.software/p/warranty-void-if-regenerated\nComments URL: https://news.ycombinator.com/item?id=47417983\nPoints: 109\n# Comments: 28"
+    },
+    {
+      "title": "Meta and TikTok let harmful content rise to drove engagement, say whistleblowers",
+      "url": "https://www.bbc.com/news/articles/cqj9kgxqjwjo",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T20:24:33+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqj9kgxqjwjo\nComments URL: https://news.ycombinator.com/item?id=47417814\nPoints: 307\n# Comments: 184"
+    },
+    {
+      "title": "Get Shit Done: A meta-prompting, context engineering and spec-driven dev system",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T20:23:39+00:00",
+      "summary": "Article URL: https://github.com/gsd-build/get-shit-done\nComments URL: https://news.ycombinator.com/item?id=47417804\nPoints: 397\n# Comments: 214"
+    },
+    {
+      "title": "Meta Horizon Worlds on Meta Quest is being discontinued",
+      "url": "https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T19:17:16+00:00",
+      "summary": "Article URL: https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435\nComments URL: https://news.ycombinator.com/item?id=47416940\nPoints: 220\n# Comments: 234"
+    },
+    {
+      "title": "A Decade of Slug",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T18:59:50+00:00",
+      "summary": "https://web.archive.org/web/20260317185928/https://terathon....\n\nComments URL: https://news.ycombinator.com/item?id=47416736\nPoints: 695\n# Comments: 69"
+    },
+    {
+      "title": "Java 26 is here",
+      "url": "https://hanno.codes/2026/03/17/java-26-is-here/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T18:44:09+00:00",
+      "summary": "Article URL: https://hanno.codes/2026/03/17/java-26-is-here/\nComments URL: https://news.ycombinator.com/item?id=47416548\nPoints: 247\n# Comments: 267"
+    },
+    {
+      "title": "Python 3.15's JIT is now back on track",
+      "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T18:37:27+00:00",
+      "summary": "Article URL: https://fidget-spinner.github.io/posts/jit-on-track.html\nComments URL: https://news.ycombinator.com/item?id=47416486\nPoints: 444\n# Comments: 261"
+    },
+    {
+      "title": "The Pentagon is developing alternatives to Anthropic, report says",
+      "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T18:20:15+00:00",
+      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together."
+    },
+    {
+      "title": "Illinois Introducing Operating System Account Age Bill",
+      "url": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-17T18:06:07+00:00",
+      "summary": "Article URL: https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&amp;DocNum=5511\nComments URL: https://news.ycombinator.com/item?id=47416131\nPoints: 280\n# Comments: 421"
+    },
+    {
+      "title": "Nvidia&#8217;s DLSS 5 is like motion smoothing for video games, but worse",
+      "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
       "source": "The Verge AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-16T17:04:06+00:00",
-      "summary": "On Friday, Encyclopedia Britannica and dictionary publisher Merriam-Webster filed a lawsuit against OpenAI alleging that it used their copyrighted content to train its AI, then generated responses that were \"substantially similar\" to their content, as previously reported by Reuters. According to Britannica, OpenAI repeatedly copied its content without permission, stating, \"GPT-4 itself has 'memorized' much [&#8230;]"
+      "published": "2026-03-17T18:00:00+00:00",
+      "summary": "Yesterday Nvidia revealed its latest upscaling tech, called DLSS 5, which it described as \"the company's most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.\" Sounds good, until you actually see it. According to Nvidia, the tech \"infuses pixels with photoreal lighting and materials,\" but all anyone seemed to [&#8230;]"
+    },
+    {
+      "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+      "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T17:17:15+00:00",
+      "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions."
+    },
+    {
+      "title": "Now everyone in the US is getting Google&#8217;s personalized Gemini AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-17T16:33:41+00:00",
+      "summary": "Google announced on Tuesday that all users in the US will now have access to its Personal Intelligence feature, which lets you connect various Google apps to provide context for Gemini's responses and suggestions. Access was previously limited to Google AI Pro and AI Ultra subscribers. Now, free-tier users in the US can also use [&#8230;]"
     }
   ]
 }

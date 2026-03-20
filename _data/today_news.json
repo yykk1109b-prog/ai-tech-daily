@@ -1,7 +1,205 @@
 {
-  "fetched_at": "2026-03-19T15:52:12.521320+00:00",
-  "total_count": 75,
+  "fetched_at": "2026-03-20T01:22:17.265408+00:00",
+  "total_count": 62,
   "articles": [
+    {
+      "title": "OpenAI is planning a desktop ‘superapp’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-20T00:09:38+00:00",
+      "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ [&#8230;]"
+    },
+    {
+      "title": "犬は物探しを助けるときに人間の幼児のような反応を示す、一方で猫は非協力的",
+      "url": "https://gigazine.net/news/20260320-dog-find-thing-children/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-19T23:00:00+00:00",
+      "summary": "犬は人間がすることに協力することが多く、何かなくしたものを探すときに手伝おうとして駆け寄ってくることがあります。こうした行動を調査した研究により、犬が生後2年程度の人間のような反応を示していることが明らかになりました。続きを読む..."
+    },
+    {
+      "title": "楽天、AIモデル「Rakuten AI 3.0」を無償提供　「オープンソースコミュニティ上の最良なモデル」を基に日本語能力を強化",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/20/news011.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-19T23:00:00+00:00",
+      "summary": "楽天は、国内有数の日本語特化型AIモデル「Rakuten AI 3.0」の提供を開始した。本モデルは約7000億パラメーターのMoEアーキテクチャを採用し、日本語性能で高い評価を得ている。無償公開を通じて国内のAI開発加速と技術支援を目指す。"
+    },
+    {
+      "title": "OpenAI、Astralを買収　Python開発支援ツール「Ruff」「uv」を「Codex」へ統合",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/20/news024.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-19T22:54:00+00:00",
+      "summary": "OpenAIは、Python開発者向け高速ツールを提供するAstralを買収することで合意した。高性能なコードチェックツール「Ruff」やパッケージ管理ツール「uv」を持つ同社の技術を、プログラミング支援AI「Codex」に統合する。開発ワークフロー全体を自動化するAIシステムの進化を目指し、オープンソースの既存ツールへのサポートも継続する。"
+    },
+    {
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-19T22:09:24+00:00",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology."
+    },
+    {
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "url": "https://github.com/cockpit-project/cockpit",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T20:33:02+00:00",
+      "summary": "Article URL: https://github.com/cockpit-project/cockpit\nComments URL: https://news.ycombinator.com/item?id=47445599\nPoints: 164\n# Comments: 100"
+    },
+    {
+      "title": "Waymo Safety Impact",
+      "url": "https://waymo.com/safety/impact/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T20:13:35+00:00",
+      "summary": "Article URL: https://waymo.com/safety/impact/\nComments URL: https://news.ycombinator.com/item?id=47445246\nPoints: 210\n# Comments: 205"
+    },
+    {
+      "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
+      "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T20:09:02+00:00",
+      "summary": "Article URL: https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf\nComments URL: https://news.ycombinator.com/item?id=47445175\nPoints: 160\n# Comments: 90"
+    },
+    {
+      "title": "Anthropic takes legal action against OpenCode",
+      "url": "https://github.com/anomalyco/opencode/pull/18186",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T19:37:26+00:00",
+      "summary": "Article URL: https://github.com/anomalyco/opencode/pull/18186\nComments URL: https://news.ycombinator.com/item?id=47444748\nPoints: 372\n# Comments: 300"
+    },
+    {
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-19T19:09:02+00:00",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands."
+    },
+    {
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T18:59:02+00:00",
+      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident\nComments URL: https://news.ycombinator.com/item?id=47444195\nPoints: 127\n# Comments: 110"
+    },
+    {
+      "title": "Noq: n0's new QUIC implementation in Rust",
+      "url": "https://www.iroh.computer/blog/noq-announcement",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T18:17:15+00:00",
+      "summary": "Article URL: https://www.iroh.computer/blog/noq-announcement\nComments URL: https://news.ycombinator.com/item?id=47443588\nPoints: 142\n# Comments: 19"
+    },
+    {
+      "title": "An update on Steam / GOG changes for OpenTTD",
+      "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T17:27:17+00:00",
+      "summary": "Article URL: https://www.openttd.org/news/2026/03/19/steam-changes-update\nComments URL: https://news.ycombinator.com/item?id=47442834\nPoints: 266\n# Comments: 185"
+    },
+    {
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-19T17:24:13+00:00",
+      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement."
+    },
+    {
+      "title": "How to defer US taxes",
+      "url": "https://taylor.town/succession-000",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T17:16:36+00:00",
+      "summary": "Article URL: https://taylor.town/succession-000\nComments URL: https://news.ycombinator.com/item?id=47442699\nPoints: 144\n# Comments: 144"
+    },
+    {
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T17:16:04+00:00",
+      "summary": "https://android-developers.googleblog.com/2026/03/android-de...\n\nComments URL: https://news.ycombinator.com/item?id=47442690\nPoints: 483\n# Comments: 562"
+    },
+    {
+      "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+      "url": "https://blog.skypilot.co/scaling-autoresearch/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T16:55:45+00:00",
+      "summary": "Article URL: https://blog.skypilot.co/scaling-autoresearch/\nComments URL: https://news.ycombinator.com/item?id=47442435\nPoints: 120\n# Comments: 59"
+    },
+    {
+      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-19T16:14:00+00:00",
+      "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language."
+    },
+    {
+      "title": "World Happiness Report 2026",
+      "url": "https://www.worldhappiness.report/ed/2026/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T16:12:48+00:00",
+      "summary": "Article URL: https://www.worldhappiness.report/ed/2026/\nComments URL: https://news.ycombinator.com/item?id=47441784\nPoints: 116\n# Comments: 94"
+    },
+    {
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T15:56:06+00:00",
+      "summary": "Kitten TTS (https://github.com/KittenML/KittenTTS) is an open-source series of tiny and expressive text-to-speech models for on-device applications. We had a thread last year here: https://news.ycombinator.com/item?id=44807868.Today we're releasing three new models with 80M, 40M and 14M parameters.The largest model (80M) has the highest quality. The 14M variant reaches new SOTA in expressivity among similar sized models, despite being Here's a short demo: https://www.youtube.com/watch?v=ge3u5qblqZA.Most models are quantized to int8 + fp16, and they use ONNX for runtime. Our models are designed to run anywhere eg. raspberry pi, low-end smartphones, wearables, browsers etc. No GPU required! This release aims to bridge the gap between on-device and cloud models for tts applications. Multi-lingual model release is coming soon.On-device AI is bottlenecked by one thing: a lack of tiny models that actually perform. Our goal is to open-source more models to run production-ready voice agents and apps entirely on-device.We would love your feedback!\n\nComments URL: https://news.ycombinator.com/item?id=47441546\nPoints: 312\n# Comments: 105"
+    },
+    {
+      "title": "Prompt Injecting Contributing.md",
+      "url": "https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T15:52:12+00:00",
+      "summary": "Article URL: https://glama.ai/blog/2026-03-19-open-source-has-a-bot-problem\nComments URL: https://news.ycombinator.com/item?id=47441499\nPoints: 104\n# Comments: 34"
+    },
+    {
+      "title": "macOS 26 breaks custom DNS settings including .internal",
+      "url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T15:06:58+00:00",
+      "summary": "One of those 'woke up to MacOS updates' and finding none of my dockers are reachable via dnsmasq (which I use), and low and behold, an update silently breaks custom dns resolution. Hopefully Apple will listen to the bug report I've made. Hold off on updating if you use this…\n\nComments URL: https://news.ycombinator.com/item?id=47440759\nPoints: 318\n# Comments: 166"
+    },
     {
       "title": "TechCrunch Startup Battlefield 200 nominations are still open",
       "url": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
@@ -30,6 +228,15 @@
       "summary": "GIGAZINEの記事を電子化した書籍を対象に「2026年2月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。続きを読む..."
     },
     {
+      "title": "4Chan mocks £520k fine for UK online safety breaches",
+      "url": "https://www.bbc.com/news/articles/c624330lg1ko",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T14:46:25+00:00",
+      "summary": "https://www.ofcom.org.uk/online-safety/illegal-and-harmful-c...\n\nComments URL: https://news.ycombinator.com/item?id=47440430\nPoints: 259\n# Comments: 415"
+    },
+    {
       "title": "俳優ヴァル・キルマーが遺族らの協力を得て生成AIで新作映画に出演へ",
       "url": "https://gigazine.net/news/20260319-ai-val-kilmer-in-a-new-film/",
       "source": "GIGAZINE",
@@ -48,13 +255,22 @@
       "summary": "Microsoftは機密性の高い情報を扱うユーザー向けのクラウドサービス群である「Government Community Cloud High(GCCH)」を、さまざまな政府機関や政府の請負業者に提供しています。しかし、アメリカ政府のクラウドサービス認証制度である米国連邦情報セキュリティ管理プログラム(FedRAMP)は繰り返しGCCHの問題を指摘していたにもかかわらず、政府内外の圧力を受けてGCCHを承認せざるを得なかったと、非営利報道機関のProPublicaが報じました。続きを読む..."
     },
     {
+      "title": "OpenBSD: PF queues break the 4 Gbps barrier",
+      "url": "https://undeadly.org/cgi?action=article;sid=20260319125859",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T13:43:26+00:00",
+      "summary": "Article URL: https://undeadly.org/cgi?action=article;sid=20260319125859\nComments URL: https://news.ycombinator.com/item?id=47439320\nPoints: 177\n# Comments: 56"
+    },
+    {
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
       "published": "2026-03-19T13:05:50+00:00",
-      "summary": "https://openai.com/index/openai-to-acquire-astral/\n\nComments URL: https://news.ycombinator.com/item?id=47438723\nPoints: 492\n# Comments: 338"
+      "summary": "https://openai.com/index/openai-to-acquire-astral/\n\nComments URL: https://news.ycombinator.com/item?id=47438723\nPoints: 1207\n# Comments: 747"
     },
     {
       "title": "OpenAI to Acquire Astral",
@@ -63,16 +279,16 @@
       "category": "general",
       "language": "en",
       "published": "2026-03-19T13:05:17+00:00",
-      "summary": "Article URL: https://openai.com/index/openai-to-acquire-astral/\nComments URL: https://news.ycombinator.com/item?id=47438716\nPoints: 155\n# Comments: 4"
+      "summary": "Article URL: https://openai.com/index/openai-to-acquire-astral/\nComments URL: https://news.ycombinator.com/item?id=47438716\nPoints: 159\n# Comments: 4"
     },
     {
-      "title": "Juggalo Makeup Blocks Facial Recognition Technology (2019)",
+      "title": "Juggalo makeup blocks facial recognition technology (2019)",
       "url": "https://consequence.net/2019/07/juggalo-makeup-facial-recognition/",
       "source": "Hacker News",
       "category": "general",
       "language": "en",
       "published": "2026-03-19T13:02:35+00:00",
-      "summary": "Article URL: https://consequence.net/2019/07/juggalo-makeup-facial-recognition/\nComments URL: https://news.ycombinator.com/item?id=47438675\nPoints: 105\n# Comments: 37"
+      "summary": "Article URL: https://consequence.net/2019/07/juggalo-makeup-facial-recognition/\nComments URL: https://news.ycombinator.com/item?id=47438675\nPoints: 228\n# Comments: 141"
     },
     {
       "title": "Adobe’s AI image generator can now be trained on your own art",
@@ -91,6 +307,15 @@
       "language": "ja",
       "published": "2026-03-19T13:00:00+00:00",
       "summary": "Google社員のRoman Gushchin氏がAIを用いたバグ発見システム「Sashiko」を開発して公開しました。Sashikoは主にLinuxカーネルのパッチに含まれるバグを発見するために設計されていますが、Linuxカーネル以外のプロジェクトでも使用することができます。続きを読む..."
+    },
+    {
+      "title": "How many branches can your CPU predict?",
+      "url": "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-19T12:49:21+00:00",
+      "summary": "Article URL: https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/\nComments URL: https://news.ycombinator.com/item?id=47438490\nPoints: 122\n# Comments: 1"
     },
     {
       "title": "Amazon brings Alexa+ to the UK",
@@ -120,15 +345,6 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems&#160; In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits&#8230;"
     },
     {
-      "title": "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
-      "url": "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T12:13:00+00:00",
-      "summary": "Article URL: https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html\nComments URL: https://news.ycombinator.com/item?id=47438001\nPoints: 253\n# Comments: 36"
-    },
-    {
       "title": "各自のターンがなんと23時間続くシヴィライゼーション風の文明シミュレーションゲーム「Freeciv Longturn」、実際に16人が戦い続けているデモのAI生成まとめ戦時新聞が面白い",
       "url": "https://gigazine.net/news/20260319-freeciv-longturn/",
       "source": "GIGAZINE",
@@ -136,33 +352,6 @@
       "language": "ja",
       "published": "2026-03-19T12:00:00+00:00",
       "summary": "「Freeciv Longturn」は、シミュレーションゲーム「シヴィライゼーション」を模したフリーゲーム「Freeciv」のマルチプレイヤーモードの1つです。各ターンが数分ではなく実時間で23時間かかることが特徴です。続きを読む..."
-    },
-    {
-      "title": "Denmark was reportedly preparing for full-scale war with the US over Greenland",
-      "url": "https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T11:49:37+00:00",
-      "summary": "Article URL: https://bsky.app/profile/chriso-wiki.bsky.social/post/3mhfsau25uk2f\nComments URL: https://news.ycombinator.com/item?id=47437782\nPoints: 327\n# Comments: 434"
-    },
-    {
-      "title": "'Your Frustration Is the Product'",
-      "url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T11:34:24+00:00",
-      "summary": "Article URL: https://daringfireball.net/2026/03/your_frustration_is_the_product\nComments URL: https://news.ycombinator.com/item?id=47437655\nPoints: 199\n# Comments: 126"
-    },
-    {
-      "title": "Iran war energy shock sparks global push to reduce fossil fuel dependence",
-      "url": "https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T11:15:27+00:00",
-      "summary": "Article URL: https://www.reuters.com/business/energy/iran-war-energy-shock-sparks-global-push-reduce-fossil-fuel-dependence-2026-03-18/\nComments URL: https://news.ycombinator.com/item?id=47437516\nPoints: 207\n# Comments: 265"
     },
     {
       "title": "2026年3月19日のヘッドラインニュース",
@@ -183,22 +372,13 @@
       "summary": "Nightingaleは、ニューラルネットワークを活用して音楽ライブラリからカラオケを生成するアプリです。リードボーカルとインストゥルメンタルの分離、歌詞の自動生成、採点機能などを備えており、手持ちの楽曲ファイルを高機能なカラオケとして楽しむことが可能。GPL-3.0ライセンスに基づいてオープンソースで開発されており、Windows・macOS・Linux向けに無料で公開されています。続きを読む..."
     },
     {
-      "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+      "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
       "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
       "source": "MIT Technology Review",
       "category": "research",
       "language": "en",
       "published": "2026-03-19T10:51:43+00:00",
       "summary": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formation by a carefully manipulated&#8230;"
-    },
-    {
-      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T10:17:46+00:00",
-      "summary": "Article URL: https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/\nComments URL: https://news.ycombinator.com/item?id=47437101\nPoints: 154\n# Comments: 132"
     },
     {
       "title": "Why the world doesn’t recycle more nuclear waste",
@@ -219,22 +399,13 @@
       "summary": "児童性的虐待や人身売買の疑いで2019年に逮捕されて獄中死を遂げたジェフリー・エプスタインは、2008年に逮捕された際の過去を抹消するべく、Googleの検索結果やWikipediaの記事を書き換えるなど、大規模な印象操作を進めてたとニューヨーク・タイムズが報じています。続きを読む..."
     },
     {
-      "title": "Afroman found not liable in defamation case",
-      "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T09:51:56+00:00",
-      "summary": "Article URL: https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/\nComments URL: https://news.ycombinator.com/item?id=47436950\nPoints: 696\n# Comments: 289"
-    },
-    {
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
       "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
       "published": "2026-03-19T08:00:00+00:00",
-      "summary": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available."
+      "summary": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available."
     },
     {
       "title": "25gもタンパク質が摂取できるのに味わいすっきりな「オイコス PROプロテインドリンク 高吸収タンパク質25g」(リッチバニラ風味)試飲レビュー",
@@ -291,15 +462,6 @@
       "summary": "「DeepSeekのAIモデルをベースに開発したのでは」――楽天グループの日本語LLM「Rakuten AI 3.0」を巡り、X上でこのような指摘が相次いでいる。楽天の担当者に話を聞いた。"
     },
     {
-      "title": "What 81,000 people want from AI",
-      "url": "https://www.anthropic.com/features/81k-interviews",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T05:00:56+00:00",
-      "summary": "Article URL: https://www.anthropic.com/features/81k-interviews\nComments URL: https://news.ycombinator.com/item?id=47435156\nPoints: 172\n# Comments: 159"
-    },
-    {
       "title": "アメリカ政府が新たな政府ドメイン「aliens.gov」を登録、エイリアンに関する情報公開の準備の可能性",
       "url": "https://gigazine.net/news/20260319-us-government-registers-aliens-gov-domain/",
       "source": "GIGAZINE",
@@ -307,15 +469,6 @@
       "language": "ja",
       "published": "2026-03-19T05:00:00+00:00",
       "summary": "アメリカ政府が使用する政府ドメインに、新しく「aliens.gov」が登録されたことが判明しました。ドメイン名にaliens(エイリアン)という文字列が入っていることから、ドナルド・トランプ政権が進めているエイリアン関連の情報公開に向けたものではと推測されています。続きを読む..."
-    },
-    {
-      "title": "Conway's Game of Life, in real life",
-      "url": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T03:55:03+00:00",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life\nComments URL: https://news.ycombinator.com/item?id=47434732\nPoints: 258\n# Comments: 68"
     },
     {
       "title": "AIエージェントを美少女キャラつきのGUIで管理できる「OpenRoom」",
@@ -334,15 +487,6 @@
       "language": "ja",
       "published": "2026-03-19T03:54:00+00:00",
       "summary": "Anthropicは、Claudeユーザー約8万人を対象とした大規模な多言語定性調査の結果を報告した。ユーザーはAIに「卓越した専門性」を求めており、8割以上が実用性を実感している。一方で信頼性欠如や自律性喪失への懸念も根強く、特に日本を含む東アジアではAI利用による認知能力低下を危惧する傾向が他地域より顕著だ。"
-    },
-    {
-      "title": "Mozilla to launch free built-in VPN in upcoming Firefox 149",
-      "url": "https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T03:31:01+00:00",
-      "summary": "Article URL: https://cyberinsider.com/mozilla-to-launch-free-built-in-vpn-in-upcoming-firefox-149/\nComments URL: https://news.ycombinator.com/item?id=47434567\nPoints: 217\n# Comments: 139"
     },
     {
       "title": "コーヒーを1日2～3杯飲むとメンタルヘルスを改善できるかもしれない",
@@ -390,24 +534,6 @@
       "summary": "中国の上海に拠点を置くAI開発企業のMiniMaxがAIモデル「MiniMax M2.7」を2026年3月18日に発表しました。MiniMax M2.7は同社初の「自己進化を用いて開発したAIモデル」として位置付けられており、ベンチマークテストではGemini 3.1 Proを超えるスコアを達成しています。続きを読む..."
     },
     {
-      "title": "A sufficiently detailed spec is code",
-      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T02:23:17+00:00",
-      "summary": "Article URL: https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code\nComments URL: https://news.ycombinator.com/item?id=47434047\nPoints: 507\n# Comments: 271"
-    },
-    {
-      "title": "Cook: A simple CLI for orchestrating Claude Code",
-      "url": "https://rjcorwin.github.io/cook/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T02:20:34+00:00",
-      "summary": "Article URL: https://rjcorwin.github.io/cook/\nComments URL: https://news.ycombinator.com/item?id=47434024\nPoints: 260\n# Comments: 79"
-    },
-    {
       "title": "FacebookがYouTuber・TikToker・インスタグラマーに最大150万円弱を支払うキャンペーンを開始",
       "url": "https://gigazine.net/news/20260319-creator-fast-track/",
       "source": "GIGAZINE",
@@ -433,249 +559,6 @@
       "language": "ja",
       "published": "2026-03-19T01:42:00+00:00",
       "summary": "OpenAIとAmazonの間で締結された500億ドル(約8兆円)規模のクラウド提携が自社との独占的なパートナーシップ契約に違反する可能性があるとして、Microsoftが法的措置を検討していると報じられています。この対立はOpenAIのAI導入支援プラットフォーム「Frontier」を巡るもので、本来はMicrosoftのAzureが独占的にホストするはずのモデルへのアクセスが、Amazonのプラットフォーム上で提供されることへの是非が争点となっています。続きを読む..."
-    },
-    {
-      "title": "Ask HN: How do you deal with people who trust LLMs?",
-      "url": "https://news.ycombinator.com/item?id=47433702",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T01:37:35+00:00",
-      "summary": "A lot of people use LLMs as the source of their objective truth. They have a question that would be very well answered with a search leading to a reputable source, but instead they ask some LLM chat bot and just blindly trust whatever it says.How do you deal with that? Do you try to tell them about hallucinations and that LLMs have no concept of true or false? Or do you just let them be? What do you do when they do that in a conversation with you or encounter LLMs being used as a source for something that affects you?\n\nComments URL: https://news.ycombinator.com/item?id=47433702\nPoints: 137\n# Comments: 180"
-    },
-    {
-      "title": "Autoresearch for SAT Solvers",
-      "url": "https://github.com/iliazintchenko/agent-sat",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T00:40:32+00:00",
-      "summary": "Article URL: https://github.com/iliazintchenko/agent-sat\nComments URL: https://news.ycombinator.com/item?id=47433265\nPoints: 150\n# Comments: 30"
-    },
-    {
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-19T00:15:39+00:00",
-      "summary": "Article URL: https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents\nComments URL: https://news.ycombinator.com/item?id=47433058\nPoints: 674\n# Comments: 817"
-    },
-    {
-      "title": "RX – a new random-access JSON alternative",
-      "url": "https://github.com/creationix/rx",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-18T23:58:05+00:00",
-      "summary": "Article URL: https://github.com/creationix/rx\nComments URL: https://news.ycombinator.com/item?id=47432915\nPoints: 125\n# Comments: 69"
-    },
-    {
-      "title": "Meta is having trouble with rogue AI agents",
-      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T23:42:46+00:00",
-      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it."
-    },
-    {
-      "title": "Sam Altman’s thank-you to coders draws the memes",
-      "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T23:12:58+00:00",
-      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes."
-    },
-    {
-      "title": "チェスや囲碁で有効だったAIの強化学習が単純なゲームで失敗してしまう理由とは？",
-      "url": "https://gigazine.net/news/20260319-ai-fails-simple-games/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-18T23:00:00+00:00",
-      "summary": "AIはチェスや囲碁といったボードゲームで人間を上回る強さを発揮していますが、2023年には特定の戦術を用いることで囲碁AIに勝利する方法が見つかるなど、AIの強さには弱点もあることがわかっています。新たに発表された論文では、AlphaZeroなどで採用されている強化学習という機械学習手法が、一部のシンプルなゲームでは通用しないことが報告されました。続きを読む..."
-    },
-    {
-      "title": "「最もセクシー」と呼ばれた職業、データサイエンティストの今　ブームは去っても「必須の役割」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news053.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-18T23:00:00+00:00",
-      "summary": "かつて「21世紀で最もセクシーな職業」と呼ばれたデータサイエンティスト。生成AIブームの中、その役割はどう変わったのか。ガートナージャパンのアナリストである一志達也氏に、データサイエンティストの現在地と、AI人材獲得に悩む日本企業の課題を聞いた。"
-    },
-    {
-      "title": "2028年にインシデント対応の5割はAI関連に　ガートナーが予測",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news051.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-18T23:00:00+00:00",
-      "summary": "ガートナーは2026年以降のセキュリティの展望として、AI普及によってリスク管理が激変すると発表した。2028年にはインシデント対応の半分がAI関連となり、規制対応の遅れやデータ負債、ID管理が複雑化するという。"
-    },
-    {
-      "title": "Uber、日米でロボタクシー展開　日産やAmazon子会社と連携",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/19/news044.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-18T23:00:00+00:00",
-      "summary": "Uberは、Zooxと提携し米国でロボタクシーを導入すると発表した。日本でも日産やWayveと連携し東京での試験運行も計画している。"
-    },
-    {
-      "title": "「AI音痴な上司」がチームを壊す？　7割が実感する生成AI活用の「組織的限界」",
-      "url": "https://www.itmedia.co.jp/business/articles/2603/19/news028.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-18T23:00:00+00:00",
-      "summary": "生成AIの業務活用が広がる一方で、使いこなせる人とそうでない人の差が組織の生産性に影響を及ぼし始めている。コーレの調査では、7割超が「使えない人」による業務支障を実感していた。企業の生成AI活用の実態に迫る。"
-    },
-    {
-      "title": "宇宙に本格進出するNVIDIA、軌道データセンター向けの「Vera Rubin」を発表",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/19/news063.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-18T22:15:00+00:00",
-      "summary": "NVIDIAはユーザーイベント「GTC 2026」において、最新のAIインフラ基盤「Vera Rubinプラットフォーム」をベースに、宇宙空間をはじめサイズ、重量、電力（SWaP）に制約のある環境向けに開発中の「NVIDIA Space-1 Vera Rubin Module」を発表した。"
-    },
-    {
-      "title": "銃乱射事件を起こそうとする人物をAIでいち早く特定するスタートアップが登場",
-      "url": "https://gigazine.net/news/20260319-ai-identify-mass-shooters/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-18T22:00:00+00:00",
-      "summary": "銃社会のアメリカでは頻繁に銃乱射事件が起きており、2026年3月にはテキサス州オースティンの繁華街で銃撃事件が発生して3人が死亡して10人以上が負傷したほか、バージニア州ノーフォークの大学では教室内で発砲事件があり1人が死亡して2人が負傷しました。そんな中、テキサス州に拠点を置くAngel ProtectionというAIスタートアップが、AIを使用して銃乱射事件を起こそうとする人間をいち早く特定する技術を発表しました。続きを読む..."
-    },
-    {
-      "title": "手のひらサイズAIスパコン「DGX Spark」が4台連結可能に、OpenClawもサクサク動く",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/19/news046.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-18T21:45:00+00:00",
-      "summary": "NVIDIAは「GTC 2026」の開催に併せて、超小型デスクトップAIスーパーコンピュータ「DGX Spark」の次期ソフトウェアアップデートについて発表した。これまで2台連結によるスケールアウトが可能だったが、今後は4台連結まで可能になるという。"
-    },
-    {
-      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-      "url": "https://github.com/alainnothere/llm-circuit-finder",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-18T21:31:12+00:00",
-      "summary": "I replicated David Ng's RYS method (https://dnhkng.github.io/posts/rys/) on consumer AMD GPUs \n(RX 7900 XT + RX 6950 XT) and found something I didn't expect.Transformers appear to have discrete \"reasoning circuits\" — contiguous blocks of 3-4 layers that \nact as indivisible cognitive units. Duplicate the right block and the model runs its reasoning \npipeline twice. No weights change. No training. The model just thinks longer.The results on standard benchmarks (lm-evaluation-harness, n=50):Devstral-24B, layers 12-14 duplicated once:\n- BBH Logical Deduction: 0.22 → 0.76\n- GSM8K (strict): 0.48 → 0.64\n- MBPP (code gen): 0.72 → 0.78\n- Nothing degradedQwen2.5-Coder-32B, layers 7-9 duplicated once:\n- Reasoning probe: 76% → 94%The weird part: different duplication patterns create different cognitive \"modes\" from the same \nweights. Double-pass boosts math. Triple-pass boosts emotional reasoning. Interleaved doubling \n(13,13,14,14,15,15,16) creates a pure math specialist. Same model, same VRAM, different routing.The circuit boundaries are sharp — shift by one layer and the effect disappears or inverts. \nSmaller models (24B) have tighter circuits (3 layers) than larger ones (Ng found 7 layers in 72B).Tools to find circuits in any GGUF model and apply arbitrary layer routing are in the repo. \nThe whole thing — sweep, discovery, validation — took one evening.Happy to answer questions.\n\nComments URL: https://news.ycombinator.com/item?id=47431671\nPoints: 194\n# Comments: 71"
-    },
-    {
-      "title": "グリーンバックでのVFX合成がイマイチになる問題を解決できる「CorridorKey」爆誕",
-      "url": "https://gigazine.net/news/20260319-corridorkey/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-18T21:00:00+00:00",
-      "summary": "YouTubeのチャンネル登録者数700万人超のCorridor Crewが、VFXにまつわる30年来の問題を解決する「CorridorKey」を公開しました。続きを読む..."
-    },
-    {
-      "title": "Warranty Void If Regenerated",
-      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-18T20:45:54+00:00",
-      "summary": "As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly.Over the last couple months, I've been building world bibles, writing and visual style guides, and other documents for this project… think the fiction equivalent of all the markdown files we use for agentic development now. After that, this was about two weeks of additional polish work to cut out a lot of fluff and a lot of the LLM-isms. Happy to answer any questions about the process too if that would be interesting to anybody.\n\nComments URL: https://news.ycombinator.com/item?id=47431237\nPoints: 459\n# Comments: 277"
-    },
-    {
-      "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-      "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T20:30:52+00:00",
-      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf."
-    },
-    {
-      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-      "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T20:01:19+00:00",
-      "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming."
-    },
-    {
-      "title": "David Sacks’ big Iran warning gets big time ignored",
-      "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T18:44:21+00:00",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would [&#8230;]"
-    },
-    {
-      "title": "ChatGPT did not cure a dog’s cancer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T18:14:39+00:00",
-      "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated. The [&#8230;]"
-    },
-    {
-      "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
-      "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T17:54:31+00:00",
-      "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers."
-    },
-    {
-      "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
-      "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T17:15:00+00:00",
-      "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform."
-    },
-    {
-      "title": "The Gemini-powered features in Google Workspace that are worth using",
-      "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T16:43:18+00:00",
-      "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace."
-    },
-    {
-      "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
-      "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T16:30:00+00:00",
-      "summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a&#160;UC&#160;Berkeley PhD research [&#8230;]"
-    },
-    {
-      "title": "This startup wants to make enterprise software look more like a prompt",
-      "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T16:00:00+00:00",
-      "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise."
-    },
-    {
-      "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
-      "url": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-18T15:58:50+00:00",
-      "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business."
     }
   ]
 }

@@ -1,627 +1,807 @@
 {
-  "fetched_at": "2026-03-24T16:04:02.205337+00:00",
-  "total_count": 69,
+  "fetched_at": "2026-03-25T16:07:20.082110+00:00",
+  "total_count": 89,
   "articles": [
     {
-      "title": "Meet the former Apple designer building a new AI interface at Hark",
-      "url": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-24T16:00:00+00:00",
-      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\""
-    },
-    {
-      "title": "Major insider trading on oil detected ahead of Iran talks",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T15:25:52+00:00",
-      "summary": "Article URL: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-24-2026/card/mystery-jump-in-oil-trading-ahead-of-trump-post-draws-scrutiny-56sgwdXtlOlonqIKDsL6\nComments URL: https://news.ycombinator.com/item?id=47504060\nPoints: 134\n# Comments: 19"
-    },
-    {
-      "title": "The bridge to wealth is being pulled up with AI",
-      "url": "https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T14:39:20+00:00",
-      "summary": "Article URL: https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/\nComments URL: https://news.ycombinator.com/item?id=47503296\nPoints: 160\n# Comments: 117"
-    },
-    {
-      "title": "So where are all the AI apps?",
-      "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T14:19:59+00:00",
-      "summary": "Article URL: https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html\nComments URL: https://news.ycombinator.com/item?id=47503006\nPoints: 162\n# Comments: 187"
-    },
-    {
-      "title": "Anthropic’s Claude Code and Cowork can control your computer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "title": "Google Lyria 3 Pro makes longer AI songs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
       "source": "The Verge AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-24T13:32:23+00:00",
-      "summary": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and apps, and run dev tools \"with no setup required,\" even when you're away from your computer, according to Anthropic's announcement. [&#8230;]"
+      "published": "2026-03-25T16:00:00+00:00",
+      "summary": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been limited to 30-second clips. Lyria 3 Pro not only increases the maximum length sixfold, it also allows the user to prompt for [&#8230;]"
     },
     {
-      "title": "OpenAIが核融合スタートアップ・Helionからの電力購入について協議、サム・アルトマンはHelionの取締役を辞任",
-      "url": "https://gigazine.net/news/20260324-openai-helion/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T13:30:00+00:00",
-      "summary": "膨大な電力を必要とするOpenAIが、核融合スタートアップ・Helionからの電力購入を協議していることがわかりました。続きを読む..."
-    },
-    {
-      "title": "Missile Defense Is NP-Complete",
-      "url": "https://smu160.github.io/posts/missile-defense-is-np-complete/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T13:00:38+00:00",
-      "summary": "Article URL: https://smu160.github.io/posts/missile-defense-is-np-complete/\nComments URL: https://news.ycombinator.com/item?id=47501950\nPoints: 153\n# Comments: 163"
-    },
-    {
-      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
-      "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-      "source": "TechCrunch AI",
+      "title": "Senate Democrats are trying to ‘codify’ Anthropic&#8217;s red lines on autonomous weapons and mass surveillance",
+      "url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+      "source": "The Verge AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-24T13:00:00+00:00",
-      "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)."
+      "published": "2026-03-25T15:05:46+00:00",
+      "summary": "Anthropic's fight with the Pentagon is expanding to Congress. Sen. Adam Schiff (D-CA) is working on a new bill to \"codify\" Anthropic's red lines and ensure humans make the ultimate decisions in questions of life and death, and Sen. Elissa Slotkin (D-MI) recently introduced a bill to limit the Defense Department's ability to use AI [&#8230;]"
     },
     {
-      "title": "なんと397BのAIモデルをiPhoneで動かすことに成功",
-      "url": "https://gigazine.net/news/20260324-iphone-397b-ai/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T13:00:00+00:00",
-      "summary": "Appleのハードウェアと、外部ストレージからAIの「重み」をストリーミングするという手法を用い、パラメータ数が397B(3970億)の大型モデルをiPhoneで動作させるという試みが成功したことが分かりました。続きを読む..."
-    },
-    {
-      "title": "LiteLLM Python package compromised by supply-chain attack",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T12:36:20+00:00",
-      "summary": "Article URL: https://github.com/BerriAI/litellm/issues/24512\nComments URL: https://news.ycombinator.com/item?id=47501729\nPoints: 434\n# Comments: 188"
-    },
-    {
-      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+      "title": "Why this battery company is pivoting to AI",
+      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
       "source": "MIT Technology Review",
       "category": "research",
       "language": "en",
-      "published": "2026-03-24T12:28:27+00:00",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#160;delusions&#160; What&#160;actually happens&#160;when people spiral into delusion with AI? To find out, Stanford researchers&#160;analyzed&#160;transcripts from chatbot users who experienced these spirals.&#160; Their findings suggest that&#8230;"
+      "published": "2026-03-25T15:02:50+00:00",
+      "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of&#8230;"
     },
     {
-      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-24T12:05:00+00:00",
-      "summary": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab."
+      "published": "2026-03-25T14:48:40+00:00",
+      "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained."
     },
     {
-      "title": "なぜFirefox(Gecko)は必要なのか？をMozillaが解説",
-      "url": "https://gigazine.net/news/20260324-mozilla-gecko/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T12:00:00+00:00",
-      "summary": "Mozillaが2026年3月23日に公開したブログ記事で、Mozillaソフトウェアのために開発されたオープンソースのHTMLレンダリングエンジンである「Gecko」がなぜ重要なのかを解説しています。Mozillaは「Geckoが独立したブラウザエンジンとして存在することで、インターネット業界がAppleとGoogleに支配されてしまうことなく、インターネットの進化のあり方を形作る独立した声を確保する」と語りました。続きを読む..."
-    },
-    {
-      "title": "Debunking Zswap and Zram Myths",
-      "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T10:39:21+00:00",
-      "summary": "Article URL: https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html\nComments URL: https://news.ycombinator.com/item?id=47500746\nPoints: 101\n# Comments: 25"
-    },
-    {
-      "title": "2026年3月24日のヘッドラインニュース",
-      "url": "https://gigazine.net/news/20260324-headline/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T10:33:00+00:00",
-      "summary": "福島県の総合情報誌『ふくしままっぷ』のブランドムービーが公開されました。このアニメーションムービーは『この世界の片隅に』を手がけた片渕須直監督による作品で、キャラクター原案にこうの史代さん、音楽にコトリンゴさんと、『この世界の片隅に』の制作陣が結集。片渕監督らが現地でロケハンを行い、福島の魅力を描き出しています。続きを読む..."
-    },
-    {
-      "title": "「大学受験にAI活用」受験生の約9割　使い方は？　学習管理アプリ運営が調査",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news130.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T10:25:00+00:00",
-      "summary": "2025年度に大学受験した人の88.7％がAIを受験に活用していた――学習管理アプリ「Studyplus」を運営するスタディプラスは、このような調査結果を公開した。"
-    },
-    {
-      "title": "AI VTuber200人分のキャラクター設計に使えるデータセット「AItuber-Personas-Japan」が公開中",
-      "url": "https://gigazine.net/news/20260324-aituber-personas-japan/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T10:00:00+00:00",
-      "summary": "AI VTuberのキャラクターを設計するために作られた日本語の合成データセット「AItuber-Personas-Japan」がHugging Face上で公開されています。データは単なる設定メモではなく、そのままAI VTuber開発や学習データ整備に使える形を目指したデータになっています。続きを読む..."
-    },
-    {
-      "title": "AI研究におけるボトルネックは人間",
-      "url": "https://gigazine.net/news/20260324-humans-bottleneck-ai/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T10:00:00+00:00",
-      "summary": "ChatGPTの開発元であるOpenAIの創設メンバーのひとりとして知られる著名AI研究者のアンドレイ・カルパシー氏が、「AI研究におけるボトルネックは人間である」と主張しました。続きを読む..."
-    },
-    {
-      "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
-      "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T09:36:29+00:00",
-      "summary": "Article URL: https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/\nComments URL: https://news.ycombinator.com/item?id=47500335\nPoints: 659\n# Comments: 489"
-    },
-    {
-      "title": "KADOKAWAとnoteが資本業務提携　AI時代の「創作エコシステム」実現へ",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news116.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T08:28:00+00:00",
-      "summary": "KADOKAWAはnoteと資本業務提携を締結したと発表した。"
-    },
-    {
-      "title": "ハーゲンダッツから出た和風洋スイーツ「和のスイーツ アソート(いちご練乳・抹茶のタルト・あずきのミルクプリン)」試食レビュー",
-      "url": "https://gigazine.net/news/20260324-haagen-dazs-wa-sweets-assortment/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T08:14:00+00:00",
-      "summary": "2026年3月24日、ハーゲンダッツから「和のスイーツ アソート(いちご練乳・抹茶のタルト・あずきのミルクプリン)」が登場しました。「和×洋をコンセプトに、親しみのある和素材を洋スイーツに仕立て、味わいや構造の異なる3つのフレーバーを詰め合わた」ということで、実際にどんな味なのか確かめてみました。続きを読む..."
-    },
-    {
-      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-      "url": "https://www.web-rewind.com",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T07:54:02+00:00",
-      "summary": "Article URL: https://www.web-rewind.com\nComments URL: https://news.ycombinator.com/item?id=47499721\nPoints: 145\n# Comments: 85"
-    },
-    {
-      "title": "AI生成で児童性的虐待をリアルに描写した画像・動画は前年比14％増の8029件確認されたという報告、特に動画件数は1年で260倍以上も増加",
-      "url": "https://gigazine.net/news/20260324-ai-child-abuse-increased/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T07:00:00+00:00",
-      "summary": "インターネット・ウォッチ財団(IWF)が2026年3月24日に公開した報告書において、AIによって生成された現実的な児童性的虐待の画像や動画がオンライン上で過去最高の水準に達していると警告しました。この報告書はAI生成コンテンツによる被害の実態を明らかにしており、安全性が確保されていないAIツールへの対策を求める公衆の声が高まっていることを示しています。続きを読む..."
-    },
-    {
-      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "url": "https://burntsushi.net/ripgrep/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T06:31:39+00:00",
-      "summary": "Article URL: https://burntsushi.net/ripgrep/\nComments URL: https://news.ycombinator.com/item?id=47499245\nPoints: 216\n# Comments: 88"
-    },
-    {
-      "title": "長いネイルでもスマホが操作しやすい「スマホタッチ対応の透明マニキュア」が開発される",
-      "url": "https://gigazine.net/news/20260324-clear-polish-fingernail-touch-screen-stylus/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T06:30:00+00:00",
-      "summary": "爪を伸ばしていたり長めのネイルチップを着けていたりすると、スマートフォンを操作しようとしても爪が当たってしまい、スクリーンが反応してくれないことがあります。この問題を解決するため、アメリカの研究チームが「爪がスマートフォンのタッチに反応するようになるマニキュア」を開発しました。続きを読む..."
-    },
-    {
-      "title": "車載アルコール検知器がサイバー攻撃で機能停止し全米で車が使用不能に",
-      "url": "https://gigazine.net/news/20260324-intoxalock-hacked/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T06:14:00+00:00",
-      "summary": "車載アルコール検知器を開発するIntoxalockがサイバー攻撃を受け、裁判所命令でこの検知器を設置しているドライバーの一部が車両を使用できなくなったと報告しました。続きを読む..."
-    },
-    {
-      "title": "Log File Viewer for the Terminal",
-      "url": "https://lnav.org/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T05:32:53+00:00",
-      "summary": "Article URL: https://lnav.org/\nComments URL: https://news.ycombinator.com/item?id=47498924\nPoints: 249\n# Comments: 39"
-    },
-    {
-      "title": "日本に拠点を置くAI企業のSakana AIが日本仕様の無料AIチャットサービス「Sakana Chat」を公開",
-      "url": "https://gigazine.net/news/20260324-sakana-chat-ai-namazu/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T04:50:00+00:00",
-      "summary": "日本に拠点を置くAI企業のSakana AIが、既存の大規模言語モデルを日本仕様へと適応させた試作モデルシリーズ「Namazu」を開発しました。これにあわせて、Namazuを搭載したチャットAIである「Sakana Chat」も公開されています。続きを読む..."
-    },
-    {
-      "title": "Claudeで自分のPCを操作できる新機能やスマホからPC上のClaudeに指示できる新機能が登場",
-      "url": "https://gigazine.net/news/20260324-claude-computer/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T04:05:00+00:00",
-      "summary": "近年、AIは単なるチャットボットとしてだけではなく、OpenClawなどに代表されるPC上でタスクを自動でこなすエージェントとしての利用が注目されています。Anthropicの「Claude」でも、PC上でタスクを完了できる「computer use(PC操作)」の機能が発表されました。続きを読む..."
-    },
-    {
-      "title": "MCPは「AIの業界標準になるのか」？　利用拡大の裏で“普及を阻む課題”も浮上",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/24/news060.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T04:00:00+00:00",
-      "summary": "API管理ベンダーZuploは、「MCP」の利用状況に関する調査結果を公開した。利用拡大への期待が高い一方で、セキュリティやアクセス制御の複雑さが最大の課題と認識されていることが分かった。"
-    },
-    {
-      "title": "G20加盟国の重要インフラが「2028年までに止まる」？――「AIの死角」とは",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/24/news050.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T04:00:00+00:00",
-      "summary": "Gartnerは、サイバーフィジカルシステム（CPS）における設定ミスが、2028年までにG20加盟国のいずれかで重要インフラを停止させるという予測を発表した。"
-    },
-    {
-      "title": "Cloudflareは海賊版サイトなどを特定の地域からアクセスできなくする「ジオブロック」対応を前年同期比で9倍に急増させていることが透明性レポートから判明",
-      "url": "https://gigazine.net/news/20260324-cloudflare-geo-block/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T03:05:00+00:00",
-      "summary": "Cloudflareは2025年下半期の透明性レポートを公開しました。レポートによると、Cloudflareは海賊版サイトへの対応として特定の地域からアクセスできなくする「ジオブロック」を行うケースが急増しており、対応ケース数が前年同期比で9倍以上になっていることが判明しました。続きを読む..."
-    },
-    {
-      "title": "冷戦末期に沈没したソ連の原子力潜水艦から放射性物質が漏出しているという調査結果",
-      "url": "https://gigazine.net/news/20260324-sunken-soviet-submarine-leaking-radioactive-material/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T03:00:00+00:00",
-      "summary": "冷戦末期の1989年、ソビエト連邦(ソ連)の原子力潜水艦であるコムソモレツ(K-278)が、ノルウェー海沖での演習中に発生した火災によって沈没しました。記事作成時点でも海底にあるコムソモレツの船体から、放射性物質が漏出しているとの調査結果が報告されました。続きを読む..."
-    },
-    {
-      "title": "コロプラ、画像のAI学習を防ぐアプリ無料提供　サービス内でプロテクト→ユーザーのみ復元可能",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news041.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T03:00:00+00:00",
-      "summary": "コロプラが、AIの学習から画像を保護するとうたうスマートフォンアプリ「COLOPL Contents Protector」の提供を始めた。iOS・Androidを搭載したスマートフォン向けに同日から無料で配信する。"
-    },
-    {
-      "title": "「愛用ツールが突然削除→AIで作ろう」の流れ……人気Chrome拡張「画像をJPG/PNG/WebPで保存」マルウェア検出で",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news079.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T02:48:00+00:00",
-      "summary": "「ずっと使っていたのに困る」という声が出た一方で、「AIで同じ機能のChrome拡張を自作した」という報告も相次いでいる。"
-    },
-    {
-      "title": "数億台のiPhoneをハックできるエクスプロイト「DarkSword」マルウェアが何者かによって公に流出",
-      "url": "https://gigazine.net/news/20260324-darksword-ios-exploit-malware-released/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T02:35:00+00:00",
-      "summary": "複数のゼロデイ脆弱(ぜいじゃく)性を利用してiOS端末を侵害するエクスプロイト「DarkSword」が2026年3月にGoogleの脅威インテリジェンスグループによって報告されました。IT系ニュースサイトのTechCrunchが、このDarkSwordを実行するマルウェアの最新版がソースコードリポジトリのGitHubに公開されたと報じています。続きを読む..."
-    },
-    {
-      "title": "予測市場でスポーツ賭博を禁止する超党派法案が登場",
-      "url": "https://gigazine.net/news/20260324-legislation-to-ban-sports-prediction-market-contracts/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T02:35:00+00:00",
-      "summary": "どんな出来事でも賭けの題材にする「予測市場」でスポーツ賭博やカジノ形式のゲーム賭博の取り扱いを禁止する法案「Prediction Markets Are Gambling Act(予測市場はギャンブルである法)」を、上院議員グループが提出しました。続きを読む..."
-    },
-    {
-      "title": "Crunchyrollをハッキングして680万人分の個人情報を盗んだとハッカーが主張、Crunchyrollは情報漏えいの調査を開始",
-      "url": "https://gigazine.net/news/20260324-crunchyroll-probes-breach-hacker-steal-user-data/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T02:29:00+00:00",
-      "summary": "日本アニメの海外配信プラットフォームとして知られているCrunchyrollから、680万人分の個人情報を盗んだとハッカーが主張しています。これを受け、Crunchyrollは情報漏えいについて調査を開始しました。続きを読む..."
-    },
-    {
-      "title": "Appleの年次開発者向け会議「WWDC26」が2026年6月8日の週に開催決定、基調講演は6月8日に実施",
-      "url": "https://gigazine.net/news/20260324-apple-wwdc26-june-8/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T02:00:00+00:00",
-      "summary": "Appleの年次開発者向け会議である「WWDC26」の開催日が、現地時間で2026年6月8日の週になることが発表されました。Appleが開発するOSやソフトウェアの最新情報が発表される基調講演は、6月8日に開催予定です。続きを読む..."
-    },
-    {
-      "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
-      "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-24T01:53:09+00:00",
-      "summary": "Article URL: https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs\nComments URL: https://news.ycombinator.com/item?id=47497757\nPoints: 375\n# Comments: 514"
-    },
-    {
-      "title": "Appleは2026年夏までにAppleマップの検索結果に広告を掲載する計画",
-      "url": "https://gigazine.net/news/20260324-apple-map-ads/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T01:49:00+00:00",
-      "summary": "Appleが間もなくAppleマップに広告を導入する予定だと、Bloombergのマーク・ガーマン記者が報じました。これにより、検索結果の上位などに広告が表示される可能性があります。続きを読む..."
-    },
-    {
-      "title": "アメリカ政府がアメリカ以外で製造された消費者向けルーターの輸入や販売を禁止に",
-      "url": "https://gigazine.net/news/20260324-fcc-banned-routers-made-outside-us/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T01:43:00+00:00",
-      "summary": "アメリカ連邦通信委員会(FCC)の公衆安全・国土安全保障局はアメリカ国外で製造されたルーターが国家安全保障や国民の安全に容認できないリスクをもたらすとして、これらを対象機器リスト(カバードリスト)に追加したと発表しました。この措置により、アメリカ国外で製造された新規ルーターは無線認証を受けることが禁止され、アメリカ国内への輸入や販売が事実上不可能になります。続きを読む..."
-    },
-    {
-      "title": "Anthropic、ClaudeがユーザーのPCでアプリを操作する機能を追加",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news073.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T01:42:00+00:00",
-      "summary": ""
-    },
-    {
-      "title": "Sakana AI、新AIモデル「Namazu」発表　AIチャット「Sakana Chat」も公開",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news071.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T01:22:00+00:00",
-      "summary": "Sakana AIは、新たなAIモデルシリーズ「Namazu」（α版）を開発したと発表した。"
-    },
-    {
-      "title": "カプコン「生成AI素材はゲームに実装しない」と明言　開発の補助には活用",
-      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/24/news070.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T01:20:00+00:00",
-      "summary": "同社は、開発工程の効率化にはAIを活用していると以前から表明しており、「AI生成素材をゲームにそのまま使う」こととは切り分けながら運用しているようだ。"
-    },
-    {
-      "title": "OpenAI、Metaの広告トップを引き抜き　ChatGPT広告の本格展開へ",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news067.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-24T00:46:00+00:00",
-      "summary": "OpenAIは、Metaのグローバル広告部門でトップを務めたデビッド・デューガン氏を、広告ソリューションチームのトップとして迎えた。デューガン氏は、ChatGPTの広告モデルを業界を再構築する革新的なものと位置づけ、既存サービスに付加価値を与える設計を目指す。まずはαテスト中のChatGPTの広告ソリューションに注力する。"
-    },
-    {
-      "title": "GIGAZINE読者が利用しているコンビニは？アンケート調査してみた",
-      "url": "https://gigazine.net/news/20260324-gigazine-user-convenience-store/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-24T00:00:00+00:00",
-      "summary": "GIGAZINEでは年に3回、アンケートに答えるだけでプレゼントがゲットできるプレゼント大放出企画を実施しています。この企画ではGIGAZINE読者にさまざまな質問を投げかけているのですが、今回はGIGAZINE読者が「どのコンビニチェーンをよく利用しているのか？(複数選択可)」を調査してみました。続きを読む..."
-    },
-    {
-      "title": "人間を4本足のケンタウロス化する外付けロボットを中国の研究チームが開発",
-      "url": "https://gigazine.net/news/20260324-china-sustech-centaurs/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-23T23:05:00+00:00",
-      "summary": "中国・深圳にある南方科技大学の研究チームが、人間をケンタウロス化する外付けロボットパーツを開発しました。続きを読む..."
-    },
-    {
-      "title": "業務を「3000項目に分解」　NTTファシリティーズが追求した「出社の価値」を見つける方程式",
-      "url": "https://www.itmedia.co.jp/business/articles/2603/24/news016.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-23T23:00:00+00:00",
-      "summary": "コロナ禍を経て「なぜオフィスに来るのか」という根本的な問いに答えを出せずにいる企業は少なくない。NTTファシリティーズは意義のある出社を実現するため、全組織の業務を約3300項目に分解した。同社のオフィスリニューアルの詳細を聞いた。"
-    },
-    {
-      "title": "Windows 3.1 tiled background .bmp archive",
-      "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T22:52:35+00:00",
-      "summary": "Article URL: https://github.com/andreasjansson/win-3.1-backgrounds\nComments URL: https://news.ycombinator.com/item?id=47496221\nPoints: 258\n# Comments: 71"
-    },
-    {
-      "title": "Meta、AIエージェント開発のDreamerを吸収　Oculus幹部だったヒューゴ・バーラ氏が再参加",
-      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news066.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-23T22:42:00+00:00",
-      "summary": "Metaは、AIエージェント開発の新興企業Dreamerのチームを「Superintelligence Labs」に迎える。技術ライセンス供与の形をとるが、全スタッフが移籍する。Dreamerは元Google幹部のヒューゴ・バーラ氏らが創業。アレクサンドル・ワン氏の仲介で合流が決まった。Metaが進める「個人のための超知能」実現に向けた人材強化といえる。"
-    },
-    {
-      "title": "IRIX 3dfx Voodoo driver and glide2x IRIX port",
-      "url": "https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T22:37:15+00:00",
-      "summary": "Article URL: https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/\nComments URL: https://news.ycombinator.com/item?id=47496089\nPoints: 100\n# Comments: 25"
-    },
-    {
-      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-      "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-23T22:36:39+00:00",
-      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies."
+      "published": "2026-03-25T14:45:20+00:00",
+      "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space."
     },
     {
-      "title": "The Resolv hack: How one compromised key printed $23M",
-      "url": "https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T22:01:15+00:00",
-      "summary": "Article URL: https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/\nComments URL: https://news.ycombinator.com/item?id=47495719\nPoints: 105\n# Comments: 153"
-    },
-    {
-      "title": "巨大テックのAI開発を停滞させない　レゾナックが証明した「後工程」という日本の武器",
-      "url": "https://www.itmedia.co.jp/business/articles/2603/24/news011.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-23T22:00:00+00:00",
-      "summary": "生成AIの普及により、AI半導体の需要が急拡大している。その競争力を左右するのはチップそのものだけではない。複雑化する構造を支える「後工程」材料の重要性が高まっている。こうした中、レゾナック・ホールディングスは共創を軸にした開発体制を構築し、存在感を高めている。その戦略の背景と、日本企業の勝機を探る。"
-    },
-    {
-      "title": "Claude Code Cheat Sheet",
-      "url": "https://cc.storyfox.cz",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T21:44:20+00:00",
-      "summary": "Article URL: https://cc.storyfox.cz\nComments URL: https://news.ycombinator.com/item?id=47495527\nPoints: 563\n# Comments: 178"
-    },
-    {
-      "title": "FCC updates covered list to include foreign-made consumer routers",
-      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T21:28:02+00:00",
-      "summary": "https://docs.fcc.gov/public/attachments/DOC-420034A1.pdfhttps://www.fcc.gov/document/fcc-adds-routers-produced-forei...https://docs.fcc.gov/public/attachments/DA-26-278A1.pdfhttps://www.bbc.com/news/articles/c74787w149zohttps://www.cnet.com/home/internet/fcc-bans-foreign-made-rou...\n\nComments URL: https://news.ycombinator.com/item?id=47495344\nPoints: 410\n# Comments: 277"
-    },
-    {
-      "title": "腸に穴が開いた時に内臓脂肪が炎症を抑える役割を果たしていたことがマウス研究で判明",
-      "url": "https://gigazine.net/news/20260324-visceral-fat-peritonitis-ilc1/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-23T21:00:00+00:00",
-      "summary": "腸に穴が開くなどして腹膜炎が起きると、炎症が全身に広がって敗血症に進むことがあります。理化学研究所などの国際共同研究グループは、こうした腹膜炎の初期に内臓脂肪組織が免疫器官のように働き「1型自然リンパ球(ILC1)」という免疫細胞が過剰な炎症を抑える可能性をマウスで示しました。研究論文は2026年3月12日付でNature Communicationsに掲載されています。続きを読む..."
-    },
-    {
-      "title": "How I'm Productive with Claude Code",
-      "url": "https://neilkakkar.com/productive-with-claude-code.html",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T20:49:10+00:00",
-      "summary": "Article URL: https://neilkakkar.com/productive-with-claude-code.html\nComments URL: https://news.ycombinator.com/item?id=47494890\nPoints: 238\n# Comments: 149"
-    },
-    {
-      "title": "A retro terminal music player inspired by Winamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T20:42:22+00:00",
-      "summary": "Article URL: https://github.com/bjarneo/cliamp\nComments URL: https://news.ycombinator.com/item?id=47494821\nPoints: 125\n# Comments: 41"
-    },
-    {
-      "title": "Bets on US-Iran ceasefire show signs of insider knowledge, say experts",
-      "url": "https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T20:25:10+00:00",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket\nComments URL: https://news.ycombinator.com/item?id=47494629\nPoints: 181\n# Comments: 177"
-    },
-    {
-      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-23T20:15:59+00:00",
-      "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become."
-    },
-    {
-      "title": "American aviation is near collapse?",
-      "url": "https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-23T20:11:38+00:00",
-      "summary": "Article URL: https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/\nComments URL: https://news.ycombinator.com/item?id=47494469\nPoints: 109\n# Comments: 98"
-    },
-    {
-      "title": "341職種をAI×データで分析　「伸びる」か「危機」か、あなたの仕事はどっち？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/24/news018.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-23T20:00:00+00:00",
-      "summary": "AIが仕事を奪うのか、それとも伸ばすのか。341職種のデータから見えてきた「危機」「中間」「伸びる」の実態と、“自分の仕事がどこに分類されるのか”を確認する方法を紹介する。"
-    },
-    {
-      "title": "Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
-      "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
+      "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
+      "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
       "source": "The Verge AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-23T19:49:11+00:00",
-      "summary": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and… let's just say they may not come across as intended. First, there's \"With 100x Zoom,\" an ad that appears to suggest that if a vacation rental [&#8230;]"
+      "published": "2026-03-25T14:41:21+00:00",
+      "summary": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal. The panel, which will \"weigh in on AI policy,\" will include 13 [&#8230;]"
     },
     {
-      "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-      "source": "The Verge AI",
-      "category": "ai",
+      "title": "Apple Just Lost Me",
+      "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
+      "source": "Hacker News",
+      "category": "general",
       "language": "en",
-      "published": "2026-03-23T19:42:33+00:00",
-      "summary": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term that has incited a lot of discussion by tech CEOs, tech workers, and the general public in recent years, as it typically denotes [&#8230;]"
+      "published": "2026-03-25T14:20:24+00:00",
+      "summary": "Article URL: https://andregarzia.com/2026/03/apple-just-lost-me.html\nComments URL: https://news.ycombinator.com/item?id=47517701\nPoints: 323\n# Comments: 299"
     },
     {
-      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+      "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
       "source": "TechCrunch AI",
       "category": "ai",
       "language": "en",
-      "published": "2026-03-23T18:22:04+00:00",
-      "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company."
+      "published": "2026-03-25T14:16:17+00:00",
+      "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps."
     },
     {
-      "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
-      "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-23T18:00:45+00:00",
-      "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities."
-    },
-    {
-      "title": "The hardest question to answer about AI-fueled delusions",
-      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "title": "This startup wants to change how mathematicians do math",
+      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
       "source": "MIT Technology Review",
       "category": "research",
       "language": "en",
-      "published": "2026-03-23T16:31:20+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on&#8230;"
+      "published": "2026-03-25T13:59:17+00:00",
+      "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024&#8230;"
+    },
+    {
+      "title": "With Sift, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+      "url": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-25T13:00:00+00:00",
+      "summary": "Sift is building the data infrastructure for advanced manufacturing."
+    },
+    {
+      "title": "Local LLM App by Ente",
+      "url": "https://ente.com/blog/ensu/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T12:49:14+00:00",
+      "summary": "Article URL: https://ente.com/blog/ensu/\nComments URL: https://news.ycombinator.com/item?id=47516650\nPoints: 181\n# Comments: 66"
+    },
+    {
+      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-25T12:47:44+00:00",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain&#160; L. Stephen&#160;Coles’s&#160;brain sits in a vat at a storage facility in Arizona. It has been held there at a temperature&#8230;"
+    },
+    {
+      "title": "無料で使えるApple IntelligenceのFoundation Modelsベースのローカル翻訳アプリ「Pre-Babel Lens」",
+      "url": "https://gigazine.net/news/20260325-pre-babel-lens/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T12:00:00+00:00",
+      "summary": "Apple Intelligenceのデバイス内LLMであるFoundation Modelsを使う翻訳アプリケーション「Pre-Babel Lens(プレバベル)」が公開されました。Apple Intelligenceを有効にしたMacであれば無料で利用することが可能です。続きを読む..."
+    },
+    {
+      "title": "Agentic commerce runs on truth and context",
+      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-25T11:48:13+00:00",
+      "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI&#8230;"
+    },
+    {
+      "title": "Anthropic’s Claude Code gets ‘safer’ auto mode",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-25T11:39:46+00:00",
+      "summary": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy. Claude Code is capable of acting independently on users' behalf, a useful [&#8230;]"
+    },
+    {
+      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-25T11:00:00+00:00",
+      "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots."
+    },
+    {
+      "title": "「Wine 11」でLinuxがWindowsゲームを実行する方法をカーネルレベルで書き換えて速度が大幅に向上",
+      "url": "https://gigazine.net/news/20260325-wine-11-linux/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T11:00:00+00:00",
+      "summary": "Linux上でWindows向けアプリを動作させるための互換レイヤー「Wine」のバージョン11で、パフォーマンスを向上させるドライバー「NTSYNC」が正式にサポートされました。これに伴い、一部のゲームのパフォーマンスが目に見えるレベルで向上したとして、テクノロジー系メディアのXDAが詳細を共有しています。続きを読む..."
+    },
+    {
+      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+      "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T10:28:49+00:00",
+      "summary": "Article URL: https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake\nComments URL: https://news.ycombinator.com/item?id=47515502\nPoints: 119\n# Comments: 137"
+    },
+    {
+      "title": "2026年3月25日のヘッドラインニュース",
+      "url": "https://gigazine.net/news/20260325-headline/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T10:15:00+00:00",
+      "summary": "Netflix独占配信から「1週間限定劇場公開」を経て全国劇場公開を成し遂げた『超かぐや姫！』で、2026年3月27日(金)から5週連続で週替わりのウェルカムアナウンス上映が行われます。第1週はかぐやが担当。第2週以降の担当は毎週火曜18時に発表されるとのことです。続きを読む..."
+    },
+    {
+      "title": "GitHubが海賊版アニメ視聴ツールのリポジトリとフォークを900件以上削除、ただし「DRM回避行為」の主張は否定",
+      "url": "https://gigazine.net/news/20260325-github-deleted-piracy-repos-and-forks/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T10:00:00+00:00",
+      "summary": "GitHubがアニメを違法に視聴するツールに関連した900以上のリポジトリとフォークを削除しました。これはCrunchyrollやVIZ Mediaなどの権利者を代表するRemove Your Media LLCによる削除要請を受けた措置です。続きを読む..."
+    },
+    {
+      "title": "The AI Hype Index: AI goes to war",
+      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-25T09:00:00+00:00",
+      "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded&#8230;"
+    },
+    {
+      "title": "Meta told to pay $375M for misleading users over child safety",
+      "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T08:52:50+00:00",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cql75dn07n2o\nComments URL: https://news.ycombinator.com/item?id=47514916\nPoints: 378\n# Comments: 202"
+    },
+    {
+      "title": "メルカリ、出品ページの“生成AI画像”に注意喚起　「購入者に誤解与え、取引トラブルになる」",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/25/news117.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-25T08:47:00+00:00",
+      "summary": "メルカリは、出品時に生成AI画像などを使用する場合の注意点をまとめて公開した。メルカリでは実物のない出品や虚偽情報の記載は禁止していると説明し、生成AI画像の利用に関するルールをまとめた。"
+    },
+    {
+      "title": "Why I forked httpx",
+      "url": "https://tildeweb.nl/~michiel/httpxyz.html",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T08:05:17+00:00",
+      "summary": "Article URL: https://tildeweb.nl/~michiel/httpxyz.html\nComments URL: https://news.ycombinator.com/item?id=47514603\nPoints: 197\n# Comments: 141"
+    },
+    {
+      "title": "99種類以上のフルーツやスパイスフレーバーをブレンドした「ギルティ炭酸 NOPE(ノープ)」は一体どんな味なのか？",
+      "url": "https://gigazine.net/news/20260325-guilty-nope/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T08:00:00+00:00",
+      "summary": "サントリーが99種のフルーツ＆スパイスをかけ合わせて基本五味を刺激する味わいを詰め込んだドリンク「ギルティ炭酸 NOPE(ノープ)」を2026年3月24日に新発売しました。どのような味のドリンクなのか、サントリーから届いたNOPEを実際に飲んでみました。続きを読む..."
+    },
+    {
+      "title": "フランス空母の位置がフィットネスアプリ「Strava」を通じて明らかになる事態が発生",
+      "url": "https://gigazine.net/news/20260325-strava-reveal-french-aircraft-carrier/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T07:45:00+00:00",
+      "summary": "フランス海軍の原子力空母シャルル・ド・ゴールの位置情報が、乗員によるフィットネスアプリ「Strava」の利用を通じて明らかになる事態が発生しました。続きを読む..."
+    },
+    {
+      "title": "NVIDIAのジェンスン・フアンCEOが「AGIに到達した」と発言",
+      "url": "https://gigazine.net/news/20260325-jensen-huang-agi/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T07:00:00+00:00",
+      "summary": "汎用人工知能(AGI)は人間が実現可能なあらゆる知的作業を理解・実行できるAIのことを指し、AI開発の1つの到達すべき目標として考えられていますが、一方でAGIの定義が曖昧なまま巨額の投資が進んでいるという指摘もあります。そんな中、NVIDIAのジェンスン・フアンCEOがポッドキャストに出演した際に「我々はAGIを実現したと思う」と発言して物議を醸しています。続きを読む..."
+    },
+    {
+      "title": "イランによるドローン攻撃の影響でAWSの中東(バーレーン)リージョンが混乱状態に陥っていることが判明、UAEリージョンに続いて2件目",
+      "url": "https://gigazine.net/news/20260325-aws-me-south-1/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T05:44:00+00:00",
+      "summary": "現地時間の2026年3月23日にAWSのヘルスダッシュボードが更新され、中東(バーレーン)リージョンのステータスが「Disrupted(混乱)」に変更されました。AWSの担当者はロイターに対して「当該地域で発生しているドローン攻撃」が原因だと説明しています。続きを読む..."
+    },
+    {
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T05:00:54+00:00",
+      "summary": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/\nComments URL: https://news.ycombinator.com/item?id=47513475\nPoints: 349\n# Comments: 98"
+    },
+    {
+      "title": "Miscellanea: The War in Iran",
+      "url": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T04:27:14+00:00",
+      "summary": "Article URL: https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/\nComments URL: https://news.ycombinator.com/item?id=47513229\nPoints: 141\n# Comments: 170"
+    },
+    {
+      "title": "任天堂はNintendo Switch 2の生産台数を33％削減し600万台から400万台に引き下げるとの報道、アメリカ市場での需要低迷が主な理由",
+      "url": "https://gigazine.net/news/20260325-nintendo-cuts-production-switch-2/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T04:11:00+00:00",
+      "summary": "任天堂が2025年6月に発売した「Nintendo Switch 2」は、発売から4カ月で1000万台超も売れ、アメリカでは2025年に最も売れたゲーム機となりました。続きを読む..."
+    },
+    {
+      "title": "Ai2がビジュアルウェブAIエージェントの「MolmoWeb」をリリース、HTMLを解析するのではなくブラウザのスクリーンショットで動作",
+      "url": "https://gigazine.net/news/20260325-molmoweb/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T04:00:00+00:00",
+      "summary": "アメリカに拠点を置くAI企業のアレン人工知能研究所(Ai2)が、ブラウザを操作・制御するように設計されたAIエージェント「MolmoWeb」を発表しました。続きを読む..."
+    },
+    {
+      "title": "AIで生産性は上がらない？　約6000社調査で判明した“AIブーム”の実態と将来予測",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/25/news060.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-25T04:00:00+00:00",
+      "summary": "全米経済研究所は、米国、英国、ドイツ、オーストラリア4カ国の約6000社の経営幹部を対象としたAI利用動向の調査結果を公表した。全体の7割が何らかのAIを導入する一方で、経営幹部の利用は週平均1.5時間にとどまっており、将来の雇用予測について経営層と従業員の間でギャップがある実態も明らかになった。"
+    },
+    {
+      "title": "Regular army and reserve components enlistment program: Summary of change",
+      "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T03:44:52+00:00",
+      "summary": "Article URL: https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf\nComments URL: https://news.ycombinator.com/item?id=47513008\nPoints: 150\n# Comments: 177"
+    },
+    {
+      "title": "AppleがiOSおよびiPadOS 26.4をリリース、AIでApple Musicのプレイリストを生成できる新機能「Playlist Playground」＆8種類の新しい絵文字追加など",
+      "url": "https://gigazine.net/news/20260325-apple-ios-ipados-26-4-released/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T03:37:00+00:00",
+      "summary": "iOSおよびiPadOS 26.4が2026年3月25日にリリースされました。アップデートにはApple Musicの新機能やアクセシビリティ改善、新しい絵文字の追加など一般ユーザー向けの機能拡張に加え、開発者向けには新しいフレームワークやAPI、セキュリティ機構の強化、不具合修正が含まれ、ユーザー体験の細かな向上と今後の機能拡張に向けた基盤整備の両面が特徴となっています。続きを読む..."
+    },
+    {
+      "title": "668の夢を分析した研究でストレスと睡眠の関係が示される",
+      "url": "https://gigazine.net/news/20260325-disrupt-sleep/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T03:30:00+00:00",
+      "summary": "寝るために布団に入ったのに、過去の嫌な出来事や将来の不安が頭に浮かんでなかなか寝付けなかった経験のある人は多いはず。スイスの心理学者による研究では、「すでにストレスを感じているパターン」と「将来的にストレスを感じることを予期しているパターン」で睡眠の質が異なることが示されています。続きを読む..."
+    },
+    {
+      "title": "GitHubスター4万超えのAIライブラリ「LiteLLM」がサプライチェーン攻撃を受けマルウェア版が配布されてしまう、ユーザーのSSHキーやAPIキーが盗まれた可能性あり",
+      "url": "https://gigazine.net/news/20260325-litellm-supply-chain-attack/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T03:23:00+00:00",
+      "summary": "AI管理ライブラリの「LiteLLM」がサプライチェーン攻撃を受け、一時的に悪意ある変更を含んだマルウェア版が配布されていたことが判明しました。LiteLLMのマルウェア版ではユーザーのSSHキーやAPIキーを盗み出すスクリプトが動作していたことも判明しています。続きを読む..."
+    },
+    {
+      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+      "url": "https://v-os.dev",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T03:17:06+00:00",
+      "summary": "Article URL: https://v-os.dev\nComments URL: https://news.ycombinator.com/item?id=47512816\nPoints: 265\n# Comments: 158"
+    },
+    {
+      "title": "Appleが「Siri」を音声アシスタントからAIエージェントへ刷新へ、単独の「Siri」アプリも",
+      "url": "https://gigazine.net/news/20260325-apple-siri-reboot/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T03:06:00+00:00",
+      "summary": "Appleが「Siri」を一新して、単なる音声アシスタントからOSに統合したシステム全体のAIエージェントにする計画を進めていることがわかりました。計画の一環として、2026年後半にiPhone・iPad・Macで「Siri」アプリのテストが始まる見込みです。続きを読む..."
+    },
+    {
+      "title": "AIの“長期的なコードの保守能力”はどれほどか？　新たな評価テスト「SWE-CI」　中国チームが提案",
+      "url": "https://www.itmedia.co.jp/aiplus/articles/2603/25/news034.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-25T03:00:00+00:00",
+      "summary": "中国の中山大学とアリババグループに所属する研究者らは、AIが長期的にコードの品質を維持できるかを評価するベンチマークを提案した研究報告を発表した。"
+    },
+    {
+      "title": "Claude Codeに権限自動決定機能が追加される、AIが権限のリスクをチェックしタスクを自動実行",
+      "url": "https://gigazine.net/news/20260325-claude-auto-mode/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T02:33:00+00:00",
+      "summary": "コーディングアシスタントのClaude Codeに、AIがユーザーに変わって権限の判断を行う「Auto mode」が追加されました。人間の承認が必要な一部のタスクを自動実行する機能です。続きを読む..."
+    },
+    {
+      "title": "フォートナイトの開発元・Epic Gamesが1000人以上を解雇",
+      "url": "https://gigazine.net/news/20260325-fortnite-epic-games-cuts-1000-jobs/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T02:16:00+00:00",
+      "summary": "人気バトルロイヤルゲームのフォートナイトや、ゲームエンジン・Unreal Engineの開発元であるEpic Gamesが、1000人超の従業員を解雇すると発表しました。続きを読む..."
+    },
+    {
+      "title": "Armが35年以上の歴史で初めてとなる自社製シリコン「Arm AGI CPU」を発表",
+      "url": "https://gigazine.net/news/20260325-arm-agi-cpu-launched/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T02:15:00+00:00",
+      "summary": "イギリスを拠点とする半導体企業のArmが、次世代のAIインフラストラクチャを支える新クラスの製品として「Arm AGI CPU」を2026年3月24日に発表しました。これはIPライセンスやコンピュートサブシステム(CSS)の提供を行ってきたArmが35年以上の歴史の中で初めて自社設計の完成品シリコン製品を直接提供するものであり、Arm Neoverseプラットフォームを基盤にした新たなデータセンター向けシリコン製品ラインの第1弾と位置づけられています。続きを読む..."
+    },
+    {
+      "title": "AYANEOの次期携帯ゲーム機「NEXT 2」は部品価格の高騰により予約停止に",
+      "url": "https://gigazine.net/news/20260325-ayaneo-next-2-shelved/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T02:01:00+00:00",
+      "summary": "2026年2月に発表されたAYANEOの高性能携帯ゲーム機「NEXT 2」について、部品価格の高騰により予約注文が一時的に停止されたことが分かりました。続きを読む..."
+    },
+    {
+      "title": "Appleが無料の企業向けサービス「Apple Business」を発表、「社員用デバイスの一括管理」「Appleマップの情報編集」など便利機能が多数で2026年4月14日に開始",
+      "url": "https://gigazine.net/news/20260325-apple-business/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T01:50:00+00:00",
+      "summary": "Appleが企業向けプラットフォーム「Apple Business」を発表しました。Apple Businessには企業運営に役立つ機能が多数含まれており、200以上の国と地域で2026年4月14日からサービス提供が始まる予定です。続きを読む..."
+    },
+    {
+      "title": "Claude CodeにAWSのアーキテクチャ設計、コスト見積もり、構成コード生成、デプロイ実行などの能力を組み込む「Agent Plugins for AWS」公開",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/25/news073.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-25T01:23:00+00:00",
+      "summary": "米Amazon Web Services（AWS）は、Claude CodeとCursorに対してAWSのデプロイに関するアーキテクチャの設計、コストの見積もり、Infrastructure as Codeのコード生成、そしてデプロイの実行という一連の能力を"
+    },
+    {
+      "title": "OpenAIがAI動画生成アプリ・Soraを終了すると発表、ディズニーによる1600億円の投資もとん挫か",
+      "url": "https://gigazine.net/news/20260325-openai-announces-shut-down-sora/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T01:22:00+00:00",
+      "summary": "OpenAIがAI動画生成アプリの「Sora」を終了すると発表しました。これにより、ディズニーからのOpenAIへの10億ドル(約1600億円)の投資もとん挫することとなります。続きを読む..."
+    },
+    {
+      "title": "搬送計画を最適化、日立が仕分け業務の生産性を約4倍に高めるAIエンジンを提供",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/25/news028.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-25T01:00:00+00:00",
+      "summary": "日立製作所は、物流センター全体のマテハン機器をフィジカルAIへ進化させる搬送計画最適化AIエンジン「LogiRiSM」を発表した。各種機器の状態をリアルタイムで把握し、仕分け業務の生産性を従来比で約4倍に高める。"
+    },
+    {
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-25T00:47:20+00:00",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses."
+    },
+    {
+      "title": "In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",
+      "url": "https://spectrum.ieee.org/data-center-dc",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T00:44:55+00:00",
+      "summary": "Article URL: https://spectrum.ieee.org/data-center-dc\nComments URL: https://news.ycombinator.com/item?id=47511703\nPoints: 218\n# Comments: 262"
+    },
+    {
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-25T00:29:45+00:00",
+      "summary": "Article URL: https://flighty.com/airports\nComments URL: https://news.ycombinator.com/item?id=47511589\nPoints: 437\n# Comments: 155"
+    },
+    {
+      "title": "「Firefox 149」正式版リリース、分割ビューやタブノートが利用可能に",
+      "url": "https://gigazine.net/news/20260325-firefox-149/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-25T00:15:00+00:00",
+      "summary": "ウェブブラウザ「Firefox 149」の正式版が公開されました。事前にアナウンスのあった分割ビューやタブノートが利用できるようになりました。また機能的な更新とは別に新たなマスコット「Kit」が公開されており、既に随所に登場しています。続きを読む..."
+    },
+    {
+      "title": "パラアスリート向け義肢開発、「Autodesk Fusion」で設計を高度化",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/25/news008.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-25T00:00:00+00:00",
+      "summary": "Autodeskは、パラアスリート向け次世代高性能義肢の開発を加速するため、BioDaptと提携した。長年蓄積した開発データや既存のCADモデルを「Autodesk Fusion」に統合し、クラウド上で一元管理する「Fusion Hub」を構築した。"
+    },
+    {
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T23:57:55+00:00",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed."
+    },
+    {
+      "title": "A Compiler Writing Journey",
+      "url": "https://github.com/DoctorWkt/acwj",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T23:44:47+00:00",
+      "summary": "Article URL: https://github.com/DoctorWkt/acwj\nComments URL: https://news.ycombinator.com/item?id=47511208\nPoints: 108\n# Comments: 16"
+    },
+    {
+      "title": "AIエージェントがお互いの知識を共有して無駄を削減＆性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表",
+      "url": "https://gigazine.net/news/20260325-cq-stack-overflow-for-ai/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-24T23:00:00+00:00",
+      "summary": "Stack Overflowは情報技術やプログラミング技術に関するナレッジコミュニティであり、世界中の開発者による多様な質問と回答が集積されています。Firefoxなどの開発で知られるMozillaが設立したAI開発企業の「Mozilla.ai」が、AIエージェント向けのStack Overflowといえるプロジェクト「cq」について発表しました。続きを読む..."
+    },
+    {
+      "title": "連続起業家・けんすう氏に聞く、生成AI時代のIT起業論　後追いされない事業を創るには",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/24/news074.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-24T23:00:00+00:00",
+      "summary": "生成AIの台頭によって、IT起業のセオリーは根底から覆りつつある。連続起業家で、ビジネスインフルエンサー「けんすう」としても知られる古川健介さんも「（起業の）ハードルが上がったと評する。これから起業する人は何に目を付け、どんな事業を立ち上げるべきか。"
+    },
+    {
+      "title": "JALはRAGの“試練”にどう立ち向かったか　プロジェクト中断から利用率80％超に至った「JAL-AI」の軌跡",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/27/news008.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-24T23:00:00+00:00",
+      "summary": "AI導入に慎重だったJALはなぜ、全社展開へと踏み出せたのか。試行錯誤と戦略転換を重ねた同社の取り組みは、AI活用に悩む多くの企業へのヒントを与えてくれる。"
+    },
+    {
+      "title": "Arm、初の自社開発チップ「AGI CPU」を発表　Metaと共同開発のエージェンティックAI特化CPU",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/25/news067.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-24T22:43:00+00:00",
+      "summary": "Armは、自社初となる独自開発CPU「AGI CPU」を発表した。エージェンティックAIの需要拡大に対応し、高い電力効率と並列処理能力を備える。開発ではMetaが中核的な役割りを担っており、将来的に設計をOCPで公開する予定だ。OpenAIやソシオネクストなど50社以上が支持を表明しており、次世代AIインフラの中核を担うことが期待される。"
+    },
+    {
+      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+      "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T22:22:57+00:00",
+      "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm."
+    },
+    {
+      "title": "児童保護をインターネットアクセス制御に変えてはならない",
+      "url": "https://gigazine.net/news/20260325-child-protection-internet-access-control/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-24T22:00:00+00:00",
+      "summary": "Devuanの創設者であるヤロミル氏が、「児童保護をインターネットアクセス制御に変えてはならない」と指摘しています。続きを読む..."
+    },
+    {
+      "title": "デジタルアレルギー社員が、Excel集計「40分→2分」に　イオン流「現場DX」の極意",
+      "url": "https://www.itmedia.co.jp/business/articles/2603/25/news021.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-24T22:00:00+00:00",
+      "summary": "自らを「デジタルアレルギーだった」と明かす、イオングループのバックオフィス担当者。40分を要していたExcelの集計作業が、わずか2分に短縮した。イオンはいかにして、IT未経験者を「AIを使いこなす側」へと変貌させたのか。巨大組織における「生成AI実装」の正解を探る。"
+    },
+    {
+      "title": "あの詐欺広告、なぜ消えない？　SNSにまん延するゆがんだビジネスの真実",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/25/news010.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-24T22:00:00+00:00",
+      "summary": "有名なビジネスパーソンやタレントが投資を推奨する――SNSでこのような怪しいディープフェイク動画を見たことがある人もいるはずだ。これはSNS型投資詐欺というもので被害額が1274億円と過去最悪を更新している。これを解消する術はあるか。"
+    },
+    {
+      "title": "Jury finds Meta liable in case over child sexual exploitation on its platforms",
+      "url": "https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T21:54:27+00:00",
+      "summary": "Article URL: https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation\nComments URL: https://news.ycombinator.com/item?id=47509984\nPoints: 161\n# Comments: 70"
+    },
+    {
+      "title": "OpenAI、「Sora」終了へ",
+      "url": "https://www.itmedia.co.jp/news/articles/2603/25/news065.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-24T21:42:00+00:00",
+      "summary": "OpenAIは、動画生成AI「Sora」のアプリとAPIの提供終了をXで発表した。Disneyとのライセンス契約も解消される見通しだ。終了の詳細は後日発表予定だが、同社が「スーパーアプリ」などの新たな大規模プロジェクトへリソースを集中させるための戦略的判断と見られている。"
+    },
+    {
+      "title": "日立のフィジカルAI統合モデル「IWIM」の実力は？　試作ロボット2種を公開",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2603/25/news043.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-24T21:30:00+00:00",
+      "summary": "日立製作所は「フィジカルAI体験スタジオ」の先行公開に併せて、現場で自ら学びながら動作を最適化し複雑作業を自動化するフィジカルAI技術を発表するとともに、同技術を実装した試作ロボット2種を公開した。"
+    },
+    {
+      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
+      "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T21:24:33+00:00",
+      "summary": "Article URL: https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead\nComments URL: https://news.ycombinator.com/item?id=47509571\nPoints: 375\n# Comments: 155"
+    },
+    {
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T21:08:10+00:00",
+      "summary": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few months ago. The Wall Street Journal reported the move earlier, saying that OpenAI boss Sam Altman had informed staff that both [&#8230;]"
+    },
+    {
+      "title": "Disney Exits OpenAI Deal After AI Giant Shutters Sora",
+      "url": "https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T21:01:21+00:00",
+      "summary": "Article URL: https://www.hollywoodreporter.com/business/digital/openai-shutting-down-sora-ai-video-app-1236546187/\nComments URL: https://news.ycombinator.com/item?id=47509234\nPoints: 204\n# Comments: 3"
+    },
+    {
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T21:00:30+00:00",
+      "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards."
+    },
+    {
+      "title": "スマホの通知で集中は何秒間乱れるのか？",
+      "url": "https://gigazine.net/news/20260325-smartphone-notification-seven-seconds/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-24T21:00:00+00:00",
+      "summary": "スマートフォンの通知によって集中力がそがれるというのはよく聞く話ですが、実際にどの程度の影響があり、何がその差を生むのかは十分に分かっていませんでした。スイス・ローザンヌ大学の心理学研究員であるイポリット・フルニエ氏らは、スマートフォン風の通知表示を使った実験を行い、通知によって認知処理がどれほどの時間鈍るのかを調査しました。続きを読む..."
+    },
+    {
+      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T20:56:25+00:00",
+      "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify."
+    },
+    {
+      "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T20:43:14+00:00",
+      "summary": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip designed for inference, or running the cloud processing for AI tools like AI agents that can continue to spawn more [&#8230;]"
+    },
+    {
+      "title": "Databricks bought two startups to underpin its new AI security product",
+      "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T20:40:56+00:00",
+      "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai."
+    },
+    {
+      "title": "US expected to send thousands more soldiers to Middle East, sources say",
+      "url": "https://www.reuters.com/world/middle-east/us-expected-send-thousands-soldiers-middle-east-sources-say-2026-03-24/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T20:39:16+00:00",
+      "summary": "Article URL: https://www.reuters.com/world/middle-east/us-expected-send-thousands-soldiers-middle-east-sources-say-2026-03-24/\nComments URL: https://news.ycombinator.com/item?id=47508863\nPoints: 114\n# Comments: 94"
+    },
+    {
+      "title": "Is anybody else bored of talking about AI?",
+      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T20:31:08+00:00",
+      "summary": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/\nComments URL: https://news.ycombinator.com/item?id=47508745\nPoints: 686\n# Comments: 480"
+    },
+    {
+      "title": "GitHub is once again down",
+      "url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T20:23:34+00:00",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/kp06czybl7dw\nComments URL: https://news.ycombinator.com/item?id=47508608\nPoints: 373\n# Comments: 192"
+    },
+    {
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T20:01:05+00:00",
+      "summary": "https://xcancel.com/soraofficialapp/status/20365327959847158...https://www.hollywoodreporter.com/business/digital/openai-sh..., https://archive.ph/ABkeI\n\nComments URL: https://news.ycombinator.com/item?id=47508246\nPoints: 935\n# Comments: 682"
+    },
+    {
+      "title": "GPT-5.4 mini登場　複数エージェントでの開発に最適で安い！……が、実は前世代から3倍値上げ",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2603/25/news017.html",
+      "source": "ITmedia AI+",
+      "category": "ai",
+      "language": "ja",
+      "published": "2026-03-24T20:00:00+00:00",
+      "summary": "GPT-5.4 miniは、マルチエージェント開発に最適な軽量モデルとして登場した。しかし本当に「安くて使える」のか。ベンチマークや価格、実際の開発体験に加え、コミュニティーでの評価も踏まえながら、その実力を検証する。"
+    },
+    {
+      "title": "Arm is releasing the first in-house chip in its 35-year history",
+      "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T19:48:54+00:00",
+      "summary": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer."
+    },
+    {
+      "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+      "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T19:27:56+00:00",
+      "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface."
+    },
+    {
+      "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
+      "url": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T19:12:11+00:00",
+      "summary": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs."
+    },
+    {
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T18:41:34+00:00",
+      "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build."
+    },
+    {
+      "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+      "url": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T18:41:33+00:00",
+      "summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola."
+    },
+    {
+      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+      "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-24T18:34:52+00:00",
+      "summary": "Article URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/\nComments URL: https://news.ycombinator.com/item?id=47507150\nPoints: 1145\n# Comments: 410"
+    },
+    {
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-24T18:17:13+00:00",
+      "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only&#8230;"
+    },
+    {
+      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+      "url": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T17:18:29+00:00",
+      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest."
+    },
+    {
+      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-24T17:13:00+00:00",
+      "summary": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its Gemini AI assistant to purchase clothes on your behalf from any of its stores, which include Gap, Old Navy, Banana [&#8230;]"
+    },
+    {
+      "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+      "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+      "source": "MIT Technology Review",
+      "category": "research",
+      "language": "en",
+      "published": "2026-03-24T16:43:36+00:00",
+      "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos&#8230;"
     }
   ]
 }

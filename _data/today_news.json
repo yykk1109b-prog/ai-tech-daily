@@ -1,7 +1,214 @@
 {
-  "fetched_at": "2026-03-28T15:27:48.589785+00:00",
-  "total_count": 41,
+  "fetched_at": "2026-03-29T12:37:31.609673+00:00",
+  "total_count": 28,
   "articles": [
+    {
+      "title": "無料で広告なしのAndroid画像ビューア「Aves」レビュー、マルチページTIFF・SVG・AVI・モーションフォト・パノラマ画像・360度動画にも対応",
+      "url": "https://gigazine.net/news/20260329-aves/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-29T11:00:00+00:00",
+      "summary": "Androidに標準でインストールされている画像ビューアは、スマホのカメラアプリで撮影した画像を閲覧するだけなら十分な性能があるものの、ダウンロードした画像を見ようとすると対応外フォーマットで表示できないという場面があります。画像ギャラリービューアの「Aves」は無料で使用でき多くのフォーマットやメディアタイプに対応しているとのことで、使用感を実際に確認してみました。続きを読む..."
+    },
+    {
+      "title": "電気自動車スタートアップを率いて価格設定・生産・研究開発・市場調査といった24四半期にわたる経営を体験できるやたらリアルなEVビジネスシミュレーション「VoltStrategist」",
+      "url": "https://gigazine.net/news/20260329-voltstrategist/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-29T09:30:00+00:00",
+      "summary": "VoltStrategistは、電気自動車メーカーの経営者になって会社を24四半期にわたって運営する、ブラウザベースの経営戦略シミュレーションゲームです。アクションゲームやレースゲームではなく、価格設定、生産、研究開発、広告、競合分析といった経営判断を積み重ねながら、市場シェアと利益を伸ばしていくタイプの作品です。続きを読む..."
+    },
+    {
+      "title": "妻のパン屋のために作ったERP「Craftplan」、小ロットの受注生産を念頭にワークフローが設計されておりオープンソースでセルフホスト可能",
+      "url": "https://gigazine.net/news/20260329-craftplan/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-29T09:00:00+00:00",
+      "summary": "会社の運営には給与管理・財務管理・注文管理・在庫管理などさまざまな管理が必要で、企業資源計画(ERP)と呼ばれるシステムを導入すると一元管理できますが、複雑な機能の学習コストやランニングコストなどの負担が大きいため、個人経営のお店や小規模な工場などでは本格的なERPシステムを導入できません。しかし個人のお店レベルであるからこそむしろERPがあればもっと便利なはず、ということで夫が妻のパン屋のために開発したという必要最低限の機能を備えた小規模製造業向けのERPシステム「Craftplan」が、セルフホストに構築可能なオープンソースシステムとして公開されています。続きを読む..."
+    },
+    {
+      "title": "「最適化の最高峰」と名高い遊園地経営シミュレーションゲーム「ローラーコースタータイクーン」は何がスゴいのか？",
+      "url": "https://gigazine.net/news/20260329-rollercoaster-tycoon/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-29T07:00:00+00:00",
+      "summary": "「ローラーコースタータイクーン」は1999年に登場した遊園地経営シミュレーションゲームのシリーズで、2019年にはNintendo Switch/Windows版の「ローラーコースタータイクーン・アドベンチャー」がリリースされています。1999年にリリースされたシリーズ初代の「ローラーコースタータイクーン」は「史上最高レベルに最適化されたゲーム」の一例として語られており、その裏側でどのような工夫が行われていたのかについて、シニアゲームプレイプログラマーのラース・ティーセン氏がコード解析をもとにした詳細な解説を公開しています。続きを読む..."
+    },
+    {
+      "title": "「自分は見た目がいい」と思っている従業員は職場で発言しやすいという研究結果",
+      "url": "https://gigazine.net/news/20260329-feel-attractive-likely-share-ideas-work/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-29T03:00:00+00:00",
+      "summary": "教室や職場の人間関係について考えている時、「見た目がいい人の方が発言権が強いのではないか」と感じたことがあるかもしれません。韓国の研究では、自分の容姿に自信を持っている従業員は職場で積極的に発言し、アイデアを共有する可能性が高いという研究結果が示されました。続きを読む..."
+    },
+    {
+      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
+      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-29T00:53:30+00:00",
+      "summary": "Article URL: https://www.bmj.com/content/387/bmj-2024-082194\nComments URL: https://news.ycombinator.com/item?id=47559481\nPoints: 149\n# Comments: 101"
+    },
+    {
+      "title": "「Kingdom Come: Deliverance II」の開発者が解雇され「AIに取って代わられた」と主張",
+      "url": "https://gigazine.net/news/20260329-kingdom-come-deliverance-2-developer-ai-replacing/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-29T00:00:00+00:00",
+      "summary": "2026年2月時点で累計販売本数500万本を記録している「Kingdom Come: Deliverance II」の開発元であるWarhorse Studiosでローカライズを担当していたマックス・ヘイトマネク氏が、同社を解雇されました。同氏は解雇の理由について「AIに取って代わられた」と主張しています。続きを読む..."
+    },
+    {
+      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
+      "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T23:29:04+00:00",
+      "summary": "Article URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ\nComments URL: https://news.ycombinator.com/item?id=47558997\nPoints: 316\n# Comments: 178"
+    },
+    {
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-28T23:00:00+00:00",
+      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto."
+    },
+    {
+      "title": "海外向けアニメ配信サービス「Crunchyroll」が利用者の視聴履歴を漏洩したとして提訴される",
+      "url": "https://gigazine.net/news/20260329-crunchyroll-lawsuit/",
+      "source": "GIGAZINE",
+      "category": "general",
+      "language": "ja",
+      "published": "2026-03-28T23:00:00+00:00",
+      "summary": "ソニーグループが運営する日本国外向けのアニメ配信サービス「Crunchyroll」が、利用者の視聴履歴をマーケティング企業に共有したとして集団訴訟を提起されました。続きを読む..."
+    },
+    {
+      "title": "Private equity turned vulnerable elderly people into human ATMs",
+      "url": "https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T21:43:00+00:00",
+      "summary": "Article URL: https://www.theguardian.com/society/2026/mar/28/the-great-care-home-cash-grab-how-private-equity-turned-vulnerable-elderly-people-into-human-atms\nComments URL: https://news.ycombinator.com/item?id=47558372\nPoints: 158\n# Comments: 101"
+    },
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-28T20:45:54+00:00",
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be."
+    },
+    {
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T20:39:01+00:00",
+      "summary": "https://cssdoom.wtf/\n\nComments URL: https://news.ycombinator.com/item?id=47557960\nPoints: 383\n# Comments: 89"
+    },
+    {
+      "title": "Android’s new sideload settings will carry over to new devices",
+      "url": "https://www.androidauthority.com/android-sideload-carry-over-3652845/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T20:28:03+00:00",
+      "summary": "Article URL: https://www.androidauthority.com/android-sideload-carry-over-3652845/\nComments URL: https://news.ycombinator.com/item?id=47557901\nPoints: 109\n# Comments: 152"
+    },
+    {
+      "title": "The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T18:42:08+00:00",
+      "summary": "Article URL: https://lzon.ca/posts/other/thoughts-ai-era/\nComments URL: https://news.ycombinator.com/item?id=47557185\nPoints: 190\n# Comments: 112"
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T18:38:59+00:00",
+      "summary": "Knuth Claude's Cycles note update: problem now fully solved, by LLMs - https://news.ycombinator.com/item?id=47306926 - March 2026 (2 comments)https://chatgpt.com/share/69aaab4b-888c-8003-9a02-d1df80f9c7...Claude's Cycles [pdf] - https://news.ycombinator.com/item?id=47230710 - March 2026 (362 comments)\n\nComments URL: https://news.ycombinator.com/item?id=47557166\nPoints: 223\n# Comments: 151"
+    },
+    {
+      "title": "Suno leans into customization with v5.5",
+      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "source": "The Verge AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-28T18:33:10+00:00",
+      "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices [&#8230;]"
+    },
+    {
+      "title": "OpenCiv1 – open-source rewrite of Civ1",
+      "url": "https://github.com/rajko-horvat/OpenCiv1",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T18:22:45+00:00",
+      "summary": "Article URL: https://github.com/rajko-horvat/OpenCiv1\nComments URL: https://news.ycombinator.com/item?id=47557064\nPoints: 159\n# Comments: 45"
+    },
+    {
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T17:39:49+00:00",
+      "summary": "Article URL: https://sytse.com/cancer/\nComments URL: https://news.ycombinator.com/item?id=47556729\nPoints: 1136\n# Comments: 221"
+    },
+    {
+      "title": "Linux is an interpreter",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T16:59:34+00:00",
+      "summary": "Article URL: https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/\nComments URL: https://news.ycombinator.com/item?id=47556359\nPoints: 213\n# Comments: 52"
+    },
+    {
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "source": "TechCrunch AI",
+      "category": "ai",
+      "language": "en",
+      "published": "2026-03-28T16:11:16+00:00",
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week."
+    },
+    {
+      "title": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T15:37:17+00:00",
+      "summary": "Article URL: https://thereallo.dev/blog/decompiling-the-white-house-app\nComments URL: https://news.ycombinator.com/item?id=47555556\nPoints: 542\n# Comments: 198"
+    },
+    {
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T14:49:25+00:00",
+      "summary": "Article URL: https://www.theregister.com/2026/03/27/sycophantic_ai_risks/\nComments URL: https://news.ycombinator.com/item?id=47555090\nPoints: 273\n# Comments: 215"
+    },
     {
       "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
       "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
@@ -12,7 +219,16 @@
       "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year."
     },
     {
-      "title": "TikTok&#8217;s policy for AI ads isn&#8217;t working",
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "source": "Hacker News",
+      "category": "general",
+      "language": "en",
+      "published": "2026-03-28T14:08:33+00:00",
+      "summary": "https://arxiv.org/abs/2602.14270https://www.science.org/doi/10.1126/science.aec8352\n\nComments URL: https://news.ycombinator.com/item?id=47554773\nPoints: 674\n# Comments: 527"
+    },
+    {
+      "title": "Why can’t TikTok identify AI generated ads when I can?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
       "source": "The Verge AI",
       "category": "ai",
@@ -37,339 +253,6 @@
       "language": "ja",
       "published": "2026-03-28T13:00:00+00:00",
       "summary": "ネットワーク管理者の悩みとして、ネットワーク構成図を更新するのが面倒だということがあります。「Scanopy」は、ネットワークをスキャンしてホストやサービスを検出し接続関係をインタラクティブに可視化するツールです。一度設定すればメンテナンスは不要で、ネットワーク構成図を自動的に更新することができます。続きを読む..."
-    },
-    {
-      "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T12:01:27+00:00",
-      "summary": "Article URL: https://github.com/EnriqueLop/legalize-es\nComments URL: https://news.ycombinator.com/item?id=47553798\nPoints: 377\n# Comments: 122"
-    },
-    {
-      "title": "Why OpenAI killed Sora",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-28T12:00:00+00:00",
-      "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and [&#8230;]"
-    },
-    {
-      "title": "SNSやメディアは「ネガティブな情報」を使って人の注意を引きつけている、自分の注意力を取り戻す方法とは？",
-      "url": "https://gigazine.net/news/20260328-digital-media-using-negativity-steal-attention/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-28T12:00:00+00:00",
-      "summary": "現代ではインターネットの普及により、世界中のさまざまな場所で起きている事件や災害、紛争などのネガティブなニュースが、スマートフォンやPCを通して絶え間なく入ってきます。これは、以前は目に入らなかった社会問題を考える機会が得られるという点では有益ですが、ニュースに圧倒されて不安を覚えたり、仕事や趣味に集中できなくなったりするリスクも伴います。そこで、カナダのロイヤル・ローズ大学の行動神経科学者であるメーガン・シップマン氏が、不安をあおるデジタルメディアから自分の注意力を取り戻す方法について解説しました。続きを読む..."
-    },
-    {
-      "title": "Windows 11のUIが本当にヒドイ、存在するべきスライダーが消え去り「0」と「3」しか選択できず項目名も意味不明",
-      "url": "https://gigazine.net/news/20260328-windows-11-ui/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-28T11:56:00+00:00",
-      "summary": "Windows 11の設定をカスタムしていたところ、キーボードの設定画面で「スライダーが正しく表示されない」という問題が発生していることを発見しました。問題を発見した際にフィードバックHubを使ってMicrosoftに報告する手順もまとめておきます。続きを読む..."
-    },
-    {
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T11:49:28+00:00",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lXxmIw9axWw\nComments URL: https://news.ycombinator.com/item?id=47553717\nPoints: 132\n# Comments: 14"
-    },
-    {
-      "title": "2026年春開始の新作アニメ一覧",
-      "url": "https://gigazine.net/news/20260328-anime-2026spring/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-28T11:40:00+00:00",
-      "summary": "放送・配信中のアニメが終わり、入れ替わりに新たな作品が始まる時期がやってきました。2026年春(2026年3月～2026年6月頃)に始まるアニメの数は90本超。過去のリストでショートアニメなどの記載漏れがあったとしても、おそらく今期が過去最高本数とみられます。全作品のPVを見るだけでも相当な時間が必要となります。続きを読む..."
-    },
-    {
-      "title": "Britain today generating 90%+ of electricity from renewables",
-      "url": "https://grid.iamkate.com/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T11:06:44+00:00",
-      "summary": "Article URL: https://grid.iamkate.com/\nComments URL: https://news.ycombinator.com/item?id=47553484\nPoints: 235\n# Comments: 160"
-    },
-    {
-      "title": "Treason in the Futures Markets",
-      "url": "https://paulkrugman.substack.com/p/treason-in-the-futures-markets",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T10:49:44+00:00",
-      "summary": "Article URL: https://paulkrugman.substack.com/p/treason-in-the-futures-markets\nComments URL: https://news.ycombinator.com/item?id=47553403\nPoints: 110\n# Comments: 54"
-    },
-    {
-      "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
-      "url": "https://github.com/J-x-Z/cocoa-way",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T10:06:13+00:00",
-      "summary": "Article URL: https://github.com/J-x-Z/cocoa-way\nComments URL: https://news.ycombinator.com/item?id=47553185\nPoints: 168\n# Comments: 60"
-    },
-    {
-      "title": "A woman’s uterus has been kept alive outside the body for the first time",
-      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
-      "source": "MIT Technology Review",
-      "category": "research",
-      "language": "en",
-      "published": "2026-03-28T09:00:00+00:00",
-      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent&#8230;"
-    },
-    {
-      "title": "Android上でWhisperによる日本語音声入力を実現する「FUTO Voice Input」",
-      "url": "https://gigazine.net/news/20260328-voiceinput/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-28T09:00:00+00:00",
-      "summary": "「FUTO Voice Input」はAndroidデバイス上で OpenAI Whisperによる日本語音声入力を実現し、ソフトキーボードや汎用音声認識APIと連携し音声認識によるテキスト変換を可能にします。続きを読む..."
-    },
-    {
-      "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T08:06:19+00:00",
-      "summary": "Article URL: https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering\nComments URL: https://news.ycombinator.com/item?id=47552562\nPoints: 190\n# Comments: 95"
-    },
-    {
-      "title": "『ドッジ弾平』の娘が闘球に挑むアニメ『炎の闘球女 ドッジ弾子』ティザーPV公開",
-      "url": "https://gigazine.net/news/20260328-dodge-danko-clip/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-28T03:43:00+00:00",
-      "summary": "漫画配信サイト『週刊コロコロコミック』連載で、アニメ化が決定している『炎の闘球女 ドッジ弾子』のティザーPVが公開されました。続きを読む..."
-    },
-    {
-      "title": "お絵描きに特化したWacomのプロ向けペンタブがエヴァとコラボして外観からUIまでエヴァ尽くしになった「Wacom MovinkPad Pro EVA Edition」を撮影しまくってみた",
-      "url": "https://gigazine.net/news/20260328-movinkpad-pro-14-eva-edition/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-28T03:00:00+00:00",
-      "summary": "Wacomが2025年10月にリリースした「Wacom MovinkPad Pro 14」は、描くことに特化したAndroidタブレット「Wacom MovinkPad 11」をプロ向けスペックに性能を高めたものです。そんなWacom MovinkPad Pro 14が「エヴァンゲリオン」シリーズとコラボした「Wacom MovinkPad Pro EVA Edition」が2026年2月26日に登場しました。WacomからWacom MovinkPad Pro EVA Editionを借りることができたため、エヴァンゲリオン尽くしのデザインを撮影しまくってみました。続きを読む..."
-    },
-    {
-      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T02:17:04+00:00",
-      "summary": "Article URL: https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/\nComments URL: https://news.ycombinator.com/item?id=47550878\nPoints: 230\n# Comments: 120"
-    },
-    {
-      "title": "片方だけの鼻づまりは生理現象、その左右は定期的に入れ替わる",
-      "url": "https://gigazine.net/news/20260328-breathe-out-of-one-nostril-cleaned/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-28T02:00:00+00:00",
-      "summary": "鼻には2つの穴がありますが、特に病気になっていないのに片方の鼻の穴がつまっているように感じたことがある人は多いはず。実は空気が通りやすい側と通りにくい側が自然に入れ替わる「鼻周期」が働いており、この仕組みは鼻の粘膜を休ませながら乾燥や刺激を防ぎ、吸い込んだ空気を温めて湿らせる働きを支える重要な生理現象だと、ランカスター大学の解剖学者であるアダム・テイラー氏が説明しています。続きを読む..."
-    },
-    {
-      "title": "Fear and denial in Silicon Valley over social media addiction trial",
-      "url": "https://www.bbc.com/news/articles/c86e3eglv2go",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T01:50:19+00:00",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c86e3eglv2go\nComments URL: https://news.ycombinator.com/item?id=47550726\nPoints: 141\n# Comments: 194"
-    },
-    {
-      "title": "ソニーが半導体不足の影響でSDカードとCFexpressカードの注文受付を一時停止",
-      "url": "https://gigazine.net/news/20260328-sony-temporarily-suspends-memory-card-sales/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-28T01:11:00+00:00",
-      "summary": "2026年3月27日、ソニーが世界的な半導体不足の影響により、需要に対する供給を行えない状況が当面続くことが想定されるため、CFexpressメモリーカードおよびSDメモリーカードの注文受付を一時停止すると発表しました。続きを読む..."
-    },
-    {
-      "title": "Go hard on agents, not on your filesystem",
-      "url": "https://jai.scs.stanford.edu/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-28T00:39:54+00:00",
-      "summary": "Article URL: https://jai.scs.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=47550282\nPoints: 467\n# Comments: 271"
-    },
-    {
-      "title": "アライグマは楽しみのためにパズルを解くと研究で判明",
-      "url": "https://gigazine.net/news/20260328-racoon-solve-puzzle-for-fun/",
-      "source": "GIGAZINE",
-      "category": "general",
-      "language": "ja",
-      "published": "2026-03-27T23:00:00+00:00",
-      "summary": "アライグマは留め具があるようなゴミ箱でも開ける能力があることで知られています。学術誌「Animal Behaviour」に掲載された研究で、アライグマは餌を探すとき意外にも、知的好奇心を満たすためだけにゴミ箱を開けるような動作を行うことが示されました。続きを読む..."
-    },
-    {
-      "title": "Notion、日本と韓国でデータ保管可能に　26年5月から提供開始",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/28/news017.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-27T23:00:00+00:00",
-      "summary": "Notion Labsは、新たに日本と韓国をデータ保管地域に指定すると発表した。AWSを活用し国内保存を選択可能にすることで、企業の内部統制や法規制への対応を支援する。"
-    },
-    {
-      "title": "ドラクエで「対話型AIバディ」誕生　ゲーム業界の機能不全をどう突破するか",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2603/28/news016.html",
-      "source": "ITmedia AI+",
-      "category": "ai",
-      "language": "ja",
-      "published": "2026-03-27T23:00:00+00:00",
-      "summary": "市場拡大の裏で収益悪化に喘ぐゲーム業界。この構造的課題を打破すべく、スクウェア・エニックスとGoogle Cloudが手を組んだ。両社が見すえる、人気作『ドラクエ』を舞台に、生成AIが「敵」から「友」へと変容する未来とは。"
-    },
-    {
-      "title": "Show HN: Twitch Roulette – Find live streamers who need views the most",
-      "url": "https://twitchroulette.net/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T22:22:20+00:00",
-      "summary": "Hey HN, I re-launched an old site I remembered back in the day that someone made called twitchroulette.net with a lot of new features and stats and I would love for people to check it out. The idea is you can easily browse the less browsed parts of twitch and find cool and new streamers to say hi to, and maybe make some new friends.I also added some real time stats and breakdowns per channel and I think some of the things they show are pretty interesting. Check it out!\n\nComments URL: https://news.ycombinator.com/item?id=47549160\nPoints: 156\n# Comments: 86"
-    },
-    {
-      "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-27T21:44:45+00:00",
-      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate."
-    },
-    {
-      "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
-      "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T21:41:41+00:00",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/\nComments URL: https://news.ycombinator.com/item?id=47548670\nPoints: 257\n# Comments: 5"
-    },
-    {
-      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
-      "url": "https://news.ycombinator.com/item?id=47548243",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T21:04:51+00:00",
-      "summary": "This is where you can opt out. It's absurd that they are automatically opting users into this.https://github.com/settings/copilot/features\n\nComments URL: https://news.ycombinator.com/item?id=47548243\nPoints: 690\n# Comments: 303"
-    },
-    {
-      "title": "Slovenia becomes first EU country to introduce fuel rationing",
-      "url": "https://www.bbc.com/news/articles/c77m4zx6zvmo",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T20:51:03+00:00",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c77m4zx6zvmo\nComments URL: https://news.ycombinator.com/item?id=47548087\nPoints: 190\n# Comments: 301"
-    },
-    {
-      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-      "url": "https://github.com/davidmonterocrespo24/velxio",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T20:44:33+00:00",
-      "summary": "Article URL: https://github.com/davidmonterocrespo24/velxio\nComments URL: https://news.ycombinator.com/item?id=47548013\nPoints: 172\n# Comments: 47"
-    },
-    {
-      "title": "Colorado House passes bill to limit surveillance pricing and wage setting",
-      "url": "https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T20:10:42+00:00",
-      "summary": "Article URL: https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/\nComments URL: https://news.ycombinator.com/item?id=47547602\nPoints: 120\n# Comments: 38"
-    },
-    {
-      "title": "ISBN Visualization",
-      "url": "https://annas-archive.gd/isbn-visualization",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T20:02:05+00:00",
-      "summary": "Article URL: https://annas-archive.gd/isbn-visualization?\nComments URL: https://news.ycombinator.com/item?id=47547508\nPoints: 202\n# Comments: 33"
-    },
-    {
-      "title": "Make macOS consistently bad unironically",
-      "url": "https://lr0.org/blog/p/macos/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T19:15:19+00:00",
-      "summary": "Article URL: https://lr0.org/blog/p/macos/\nComments URL: https://news.ycombinator.com/item?id=47547009\nPoints: 465\n# Comments: 325"
-    },
-    {
-      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
-      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-27T19:11:28+00:00",
-      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage."
-    },
-    {
-      "title": "The latest in data centers, AI, and energy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-27T18:35:53+00:00",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160; From audacious plans to launch data centers into [&#8230;]"
-    },
-    {
-      "title": "Iran-linked hackers have breached FBI director's personal emails",
-      "url": "https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T16:42:02+00:00",
-      "summary": "Article URL: https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel\nComments URL: https://news.ycombinator.com/item?id=47545032\nPoints: 153\n# Comments: 3"
-    },
-    {
-      "title": "I am leaving the AI party after one drink",
-      "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T16:41:59+00:00",
-      "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/\nComments URL: https://news.ycombinator.com/item?id=47545030\nPoints: 114\n# Comments: 125"
-    },
-    {
-      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-      "source": "Hacker News",
-      "category": "general",
-      "language": "en",
-      "published": "2026-03-27T16:39:32+00:00",
-      "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying\nComments URL: https://news.ycombinator.com/item?id=47544980\nPoints: 379\n# Comments: 353"
-    },
-    {
-      "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-      "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-      "source": "TechCrunch AI",
-      "category": "ai",
-      "language": "en",
-      "published": "2026-03-27T15:40:19+00:00",
-      "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the real world is starting to push back.&#160; That tension is everywhere [&#8230;]"
     }
   ]
 }
